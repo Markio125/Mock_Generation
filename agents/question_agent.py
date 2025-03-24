@@ -4,6 +4,7 @@ from typing import Dict
 from workflow.state import GraphState
 import config
 from utils.token_tracker import TokenTracker
+from knowledge_base.chunk_selector import ChunkSelector
 
 logger = logging.getLogger(__name__)
 
@@ -44,6 +45,8 @@ class QuestionAgent:
         # 4. Format consistently with the examples provided
         # """
 
+        NCERT_text = str(ChunkSelector.n_chunking(current_topic, target_count))
+
         prompt = f"""
         Generate Business Studies exam questions about the topic/subject asked for by the user.
 
@@ -56,6 +59,11 @@ class QuestionAgent:
            - Correct answer
            - Brief explanation justifying the answer
         4. Format consistently with the examples provided
+        
+        Use the below provided text as information base to prepare the {target_count} questions
+        -------------------------------------------------------------------------
+        {NCERT_text}
+        -------------------------------------------------------------------------
         """
 
         messages = [
