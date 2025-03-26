@@ -4,6 +4,11 @@ import re
 from PyPDF2 import PdfReader
 
 def read_pdfs_from_folder(folder_path):
+    # Add validation for empty folder_path
+    if not folder_path or not isinstance(folder_path, str):
+        print("Invalid folder path")
+        return {}
+    
     pdf_contents = {}
     
     if not os.path.exists(folder_path):
@@ -27,6 +32,10 @@ def read_pdfs_from_folder(folder_path):
     return pdf_contents
 
 def extract_questions(text):
+    # Add validation for empty/invalid text
+    if not text or not isinstance(text, str):
+        return []
+    
     # Split into potential question blocks
     question_blocks = re.split(r'\n\s*\d+\.', text)
     questions = []
@@ -70,6 +79,11 @@ def convert_to_json(pdf_contents, output_path):
 if __name__ == "__main__":
     folder_path = 'pyqs/bst'
     output_path = 'pyqs/questions.json'
+    pdf_contents = read_pdfs_from_folder(folder_path)
+    print(f"Successfully read {len(pdf_contents)} PDF files")
+    
+    if pdf_contents:
+        questions = convert_to_json(pdf_contents, output_path)
     pdf_contents = read_pdfs_from_folder(folder_path)
     print(f"Successfully read {len(pdf_contents)} PDF files")
     

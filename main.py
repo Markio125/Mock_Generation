@@ -46,11 +46,15 @@ def main(corpus_path: str, output_path: str, total_questions: int = 50):
         except Exception as e:
             logger.error(f"Error in vector store initialization: {e}")
             logger.info("Attempting to recreate collection...")
-            vector_store.get_or_create_collection(force_recreate=False)
-            vector_store.initialize_from_corpus(corpus)
+            try:
+                vector_store.get_or_create_collection(force_recreate=True)  # Changed to True
+                vector_store.initialize_from_corpus(corpus)
+            except Exception as inner_e:
+                logger.error(f"Failed to recover from vector store error: {inner_e}")
+                # Consider a more graceful degradation here
         
         # Initialize agents
-        distribution_agent = DistributionAgent(vector_store)
+        distribution_agent = DistributionAgent(vector_store)  # Pass vector_store if needed
         context_agent = ContextAgent(vector_store)
         question_agent = QuestionAgent(token_tracker)
         
