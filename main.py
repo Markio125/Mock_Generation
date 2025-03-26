@@ -21,7 +21,7 @@ def main(corpus_path: str, output_path: str, total_questions: int = 50):
     openai.api_key = config.OPENAI_API_KEY
     token_tracker = TokenTracker()
     vector_store = VectorStore()
-    topic_extractor = TopicExtractor(token_tracker)
+    # topic_extractor = TopicExtractor(token_tracker)
     
     # Initialize final_paper to a default value
     final_paper = {}
