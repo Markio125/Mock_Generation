@@ -38,7 +38,7 @@ def main(corpus_path: str, output_path: str, total_questions: int = 50):
             corpus = []
         
         # Preprocess data
-        detected_topics = topic_extractor.extract_topics(corpus)
+        detected_topics = config.DEFAULT_TOPICS.keys()  #topic_extractor.extract_topics(corpus)
         
         # Handle potential ChromaDB dimension issues
         try:
@@ -46,7 +46,7 @@ def main(corpus_path: str, output_path: str, total_questions: int = 50):
         except Exception as e:
             logger.error(f"Error in vector store initialization: {e}")
             logger.info("Attempting to recreate collection...")
-            vector_store.get_or_create_collection(force_recreate=True)
+            vector_store.get_or_create_collection(force_recreate=False)
             vector_store.initialize_from_corpus(corpus)
         
         # Initialize agents
