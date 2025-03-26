@@ -1,0 +1,660 @@
+{
+  "examTitle": "CUET (UG) 2024 : Business Studies",
+  "sections": [
+    {
+      "sectionNumber": 1,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "Identify the Principle of Management where Taylor pioneered the introduction of method of scientific inquiry into the domain of management practice.",
+          "options": [
+            "Science, not rule of thumb",
+            "Harmony not discord",
+            "Cooperation, not individualism",
+            "Development of each and every person to the greatest efficiency and prosperity"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Match List-I with List-II on the basis of Management Principles:",
+          "listI": {
+            "(A)": "Obedience to organisational rules",
+            "(B)": "One boss for every individual employee",
+            "(C)": "One head and one plan",
+            "(D)": "Remuneration should be just and equitable"
+          },
+          "listII": {
+            "(I)": "Unity of direction",
+            "(II)": "Remuneration of employees",
+            "(III)": "Discipline",
+            "(IV)": "Unity of command"
+          },
+          "instruction": "Choose the correct answer from the options given below:",
+          "correct_answer": 4
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "The aim of which technique given by F.W. Taylor is to reduce a given line or a product to fixed types, sizes and characteristics?",
+          "options": [
+            "Method study",
+            "Time study",
+            "Standardisation of work",
+            "Functional foremanship"
+          ],
+          "correct_answer": 3
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2,
+      "questions": [
+        {
+          "questionNumber": 4,
+          "questionText": "Match List-I with List-II on the basis of Management Principles :",
+          "listI": {
+            "(A)": "Employees turnover should be minimised",
+            "(B)": "Emphasises kindliness and justice",
+            "(C)": "Chain of authority and communication from top to bottom",
+            "(D)": "Promotes team spirit"
+          },
+          "listII": {
+            "(I)": "Stability of personnel",
+            "(II)": "Equity",
+            "(III)": "Espirit de corps",
+            "(IV)": "Scalar chain"
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 5,
+          "questionText": "Under which dimension of business environment is “Online Booking of Air Tickets” included ?",
+          "options": [
+            "Legal dimension",
+            "Economic dimension",
+            "Technical dimension",
+            "Social dimension"
+          ],
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 6,
+          "questionText": "Which of the following is an example of economic environment ?",
+          "options": [
+            "Money supply in economy",
+            "Constitution of the country",
+            "Life expectancy",
+            "Population shifts"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 7,
+          "questionText": "Which of the following is an example of legal environment ?",
+          "options": [
+            "Death/Birth Ratio",
+            "Trade Union Act",
+            "Prevailing Political System",
+            "Public Debt"
+          ],
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 8,
+          "questionText": "Which of the following does *not* characterise business environment ?",
+          "options": [
+            "Inter-related",
+            "External forces",
+            "Market orientation and product",
+            "Relativity"
+          ],
+          "correct_answer": 3
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3,
+      "questions": [
+        {
+          "questionNumber": 9,
+          "questionText": "Identify the correct sequence of steps under the Planning function :",
+          "steps": {
+            "(A)": "Setting objectives",
+            "(B)": "Identifying alternative courses of action",
+            "(C)": "Developing premises",
+            "(D)": "Evaluating alternative courses of action"
+          },
+          "instruction": "Choose the correct answer from the options given below:",
+          "correct_answer": 2
+        },
+        {
+          "questionNumber": 10,
+          "questionText": "Identify the correct sequence of Selection process :",
+          "steps": {
+            "(A)": "Selection decision",
+            "(B)": "Employment interview",
+            "(C)": "Selection tests",
+            "(D)": "Reference checking"
+          },
+          "instruction": "Choose the correct answer from the options given below:",
+          "correct_answer": 4
+        },
+        {
+          "questionNumber": 11,
+          "questionText": "\"It is a joint programme of training in which educational institutions and business firms cooperate.\" Identify the method of training.",
+          "options": [
+            "Vestibule training",
+            "Apprenticeship training",
+            "Internship training",
+            "Job rotation"
+          ],
+          "correct_answer": 3
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4,
+      "questions": [
+        {
+          "questionNumber": 12,
+          "questionText": "Match List-I with List-II on the basis of meaning and name of the concept :",
+          "listI": {
+            "(A)": "Choosing the most appropriate candidate",
+            "(B)": "Candidate is given an introduction to superiors",
+            "(C)": "Learning the skills related to a job",
+            "(D)": "Searching for prospective employees"
+          },
+          "listII": {
+            "(I)": "Selection",
+            "(II)": "Orientation",
+            "(III)": "Recruitment",
+            "(IV)": "Training"
+          },
+          "instruction": "Choose the correct answer from the options given below:",
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 13,
+          "questionText": "Which of the following is a process of incitement or inducing subordinates to act in a desired manner to achieve organisational goals ?",
+          "options": [
+            "Motivation",
+            "Supervision",
+            "Leadership",
+            "Communication"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 14,
+          "questionText": "Find the correct sequence of needs as given by Maslow in his Need Hierarchy Theory.",
+          "needs": {
+            "(A)": "Belongingness needs",
+            "(B)": "Safety and Security needs",
+            "(C)": "Self-actualisation needs",
+            "(D)": "Esteem needs"
+          },
+          "instruction": "Choose the correct answer from the options given below:",
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 15,
+          "questionText": "\"__________ is a process of influencing the behaviour of people by making them strive voluntarily towards achievement of organisational goals.\"",
+          "options": [
+            "Motivation",
+            "Supervision",
+            "Leadership",
+            "Communication"
+          ],
+          "correct_answer": 3
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5,
+      "questions": [
+        {
+          "questionNumber": 16,
+          "questionText": "Which of the following is *not* a limitation of Controlling ?",
+          "options": [
+            "Costly affair",
+            "Resistance from employees",
+            "Ensure order and discipline",
+            "Little control on external factors"
+          ],
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 17,
+          "questionText": "Identify the correct sequence of Controlling process :",
+          "steps": {
+            "(A)": "Analysing deviations",
+            "(B)": "Measurement of actual performance",
+            "(C)": "Setting up standards",
+            "(D)": "Comparison of actual performance with standards"
+          },
+          "instruction": "Choose the correct answer from the options given below:",
+          "correct_answer": 4
+        },
+        {
+          "questionNumber": 18,
+          "questionText": "\"Only a 5% increase in labour cost may be more troublesome than a 15% increase in postal charges.\" Identify the concept pointed out in the statement.",
+          "options": [
+            "Deviation",
+            "Critical point control",
+            "Break-even analysis",
+            "Critical path method"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "questionNumber": 19,
+          "questionText": "Identify the function performed by Financial Market from the following statement : \"Holders of assets can readily sell their financial assets through the mechanism of the financial market.\"",
+          "options": [
+            "Reduce the cost of transactions",
+            "Provide liquidity to financial assets",
+            "Facilitate price discovery",
+            "Mobilisation of savings and channelising them into the most productive uses"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "questionNumber": 20,
+          "questionText": "If any of the parties are not satisfied by the order of _________ , they can appeal against such order to the State Commission on the grounds of facts or law within a period of forty-five days from the date of order.",
+          "options": [
+            "District Commission",
+            "State Commission",
+            "National Commission",
+            "Local Court"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 21,
+          "questionText": "Identify the importance of consumer protection discussed in the following lines \"Business organisations make money by selling goods and providing services to consumers. Thus, consumers form an important group among the many stakeholders of business and like other stakeholders, their interest has to be well taken care of.\"",
+          "options": [
+            "Moral justification",
+            "Business uses society's resources",
+            "Social responsibility",
+            "Long-term interest of business"
+          ],
+          "correct_answer": 3
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6,
+      "questions": [
+        {
+          "questionNumber": 22,
+          "questionText": "Identify the Consumer Right – \"The consumer has the freedom to access variety of products at competitive prices. This implies that the marketers should offer a wide variety of products in terms of quality, brand, prices, size, etc.\"",
+          "options": [
+            "Right to Safety",
+            "Right to Seek Redressal",
+            "Right to be Assured",
+            "Right to Consumer Education"
+          ],
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 23,
+          "questionText": "Identify the method of floatation in Primary Market wherein a company sells securities enbloc at an agreed price to a broker.",
+          "options": [
+            "Rights issue",
+            "Offer for sale",
+            "e-IPOs",
+            "Offer through Prospectus"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "questionNumber": 24,
+          "questionText": "Match List-I with List-II on the basis of meaning and the term :",
+          "listI": {
+            "(A)": "Right to command",
+            "(B)": "Obligation to perform task",
+            "(C)": "Accountability",
+            "(D)": "Basis of management hierarchy"
+          },
+          "listII": {
+            "(I)": "Answerability",
+            "(II)": "Delegation",
+            "(III)": "Authority",
+            "(IV)": "Responsibility"
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "correct_answer": 4
+        },
+        {
+          "questionNumber": 25,
+          "questionText": "Identify the correct sequence of Organising function of management.",
+          "steps": {
+            "(A)": "Establishing authority and reporting relationships",
+            "(B)": "Departmentalisation",
+            "(C)": "Identification and division of work",
+            "(D)": "Assignment of duties"
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "correct_answer": 4
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7,
+      "questions": [
+        {
+          "questionNumber": 26,
+          "questionText": "The formal organisation can be better understood by a study of its features which are as follows :",
+          "features": {
+            "(A)": "It specifies the relationships among various job positions and the nature of their inter-relationship. This clarifies who has to report to whom.",
+            "(B)": "It is a means to achieve the objectives specified in the plans, as it lays down rules and procedures essential for their achievement.",
+            "(C)": "Independent channels of communication without specified direction of flow of information are developed by group members.",
+            "(D)": "It is deliberately designed by the top management to facilitate the smooth functioning of the organisation."
+          },
+          "instruction": "Which of the following options are correct?",
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 27,
+          "questionText": "The informal organisation offers many benefits. Important among them are given below :",
+          "benefits": {
+            "(A)": "Prescribed lines of communication are not followed. Thus, informal organisation leads to faster spread of information as well as quick feedback.",
+            "(B)": "It helps to fulfil the social needs of the members and allows them to find like minded people. This enhances their job satisfaction since it gives them a sense of belongingness in the organisation.",
+            "(C)": "It contributes towards fulfilment of organisational objectives by compensating for inadequacies in the formal organisation.",
+            "(D)": "Unity of command is maintained through an established chain of command."
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "correct_answer": 2
+        },
+        {
+          "questionNumber": 28,
+          "questionText": "Identify the correct sequence of trading & settlement procedure :",
+          "steps": {
+            "(A)": "The investor has to sign a broker client agreement.",
+            "(B)": "The investor has to open a 'Demat' Account.",
+            "(C)": "An order confirmation slip is issued to the investor by the broker.",
+            "(D)": "The broker will then go online and connect to the main stock exchange."
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8,
+      "questions": [
+        {
+          "questionNumber": 29,
+          "questionText": "The market where existing securities are bought and sold is known as __________.",
+          "options": [
+            "Primary market",
+            "Secondary market",
+            "Capital market",
+            "Financial market"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "questionNumber": 30,
+          "questionText": "Qualities of sucessful entrepreneur do *not* include :",
+          "options": [
+            "Initiative",
+            "Self-confidence",
+            "Risk avoider",
+            "Wealth creators"
+          ],
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 31,
+          "questionText": "Identify the function performed by SEBI : \"It controls insider trading, takeover bids and imposes penalties for such practices.\"",
+          "options": [
+            "Protective functions",
+            "Regulatory functions",
+            "Developmental functions",
+            "Preventive functions"
+          ],
+          "correct_answer": "1,2"
+        },
+        {
+          "questionNumber": 32,
+          "questionText": "Financial management aims at choosing the best investment and financing alternatives by focusing on their costs and benefits. Its objective is to:",
+          "options": [
+            "Increase the shareholders' wealth",
+            "Decrease the shareholders' wealth",
+            "Increase the shareholders' capital",
+            "Decrease the shareholders' capital"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 33,
+          "questionText": "A proper matching of funds requirements and their availability is sought to be achieved by __________.",
+          "options": [
+            "Financial planning",
+            "Financial control",
+            "Capital budgeting",
+            "Investment decisions"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 34,
+          "questionText": "Debt is __________ but is more __________ for a business because the payment of interest and the return of principal is obligatory for the business.",
+          "options": [
+            "Cheaper, risky",
+            "Cheaper, safe",
+            "Expensive, risky",
+            "Expensive, safe"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 35,
+          "questionText": "\"Coordination unifies unrelated interests into purposeful work activity.\" Identify the nature of coordination.",
+          "options": [
+            "Coordination is an all pervasive function",
+            "Coordination is a continuous process",
+            "Coordination ensures unity of action",
+            "Coordination integrates group efforts"
+          ],
+          "correct_answer": 4
+        },
+        {
+          "questionNumber": 36,
+          "questionText": "Akash Industries has installed a waste recycling plant in its premises and does not dump their waste material anymore. This plant is providing employment to many people. Identify the objective of management which the company is achieving by doing the aforesaid activity.",
+          "options": [
+            "Social objective",
+            "Economic objective",
+            "Personal objective",
+            "Growth"
+          ],
+          "correct_answer": 1
+        }
+      ]
+    },
+    {
+      "sectionNumber": 9,
+      "questions": [
+        {
+          "questionNumber": 37,
+          "questionText": "\"Management always works by keeping an end result or aim of the organisation. All activities of managers are directed towards the end result.\" From the above statement, identify the feature of management.",
+          "options": [
+            "Management is multidimensional",
+            "Management is continuous",
+            "Management is intangible",
+            "Management is a goal oriented process"
+          ],
+          "correct_answer": 4
+        },
+        {
+          "questionNumber": 38,
+          "questionText": "The key position of top-level management is __________.",
+          "options": [
+            "Managing Director",
+            "Production Manager",
+            "Marketing Manager",
+            "Plant Supervisor"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 39,
+          "questionText": "Match List-I with List-II.",
+          "listI": {
+            "(A)": "Intelligence test",
+            "(B)": "Aptitude test",
+            "(C)": "Personality test",
+            "(D)": "Trade test"
+          },
+          "listII": {
+            "(I)": "Indicator of a person's capacity to develop",
+            "(II)": "Clues to a person's emotions, values, etc.",
+            "(III)": "Measure existing skills of the individual",
+            "(IV)": "Indicator of a person's learning ability and ability to make judgements"
+          },
+          "correct_answer": 2
+        },
+        {
+          "questionNumber": 40,
+          "questionText": "Which of the following are advantages of functional structure of an organisation?",
+          "advantages": {
+            "(A)": "Leads to occupational specialisation.",
+            "(B)": "Places less emphasis on organisational objectives.",
+            "(C)": "Promotes coordination and control within a department.",
+            "(D)": "Increases operational efficiency."
+          },
+          "correct_answer": 3
+        }
+      ]
+    },
+    {
+      "sectionNumber": 10,
+      "caseStudy": {
+        "title": "\"Just Foodie\" Case Study",
+        "text": "\"Just Foodie\" is a food chain offering different snacks like chips, biscuits, chocochip cookies, cakes, etc. through their own retail outlets. To make their products available to customers at right time, right place, they are also selling their products to grocery stores in addition to their own outlets. The taste, quality and packing are given utmost care. They are offering good quality, so they are able to charge higher price than their competitors. To increase their sales, they are using different offers like : Free gifts, Cash backs, etc. They are offering discounts to customers on various occasions. All these considerations have made \"Just Foodie\" a complete success and they are able to win over different competitors in the market, and their market share is rising continuously."
+      },
+      "questions": [
+        {
+          "questionNumber": 41,
+          "questionText": "In the above case \"Just Foodie\" is using various variables of Marketing Mix. Identify the variable used in the following statement : \"To make their products available to customers at right time, right place, they are also selling their products to grocery stores in addition to their own outlets.\"",
+          "options": [
+            "Product",
+            "Price",
+            "Promotion",
+            "Physical distribution"
+          ],
+          "correct_answer": 4
+        },
+        {
+          "questionNumber": 42,
+          "questionText": "Identify the element of marketing mix in the following statement : \"The taste, quality and packing are given utmost care.\"",
+          "options": [
+            "Product mix",
+            "Price mix",
+            "Promotion mix",
+            "Physical distribution mix"
+          ],
+          "correct_answer": 1
+        },
+        {
+          "questionNumber": 43,
+          "questionText": "\"They are able to charge higher price than their competitors.\" Which element of marketing mix is discussed in the statement ?",
+          "options": [
+            "Product mix",
+            "Price mix",
+            "Promotion mix",
+            "Physical distribution mix"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "questionNumber": 44,
+          "questionText": "\"To increase their sales, they are using different offers like : Free gifts, Cash backs etc. They are offering discounts to customers on various occasions.\" Identify the marketing mix element from the above statement.",
+          "options": [
+            "Product mix",
+            "Price mix",
+            "Promotion mix",
+            "Physical distribution mix"
+          ],
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 45,
+          "questionText": "\"To increase their sales, they are using different offers like : Free gifts, Cash backs etc. They are offering discounts to customers on various occasions.\" Which tool of the promotion mix is used in the given statement?",
+          "options": [
+            "Advertisement",
+            "Sales promotion",
+            "Personal selling",
+            "Publicity"
+          ],
+          "correct_answer": 2
+        }
+      ]
+    },
+    {
+      "sectionNumber": 11,
+      "caseStudy": {
+        "title": "A Maharatna Company, Indian Oil",
+        "text": "Indian Oil is India's largest commercial organisation. It is the top ranked Indian company in the Fortune 'Global 500' listings (2017). Indian Oil's vision is driven by a group of dynamic leaders, who have made it a name to reckon with. With an over 34,000 strong workforce, a Maharatna Company, Indian Oil has been helping to meet India's energy demands and reaching petroleum products in every part of India for over five decades. \n• It plans to increase its business operations all around the world.\n• The company plans to invest ₹ 20,000 crore in 2017 – 18 acquisitions and plans to expand overseas. The company is always believed to be ahead of the demand. Last year too, IOC had invested close to ₹ 20,000 crore, including around ₹ 16,000 crore in various Indian projects and on acquisition for upstream in Russia.\n• The company believed that if the goals are well defined, employees are aware of what the organisation has to do and what they must do to achieve those goals.\n• Changes or events cannot be eliminated, but they can be anticipated and managerial responses to them can be developed. Policy formation serves as the basis of coordinating the activities and efforts of different divisions, departments and individuals.\n• It helps in avoiding confusion and misunderstanding. Manager can look into the future and make a choice from amongst various alternative courses of action."
+      },
+      "questions": [
+        {
+          "questionNumber": 46,
+          "questionText": "Identify the function of management highlighted in the above case.",
+          "options": [
+            "Organising",
+            "Staffing",
+            "Directing",
+            "Planning"
+          ],
+          "correct_answer": 4
+        },
+        {
+          "questionNumber": 47,
+          "questionText": "\"If the goals are well defined, employees are aware of what the organisation has to do and what they must do to achieve those goals.\" Identify the significance of managerial function highlighted in this statement.",
+          "options": [
+            "Facilitates decision making",
+            "Reduces overlapping and wasteful activities",
+            "Reduces risks of uncertainty",
+            "Provides direction"
+          ],
+          "correct_answer": 4
+        },
+        {
+          "questionNumber": 48,
+          "questionText": "\"Changes or events cannot be eliminated, but they can be anticipated and managerial responses to them can be developed.\" Identify the significance of managerial function highlighted in this statement.",
+          "options": [
+            "Provides direction",
+            "Reduces risks of uncertainty",
+            "Reduces overlapping and wasteful activities",
+            "Facilitates decision making"
+          ],
+          "correct_answer": 2
+        },
+        {
+          "questionNumber": 49,
+          "questionText": "\"Policy formation serves as the basis of coordinating the activities and efforts of different divisions, departments and individuals. It helps in avoiding confusion and misunderstanding.\" Identify the significance of managerial function highlighted in this statement.",
+          "options": [
+            "Facilitates decision making",
+            "Reduces risks of uncertainty",
+            "Provides direction",
+            "Reduces overlapping and wasteful activities"
+          ],
+          "correct_answer": 3
+        },
+        {
+          "questionNumber": 50,
+          "questionText": "\"Manager can look into the future and make a choice from amongst various alternative courses of action.\" Identify the significance of managerial function highlighted in this statement.",
+          "options": [
+            "Provides direction",
+            "Reduces risks of uncertainty",
+            "Reduces overlapping and wasteful activities",
+            "Facilitates decision making"
+          ],
+          "correct_answer": 4
+        }
+      ]
+    }
+  ]
+}

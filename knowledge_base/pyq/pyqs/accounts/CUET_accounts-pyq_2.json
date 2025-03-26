@@ -1,0 +1,624 @@
+{
+  "examTitle": "Previous Year Paper 5th June 2023 (Shift 1)",
+  "testBookletCode": null,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "A firm's balance sheet shows the following: Workmen Compensation Reserve ₹70,000 Workmen Compensation claim ₹90,000 State the journal entry to be passed at the time of Reconstitution of firm",
+      "options": [
+        "Debit Workmen Compensation Reserve A/c 70,000 and Revaluation A/c 20,000; Credit Workmen Compensation claim ₹90,000",
+        "Debit Workmen Compensation Reserve A/c *90,000; Credit Workmen Compensation A/c ₹90,000",
+        "Debit Workmen Compensation Reserve A/c ₹70,000; Credit Workmen Compensation A/c ₹70,000;",
+        "Debit Workmen Compensation claim A/c ₹70,000 and Realisation A/c 20,000; Credit Workmen Compensation Reserve ₹90,000"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "Match List - I with List - II.",
+      "listI": {
+        "A": "Debenture Suspense Account",
+        "B": "Current maturities of Debts",
+        "C": "Discount on Issue of Debentures",
+        "D": "Interest on Debentures written off"
+      },
+      "listII": {
+        "I": "Statement of Profit & Loss",
+        "II": "Section 53 of Companies Act 2013",
+        "III": "Collateral Security",
+        "IV": "Other Current liabilities"
+      },
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "Current account of each partner is debited by the amount of:",
+      "options": [
+        "Drawings out of capital",
+        "Interest on drawings",
+        "Fresh capital introduced",
+        "Interest allowed on capital"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "The ideal ratio for Current Ratio and Quick Ratio respectively are:",
+      "options": [
+        "1:1",
+        "2:1",
+        "no ideal ratio",
+        "1:2",
+        "1:3"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "The two basic measures of liquidity are:",
+      "options": [
+        "Inventory turnover ratio and Current Ratio",
+        "Current Ratio and Liquid Ratio",
+        "Gross Profit Margin and Operating Ratio",
+        "Current Ratio and Average Collection Period"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "Which of the following is not a limitation of Ratio Analysis?",
+      "options": [
+        "Comparative Analysis is possible.",
+        "Price-level changes are ignored.",
+        "Problem areas may be identified.",
+        "Variations in Accounting Practices.",
+        "Enables SWOT Analysis."
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "State the order in which final accounts of a partnership firm are prepared:",
+      "options": [
+        "Profit and Loss A/c",
+        "Balance Sheet",
+        "Trading A/c",
+        "Profit & Loss Appropriation A/c",
+        "Partners' Capital Accounts"
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "Ravi and Kishan are partners sharing profits and losses in the ratio of 3: 2. They admitted Mohan as a new partner. Ravi surrendered 1/5 th of his share and Kishan surrendered 1/5 th of his share in favour of Mohan. The new profit sharing ratio will be:",
+      "options": [
+        "2:1:2",
+        "3:2:1",
+        "9:8:8",
+        "5:3:2"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "In the absence of partnership deed which of the following rule is followed:",
+      "options": [
+        "Interest on Capital is allowed @ 6% p.a.",
+        "Interest on drawing are charged @ 6% p.a.",
+        "Profits and Losses are shared equally",
+        "Profits and Losses are shared according to capital contribution"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "At the time of change in profit sharing ratio, existing goodwill is written off among the partners in:",
+      "options": [
+        "Sacrificing Ratio",
+        "Equal Ratio",
+        "Old Ratio",
+        "Gaining Ratio"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "Identify what is displayed by clicking anywhere in the chart?",
+      "options": [
+        "Key Tip",
+        "Screen Tip",
+        "Chart Tools",
+        "Chart Layout"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "Jaron, a partner in IT Travels withdrew same amount of money at the end of each quarter, for his personal use. The firm charged ₹465 as interest on his drawings. Interest on drawings is to be charged at 8% per annum. What amount was withdrawn by him at the end of each quarter?",
+      "options": [
+        "₹15,500",
+        "₹3,875",
+        "₹2,235",
+        "₹9,300"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "Arrange the following in correct order in the process of Issue and Forfeiture of shares:",
+      "elements": {
+        "A": "Issue of prospectus",
+        "B": "Allotment of shares",
+        "C": "Calls in arrears",
+        "D": "Receipt of applications",
+        "E": "Forfeiture of shares"
+      },
+      "options": [
+        "(D), (B), (A), (C), (E)",
+        "(A), (B), (C), (D), (E)",
+        "(C), (B), (D), (A), (E)",
+        "(A), (D), (B), (C), (E)"
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "__________ cell is the rate for PMT function where = PMT(C8, C9, C10, C11, C12)",
+      "options": [
+        "C8",
+        "C9",
+        "C10",
+        "C12"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "Match List - I with List - II.",
+      "listI": {
+        "A": "Receipt and Payment account",
+        "B": "Income and Expenditure account",
+        "C": "Subscription",
+        "D": "Machinery"
+      },
+      "listII": {
+        "I": "Accrual Basis",
+        "II": "Capital Item",
+        "III": "Cash Basis",
+        "IV": "Revenue Item"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "Arrange the following items in correct order as per statement of Profit and Loss of a company:",
+      "elements": {
+        "A": "Changes in inventories of finished goods",
+        "B": "Finance Cost",
+        "C": "Cost of materials consumed",
+        "D": "Depreciation and Amortisation",
+        "E": "Employees Benefit Expenses"
+      },
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "State the accounting treatment of grant received by a Charitable Hospital:",
+      "options": [
+        "Credited to Income & Expenditure Account",
+        "Debited to Income & Expenditure Account",
+        "Shown as Asset in Balance Sheet",
+        "Shown as Liability in Balance Sheet"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "In case the net profits made during the year by a company are ₹50,000 and bills payable have increased by ₹10,000 during the year then the cash flow from operating activities for the company will be:",
+      "options": [
+        "₹60,000",
+        "₹40,000",
+        "₹50,000",
+        "₹70,000"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "Identify from the following, which excludes capital nature items?",
+      "options": [
+        "Receipt and Payment Account",
+        "Income and Expenditure Account",
+        "Balance Sheet",
+        "Fund Flow Statement"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "Match List - I with List - II.",
+      "listI": {
+        "A": "Operating Activities",
+        "B": "Investing Activities",
+        "C": "Financing Activities",
+        "D": "Cash and Cash Equivalents"
+      },
+      "listII": {
+        "I": "Dividend Received",
+        "II": "Current Investment",
+        "III": "Payment to Suppliers",
+        "IV": "Interest on Debentures"
+      },
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 21,
+      "questionText": "Application money should be at least __________ of the face value of share.",
+      "options": [
+        "10%",
+        "15%",
+        "5%",
+        "20%"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 22,
+      "questionText": "Identify the option which is not appropriate related to goodwill of a partnership firm, its features and also its treatment.",
+      "options": [
+        "Goodwill is a fictitious asset not an intangible asset.",
+        "There are only two types of Goodwill. One is purchased goodwill and another self generated goodwill.",
+        "Goodwill of the firm can be affected due to favourable location and good contracts.",
+        "Accounting standard-26 is applicable for the treatment of Goodwill."
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 23,
+      "questionText": "Which of the following are facts about Debentures?",
+      "elements": {
+        "A": "Specified rate of interest on debentures is also called the specific coupon rate debenture",
+        "B": "Convertible debentures can be converted into equity shares",
+        "C": "Debentureholders are the owners of a company",
+        "D": "Debenture includes debenture inventory and bonds",
+        "E": "Irredeemble debentures are also known as perpetual debentures"
+      },
+      "options": [
+        "(A), (B), (C) and (D) only",
+        "(A), (B), (C) and (E) only",
+        "(A), (B), (D) and (E) only",
+        "(A), (C), (D) and (E) only"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 24,
+      "questionText": "Firm's capital in a business is ₹2,00,000. The normal rate of return on firm capital is 15%. During the year the firm earned a profit of ₹48,000. Calculate goodwill on the basis of 3 years purchase of super profit",
+      "options": [
+        "₹54,000",
+        "₹1,44,000",
+        "₹90,000",
+        "₹18,000"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 25,
+      "questionText": "Identify the correct sequence for the categories of Equity Share Capital",
+      "options": [
+        "Called up Capital",
+        "Authorized Capital",
+        "Issued Capital",
+        "Paid up Capital",
+        "Subscribed Capital"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 26,
+      "questionText": "Identify out of the following that means the term 'Record' as applied to a database table:",
+      "options": [
+        "Vertical Column of the table",
+        "Size of the Table",
+        "Horizontal row of the table",
+        "Name of the table"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 27,
+      "questionText": "A company maintains average inventory of ₹1,20,000. Its inventory turnover ratio is 6 times. If company sells goods at a gross profit of 25% on revenue from operations. Find out revenue from operations:",
+      "options": [
+        "₹7,20,000",
+        "₹9,60,000",
+        "₹2,40,000",
+        "₹8,40,000"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 28,
+      "questionText": "Identify the amount of net cash flow from financing activities on the basis of following Information:",
+      "entries": {
+        "Equity Share Capital": {
+          "31st March 2023": "₹35,00,000",
+          "1st April 2022": "₹28,00,000"
+        },
+        "Bank Loan": {
+          "31st March 2023": "₹5,50,000",
+          "1st April 2022": "₹12,50,000"
+        },
+        "Bank loan raised during the year": "₹2,00,000"
+      },
+      "options": [
+        "₹2,00,000 inflow",
+        "₹4,00,000 inflow",
+        "₹2,00,000 outflow",
+        "₹4,00,000 outflow"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 29,
+      "questionText": "The liquidity and solvency of a company are measured by",
+      "options": [
+        "Current ratio",
+        "Profitability ratio",
+        "Inventory Turnover ratio",
+        "Debt Equity ratio",
+        "Gross Profit ratio"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 30,
+      "questionText": "Which of the following is not included in non current liabilities?",
+      "options": [
+        "Trade Payables",
+        "Deferred tax Liabilities",
+        "Long term Provision",
+        "Other long term Liabilities"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 31,
+      "questionText": "Match List - I with List - II.",
+      "listI": {
+        "A": "Retirement",
+        "B": "Admission",
+        "C": "Absence of Partnership Deed",
+        "D": "Dissolution of Partnership firm"
+      },
+      "listII": {
+        "I": "Sacrifice made by old partners",
+        "II": "Equal Profit Sharing",
+        "III": "Gaining Ratio to continued partner",
+        "IV": "Settlement of Accounts"
+      },
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 32,
+      "questionText": "Match List - I with List - II.",
+      "listI": {
+        "A": "Stock options outstanding account",
+        "B": "Bank term loan",
+        "C": "Provision for Tax",
+        "D": "Loose tools"
+      },
+      "listII": {
+        "I": "Current Liabilities",
+        "II": "Current Assets",
+        "III": "Non-Current Liabilities",
+        "IV": "Shareholders Fund"
+      },
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 33,
+      "questionText": "Identify the group that represents grouping of accounts based on classification of data point of view:",
+      "options": [
+        "Asset, Liabilities and Capital",
+        "Asset, Owners Equity, Revenue and Expenses",
+        "Asset, Liabilities, Capital, Revenue and Expenses",
+        "Asset, Liabilities, Revenue and Expenses"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 34,
+      "questionText": "A business has earned average profits of ₹2,50,000 during the last few years. The firm has assets of 25,00,000 and external liabilities of ₹4,50,000. The similar business has rate of return of 10%. Calculate value of Goodwill by Capitalisation method:",
+      "options": [
+        "₹4,50,000",
+        "₹5,00,000",
+        "₹2,50,000",
+        "₹3,50,000"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 35,
+      "questionText": "Lal, Bal and Pal were partners sharing profit & loss in ratio 5:3:2. Bal retired, Lal and Pal decided to share future profit & loss in the ratio 2: 1. Determine the Gaining ratio between Lal and Pal:",
+      "options": [
+        "5:2",
+        "5:4",
+        "1:1",
+        "2:1"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 36,
+      "questionText": "The directors of Y limited forfeited 200 preference shares of ₹100 each for non-payment of call money of ₹30 per share. Out of this 150 were reissued at ₹60 per share as fully paid up. Find the amount transferred to capital reserve.",
+      "options": [
+        "₹6,000",
+        "₹4,500",
+        "₹10,500",
+        "₹3,500"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 37,
+      "questionText": "Which account is to be debited to transfer the share of deceased partner for the intervening period:",
+      "options": [
+        "Profit and Loan account",
+        "Profit and Loan Suspense account",
+        "Deceased Partner's Capital account",
+        "Surviving Partner Current account"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 38,
+      "questionText": "Write the correct sequential order of various sub heads under Current Assets:",
+      "elements": {
+        "A": "Inventories",
+        "B": "Trade Receivables",
+        "C": "Cash and Cash equivalents",
+        "D": "Other Current Assets",
+        "E": "Current Investments"
+      },
+      "options": [
+        "(A), (B), (C), (D), (E)",
+        "(B), (C), (A), (D), (E)",
+        "(D), (B), (A), (C), (E)",
+        "(E), (A), (B), (C), (D)"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 39,
+      "questionText": "Comparative Statements are also known as:",
+      "options": [
+        "Horizontal Analysis",
+        "Ratio Analysis",
+        "Cash Flow Analysis",
+        "Vertical Analysis"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 40,
+      "questionText": "Himanshi and Nisha are partners in a firm sharing profit in the ratio of 3: 2. There capital were ₹80,000 and ₹50,000 Respectively. They admitted Shikha on",
+      "options": [
+        "₹60,000",
+        "₹1,10,000",
+        "₹1,90,000",
+        "₹3,00,000"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 41,
+      "questionText": "Calculate amount realised from plant:",
+      "options": [
+        "₹34,500",
+        "₹36,000",
+        "₹39,000",
+        "₹1,30,000"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 42,
+      "questionText": "Record journal entry relating to realisation expenses:",
+      "options": [
+        "Realisation A/c Dr. ₹1,500 To Bank A/c ₹1,500",
+        "Realisation A/c Dr. ₹1,500 To Manav's capital A/c ₹1,500",
+        "Manav's Capital A/c Dr. ₹1,500 To Bank A/c ₹1,500",
+        "No need to record the journal entry"
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 43,
+      "questionText": "Calculate amount paid to creditors:",
+      "options": [
+        "₹29,850",
+        "₹30,000",
+        "₹28,200",
+        "₹29,400"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 44,
+      "questionText": "Calculate amount realised from Debtors:",
+      "options": [
+        "₹12,000",
+        "₹19,000",
+        "₹6,000",
+        "₹10,000"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 45,
+      "questionText": "Workman Compensation Reserve will be transferred to:",
+      "options": [
+        "Credit side of Partners' Capital A/c",
+        "Credit side of Realisation A/c",
+        "Debit side of Realisation A/c",
+        "Debit side of Partner's Capital A/c"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 46,
+      "questionText": "Which of the following correctly explains the meaning of collateral security?",
+      "options": [
+        "Primary security mortgaged against a loan",
+        "Additional security mortgaged against a loan",
+        "Additional security mortgaged against loan, which is put to use only when primary security remains insufficient to cover up default on repayment of loan",
+        "Any security mortgaged against a loan"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 47,
+      "questionText": "Which of the following cannot be considered as issue of debentures for consideration other than cash?",
+      "options": [
+        "Issue of Debentures to vendor of fixed assets bought on credit",
+        "Issue of Debentures to Underwriters",
+        "Issue of Debentures to Promoters.",
+        "Issue of Debentures to Public"
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 48,
+      "questionText": "By what amount debentures interest account be debited, if debenture interest is payable annually?",
+      "options": [
+        "₹5,10,000",
+        "₹4,00,000",
+        "₹4,60,000",
+        "₹5,70,000"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 49,
+      "questionText": "Number of debentures issued to Beta Ltd. is",
+      "options": [
+        "₹25,000",
+        "₹30,000",
+        "₹41,000",
+        "₹26,000"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 50,
+      "questionText": "\"Loss on issue of Debentures\" will be:",
+      "options": [
+        "₹1,00,000",
+        "₹2,00,000",
+        "₹5,00,000",
+        "₹4,00,000"
+      ],
+      "correct_answer": "c"
+    }
+  ]
+}

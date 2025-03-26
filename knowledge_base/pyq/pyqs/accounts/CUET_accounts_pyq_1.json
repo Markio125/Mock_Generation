@@ -1,0 +1,666 @@
+{
+  "examTitle": "Previous Year Paper 1st June 2023 (Shift 1)",
+  "testBookletCode": null,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "questionText": "On dissolution of a firm of A and B, Mrs. A's loan will be transferred to:",
+      "options": [
+        "Cash A/c",
+        "Bank A/c",
+        "Realisation A/c",
+        "A's Capital A/c"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "Rearrange the following items of \"Equity and Liabilities\" head of Balance Sheet in an order as prescribed in Companies Act 2013, Schedule III.",
+      "elements": {
+        "A": "Current Liabilities",
+        "B": "Shareholders' funds",
+        "C": "Share application money pending allotment",
+        "D": "Non-Current Liabilities"
+      },
+      "options": [
+        "(B), (C), (D), (A)",
+        "(C), (B), (A), (D)",
+        "(A), (B), (C), (D)",
+        "(D), (C), (A), (B)"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "Match List - I with List - II.",
+      "listI": {
+        "a": "MS Access",
+        "b": "DBMS",
+        "c": "Field",
+        "d": "Record"
+      },
+      "listII": {
+        "1": "Horizontal row of the table",
+        "II": "Vertical column of the table",
+        "III": "Data Base management software",
+        "IV": "Data Base management system"
+      },
+      "options": [
+        "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)",
+        "(A)-(IV), (B)-(III), (C)-(II), (D)-(1)",
+        "(A)-(III), (B)-(IV), (C)-(II), (D)-(1)",
+        "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "A, B and C are partners sharing profits and losses in the ratio of 4: 3:2. B retires and the goodwill is valued at 1,08,000. A and C decided to share future profits and losses in the ratio of 5: 3. Record necessary journal entry.",
+      "options": [
+        "A's capital A/c Dr ₹18,000; C's capital A/c Dr ₹18,000; To B's capital A/c ₹36,000",
+        "A's capital A/c Dr. ₹67,500; B's capital A/c Dr. ₹40,500; To C's capital A/c ₹1,08,000",
+        "B's capital A/c Dr. ₹36,000; To A's capital A/c ₹19,500; To C's capital A/c ₹16,500",
+        "A's capital A/c Dr. ₹19,500; C's capital A/c Dr. ₹16,500; To B's capital A/c ₹36,000; To C's capital A/c ₹16,500"
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "Identify the option, of which cash and cash equivalent comprises as per AS-3, in addition to cash in hand, from the following?",
+      "options": [
+        "Short term loans and advances",
+        "Trade Receivables",
+        "Demand Deposits",
+        "Non-Trade Investment"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "Avtar Ltd. invited application for 80,000 shares of ₹10 each payable 5/-. on Application, 3/- on allotment and 2/- on call. Public had applied for 2,50,000 shares out of which application for 30,000 shares were rejected and remaining were allotted on pro- rata basis. Excess application money was adjusted against allotment only. Determine the amount to be refunded at the time of allotment of shares.",
+      "options": [
+        "₹1,50,000",
+        "₹6,10,000",
+        "₹4,60,000",
+        "₹4,50,000"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "Which one of the following is not the component of Computerized Accounting System?",
+      "options": [
+        "Procedure",
+        "Report",
+        "People",
+        "Software"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "A company issued 2,500, 9% Debentures of ₹100 each to public, on 1st April 2021; 3,500 8% debentures of *100 each to vendor on 1st July, 2021 and on the same date 5,000 7%, Debentures of 100 each as a Collateral Security. Calculate the Interest on Debentures for the year ending 31st March, 2022.",
+      "options": [
+        "₹50,500",
+        "₹85,500",
+        "₹43,500",
+        "₹69,750"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "Which of the following is/are fact(s) about dissolution of the partnership firm?",
+      "elements": {
+        "A": "The business of the firm is closed.",
+        "B": "Assets are sold and liabilities are paid off.",
+        "C": "A firm can be dissolved by the court's order.",
+        "D": "The books of accounts are closed.",
+        "E": "Economic relationship between the partners continues though in a changed form."
+      },
+      "options": [
+        "(A), (B), (C) and (D) only",
+        "(A), (B), (C) and (E) only",
+        "(A), (B), (D) and (E) only",
+        "(A), (B), (D) and (C) only"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "Identify the sub-head under which Debenture Redemption Reserve is shown in Balance Sheet of a Company as per Companies Act 2013.",
+      "options": [
+        "Reserve and Surplus",
+        "Other Long-Term Liabilities",
+        "Other Current",
+        "Share Capital"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 11,
+      "questionText": "Securities Premium Reserve can be used for the following purposes:",
+      "elements": {
+        "A": "To issue fully paid bonus shares",
+        "B": "To write-off preliminary expenses of the company",
+        "C": "To pay premium on the redemption of preference shares and debentures of the company",
+        "D": "To distribute as a dividend to share holders",
+        "E": "To write-off company losses"
+      },
+      "options": [
+        "(A), (B) and (E) only",
+        "(A), (B) and (D) only",
+        "(A), (B) and (C) only",
+        "(C), (D) and (E) only"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 12,
+      "questionText": "Calls in advance is shown as __________ in the Company's Balance Sheet.",
+      "options": [
+        "Non-Current Liability",
+        "Current Liability",
+        "Part of Share Capital",
+        "Current Assets"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 13,
+      "questionText": "Identify the tool of financial statement analysis that represent relationship between two accounting figures.",
+      "options": [
+        "Comparative statement",
+        "Common size statement",
+        "Ratio Analysis",
+        "Cash flow statement"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 14,
+      "questionText": "The current ratio of a firm is 3: 1. Identify how the payment of current liability will affect it.",
+      "options": [
+        "Improve current ratio",
+        "Reduce current ratio",
+        "No change in current ratio",
+        "Will affect the solvency ratio"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 15,
+      "questionText": "Select the command that allows to reserve an undo command.",
+      "options": [
+        "Redo",
+        "Reverse",
+        "Reset",
+        "Revert"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 16,
+      "questionText": "In the absence of partnership deed:",
+      "elements": {
+        "A": "Partners are allowed interest on capital @6% p.a.",
+        "B": "Partners are allowed interest on loan advanced by them @ 6% p.a.",
+        "C": "Partners are allowed salary, if they are working partners.",
+        "D": "Profits are shared according to capital ratio.",
+        "E": "Profits are shared in equal ratio."
+      },
+      "options": [
+        "(A) and (C) only",
+        "(B) and (C) only",
+        "(B) and (E) only",
+        "(C) and (D) only"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 17,
+      "questionText": "From the following statements, select the ones which relate to Income and Expenditure A/c:",
+      "elements": {
+        "A": "Provides opening and closing cash balances",
+        "B": "Prepared on accrual basis of accounting",
+        "C": "Records expenditures of revenue nature only.",
+        "D": "Records expenditures of revenue as well as capital nature",
+        "E": "Records non cash transactions such as depreciation"
+      },
+      "options": [
+        "(A), (D) and (E) only",
+        "(B), (C), (D) and (E) only",
+        "(B), (C) and (E) only",
+        "(C), (D) and (E) only"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "questionNumber": 18,
+      "questionText": "Which of the following is/are fact(s) related to cash flows from Operating Activities and Investing Activities?",
+      "elements": {
+        "A": "Receipt from interest and dividends will lead to cash inflow under Operating Activities",
+        "B": "Receipt from royalties, fees etc. are cash inflows under Operating Activities",
+        "C": "Payment of employee benefit expenses are cash outflow under Operating Activities",
+        "D": "Payment for purchase of plant leads to cash outflow under Investing Activities",
+        "E": "Payment of taxes are considered as cash outflow under Financing Activities"
+      },
+      "options": [
+        "(A), (B) and (C) only",
+        "(B), (C) and (D) only",
+        "(C), (A), (D) and (E)",
+        "(C), (D) and (E) only"
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "questionNumber": 19,
+      "questionText": "Identify the expense that is considered finance cost for a firm.",
+      "options": [
+        "Selling expenses",
+        "Administrative expenses",
+        "Dividend",
+        "Interest"
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 20,
+      "questionText": "Codification of accounts is required for the purpose of:",
+      "options": [
+        "Hierarchical relationship between groups and components",
+        "Faster data processing and preparing of final accounts",
+        "Keeping data and information recorded",
+        "Simplicity"
+      ],
+      "correct_answer": "a"
+    },
+    {
+      "questionNumber": 21,
+      "questionText": "With the help of following information of a company, calculate Cash Flow from Financing Activities",
+      "data": {
+        "Long term loans": {
+          "April 1, 2016": "₹2,00,000",
+          "March 31, 2017": "₹2,50,000"
+        },
+        "text": "During the year the company repaid a loan of ₹1,00,000."
+      },
+      "options": [
+        "Outflow ₹50,000",
+        "Inflow ₹1,50,000",
+        "Outflow ₹1,50,000",
+        "Inflow ₹50,000"
+      ],
+      "correct_answer": "d"
+    },
+    {
+      "questionNumber": 22,
+      "questionText": "Match List - I with List - II.",
+      "listI": {
+        "A": "Interest on partner's loan",
+        "B": "Personal account",
+        "C": "Position statement",
+        "D": "Commission to a partner"
+      },
+      "listII": {
+        "I": "Profit and Loss Appropriation A/c",
+        "II": "Balance Sheet",
+        "III": "Capital Account",
+        "IV": "Profit and Loss Account"
+      },
+      "correct_answer": "d"
+    },
+        {
+      "questionNumber": 23,
+      "questionText": "Match List - I with List - II.",
+      "listI": {
+        "A": "In accordance with a contract between the partners",
+        "B": "When business becomes illegal",
+        "C": "Death of partner",
+        "D": "Partner became insane"
+      },
+      "listII": {
+        "I": "Compulsory dissolution",
+        "II": "Dissolution by court",
+        "III": "Dissolution by agreement",
+        "IV": "Happening of certain contingencies"
+      },
+       "correct_answer": "a"
+    },
+        {
+      "questionNumber": 24,
+      "questionText": "A firm's profit for the last three years are 100,000, 2,00,000 and ₹3,00,000. What is the value of Goodwill, if it is calculated on the basis of four year's purchase of the average profits of the last 3 years?",
+      "options": [
+        "₹10,00,000",
+        "₹8,00,000",
+        "₹4,00,000",
+        "₹3,00,000"
+      ],
+      "correct_answer": "b"
+    },
+        {
+      "questionNumber": 25,
+      "questionText": "While preparing Comparative Statements. What will be the percentage increase or decrease in revenue from operations if the amount in the year 2021-22 was 40,00,000 and the year 2020-21 was *50,00,000?",
+      "options": [
+        "20% Increase",
+        "20% Decrease",
+        "10% Increase",
+        "10% Decrease"
+      ],
+      "correct_answer": "b"
+    },
+
+   {
+      "questionNumber": 26,
+      "questionText": "Radhika, Sadhika and Kanika are partners sharing profits in the ratio of 4:3:2. Radhika retires; Sadhika and Kanika decided to share profits in future in the ratio of 5:3. Calculate gaining ratio.",
+      "options": [
+        "3:2",
+        "5:3",
+        "21:11",
+        "1:1"
+      ],
+       "correct_answer": "d"
+    },
+
+     {
+      "questionNumber": 27,
+      "questionText": "On dissolution of partnership firm, an investment of 30,000 was found to be unrecorded in the books. The same was accepted by a creditor in full settlement of his dues of 32,000. The accounting treatment of the transaction will be:",
+      "options": [
+        "Credit Realisation A/c by ₹2,000",
+        "No entry is to be recorded for this",
+        "Debit Realisation A/c by 30,000",
+        "Credit Realisation A/c by ₹30,000"
+      ],
+       "correct_answer": "b"
+    },
+
+     {
+      "questionNumber": 28,
+      "questionText": "One of the following is not an Item of appropriation.",
+      "options": [
+        "Interest on capital",
+        "Commission to partner",
+        "Interest on Loan from partner",
+        "Salary to partner"
+      ],
+       "correct_answer": "c"
+    },
+
+      {
+      "questionNumber": 29,
+      "questionText": "Identify that account from which loss on issue of debentures can be written off when securities Premium Reserve fall short.",
+      "options": [
+        "Debenture Redemption Reserve",
+        "Statement of Profit and Loss",
+        "Premium on redemption of Debentures A/c",
+        "Reserves and Surplus"
+      ],
+       "correct_answer": "b"
+    },
+    {
+      "questionNumber": 30,
+      "questionText": "If goodwill already exists in the books of the firm at the time of admission of a partner then it will be dealt in the following manner.",
+      "options": [
+        "Old Partner's Capital A/c - Dr; Goodwill A/c - Cr",
+        "New Partner's Capital A/c - Dr; Goodwill A/c - Cr",
+        "Gaining Partner's Capital A/c Dr; Sacrificing Partner's Capital A/c - Cr",
+        "Sacrificing Partner's Capital A/c - Dr; Gaining Partner's Capital A/c - Cr"
+      ],
+       "correct_answer": "a"
+    },
+
+     {
+      "questionNumber": 31,
+      "questionText": "Arrange following with regard to determination of Goodwill share of new partner based on hidden Goodwill determination.",
+      "statements":{
+        "A": "Existing partners decided to admit new partner.",
+        "B": "Determine new partner share in firm goodwill.",
+        "C": "Determine existing capital of all partners, including new partner.",
+        "D": "Determine total capital of new firm based on new partner's capital.",
+        "E": "Determine goodwill of the partnership firm."
+
+      },
+      "options": [
+        "(A), (D), (C), (B), (E)",
+        "(A), (B), (D), (C), (E)",
+        "(A), (D), (C), (E), (B)",
+        "(A), (B), (E), (D), (C)"
+      ],
+       "correct_answer": "a"
+    },
+        {
+      "questionNumber": 32,
+      "questionText": "State the accounting treatment of Endowment Fund in financial statement of a public hospital.",
+      "options": [
+        "Debited to Income and Expenditure A/c",
+        "Credited to Income and Expenditure A/c",
+        "Shown on Liabilities side of Balance sheet",
+        "Shown on Assets side of Balance sheet"
+      ],
+       "correct_answer": "c"
+    },
+      {
+      "questionNumber": 33,
+      "questionText": "A, B and C were partners sharing profits and losses in the ratio of 5:3:2. They admitted D into partnership for 1/6th share in profits, half (1/2) of which was given by A and the remaining half was given by B and C in the ratio 3:2. The new profit-sharing ratio will be:",
+      "options": [
+        "5:3:2:2",
+        "5:3:3:2",
+        "5:2:2:3",
+        "5:2:2:2"
+      ],
+       "correct_answer": "a"
+    },
+        {
+      "questionNumber": 34,
+      "questionText": "Match List - I with List - II.",
+      "listI": {
+        "A": "Dividend",
+        "B": "Surplus",
+        "C": "Interest",
+        "D": "Premium on redemption of debenture"
+      },
+      "listII": {
+        "I": "Debentures",
+        "II": "Loss on issue of debenture",
+        "III": "Not for profit organisation",
+        "IV": "Equity shares"
+      },
+       "correct_answer": "a"
+    },
+                    {
+      "questionNumber": 35,
+      "questionText": "The order of payment/receipt of cash on dissolution of partnership firm is:",
+      "options": [
+        "Paying each partner his due on account of capital",
+        "Paying debt of firm to third parties",
+        "Paying each partner what is due to him as advance",
+        "Paying the partner the residue in profit sharing ratio"
+      ],
+       "correct_answer": "b"
+    },
+                        {
+      "questionNumber": 36,
+      "questionText": "Which of the following is an investing activity?",
+      "options": [
+        "Purchase of Buildings",
+        "Change in inventory",
+        "Cash credit",
+        "Dividend paid"
+      ],
+       "correct_answer": "a"
+    },
+                       {
+      "questionNumber": 37,
+      "questionText": "From the following information, calculate opening inventory:",
+      "notes": {
+            "Revenue from Operations":" ₹4,00,000",
+            "Gross Profit Ratio":" 10%",
+            "Carriage outwards":" 2,000",
+            "Closing Inventory":" 75,000",
+            "Purchases of stock in trade":" ₹3,50,000"
+      },
+      "options": [
+        "₹85,000",
+        "₹83,000",
+        "₹1,23,000",
+        "₹1,25,000"
+      ],
+       "correct_answer": "c"
+    },
+                           {
+      "questionNumber": 38,
+      "questionText": "Identify a non-cash item out of the following, shown in Cash Flow Statement.",
+      "options": [
+        "Gift items",
+        "Depreciation",
+        "Debentures",
+        "Finance cost"
+      ],
+       "correct_answer": "b"
+    },
+        {
+      "questionNumber": 39,
+      "questionText": "Steps in the preparation of Income and Expenditure account are:",
+      "statements":{
+        "A": "Take revenue receipts to the credit side and revenue expenses to the debit side of Income and Expenditure A/c",
+        "B": "Persue Receipt and Payment Account thoroughly",
+        "C": "Exclude the capital receipts and capital payments",
+        "D": "Close the account to find surplus or deficit"
+      },
+      "options": [
+        "(D), (C), (B), (A)",
+        "(B), (C), (A), (D)",
+        "(C), (B), (A), (D)",
+        "(A), (B), (C), (D)"
+      ],
+       "correct_answer": "a"
+    },
+           {
+      "questionNumber": 40,
+      "questionText": "A and B share profits and losses in the ratio of 2: 1. They admit C as partner with 1/6th share in profits with a guarantee that his share of profit shall be at least *50,000. The net profit of the firm for the year ending March 31st, 2022 was 2,40,000, Determine C's share in profits.",
+      "options": [
+        "₹50,000",
+        "₹60,000",
+        "₹40,000",
+        "₹30,000"
+      ],
+       "correct_answer": "a"
+    },
+       {
+      "questionNumber": 41,
+      "questionText": "Determine the amount of interest on drawing to be charged from Ritik.",
+      "options": [
+        "₹200",
+        "₹300",
+        "₹400",
+        "₹600"
+      ],
+       "correct_answer": "c"
+    },
+     {
+      "questionNumber": 42,
+      "questionText": "Identify the written agreement entered by Teesha and Ritik, containing terms of the agreement.",
+      "options": [
+        "Past adjustment",
+        "Partnership agreement",
+        "Partnership Deed",
+        "Contract between partners"
+      ],
+       "correct_answer": "c"
+    },
+ {
+      "questionNumber": 43,
+      "questionText": "Identify the account in which salary of Teesha will be transferred, when capitals are fixed.",
+      "options": [
+        "Profit and loss account",
+        "Realisation account",
+        "Capital account",
+        "Current account"
+      ],
+       "correct_answer": "d"
+    },
+
+      {
+      "questionNumber": 44,
+      "questionText": "Determine the share of Ritik in divisible profits.",
+      "options": [
+        "₹1,200",
+        "₹600",
+        "₹800",
+        "₹400"
+      ],
+       "correct_answer": "a"
+    },
+
+      {
+      "questionNumber": 45,
+      "questionText": "Select the amount that will be provided to Teesha as interest on her capital.",
+      "options": [
+        "₹3,000",
+        "₹2,000",
+        "₹1,000",
+        "₹500"
+      ],
+       "correct_answer": "b"
+    },
+        {
+      "questionNumber": 46,
+      "questionText": "Calculate the amount adjusted in share allotment account.",
+      "options": [
+        "₹40,000",
+        "₹1,10,000",
+        "₹50,000",
+        "₹30,000"
+      ],
+       "correct_answer": "c"
+    },
+        {
+      "questionNumber": 47,
+      "questionText": "Calculate the amount received at the time of allotment:",
+      "options": [
+        "₹50,000",
+        "₹1,10,000",
+        "₹80,000",
+        "₹70,000"
+      ],
+       "correct_answer": "c"
+    },
+
+          {
+      "questionNumber": 48,
+      "questionText": "Calculate the amount of arrear at allotment.",
+      "options": [
+        "₹40,000",
+        "₹20,000",
+        "₹30,000",
+        "₹60,000"
+      ],
+       "correct_answer": "b"
+    },
+
+       {
+      "questionNumber": 49,
+      "questionText": "Calculate the amount received in final call that includes arrear also.",
+      "options": [
+        "₹80,000",
+        "₹6,00,000",
+        "₹5,80,000",
+        "₹6,15,000"
+      ],
+       "correct_answer": "a"
+    },
+
+   {
+      "questionNumber": 50,
+      "questionText": "What will be the rate of interest on calls in arrears if Articles of Association is silent?",
+      "options": [
+        "@ 5% p.a.",
+        "@ 6% p.a.",
+        "@ 10% p.a.",
+        "@ 12% p.a."
+      ],
+       "correct_answer": "c"
+    }
+
+  ]
+}
