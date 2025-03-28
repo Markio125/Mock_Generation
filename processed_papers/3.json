@@ -1,0 +1,1064 @@
+[
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "“Management is a systematic body of knowledge with its own theory, concepts and principles.” What nature of management is highlighted here?",
+        "options": [
+            "Systematic body of knowledge",
+            "Universal validity",
+            "Principles based on experiments",
+            "None of these"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements highlights that management is a group activity?",
+        "options": [
+            "Organisation is a collection of diverse individuals with different needs.",
+            "Achievement of common goal requires teamwork and co-ordination of efforts in a common direction.",
+            "Each member of the organisation may have different individual goals but they must travel together towards common goals.",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "“The purpose of management is to accomplish organisational goals by providing quality services to the society.” What nature of management is highlighted in this statement?",
+        "options": [
+            "Restricted entry",
+            "Professional association",
+            "Systematic body of knowledge",
+            "Service motive"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Principles of management are not",
+        "options": [
+            "Universal",
+            "Flexible",
+            "Absolute",
+            "Behavioural"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "Who is considered as father of Scientific Management?",
+        "options": [
+            "Harold Koontz",
+            "Henry Fayol",
+            "Gilbreth",
+            "F.W. Taylor"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Frederick Winslow Taylor (F. W. Taylor) is the father of Scientific Management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "The main objective of functional foremanship is",
+        "options": [
+            "Not to provide free time to workers",
+            "Separate planning functions from executive functions",
+            "To separate top level management from CEO",
+            "Not to divide the work."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Principles of management emphasize on logical and rational decision making rather than on the basis of bias and prejudice. The given statement highlights that the knowledge of principles of management leads to",
+        "options": [
+            "Providing managers with useful insight into reality",
+            "Scientific decisions",
+            "Meeting changing environmental requirements",
+            "All of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "Environment refers to all those external forces which have a homogeneous (Same) effects on the working of business organizations across business sectors is called?",
+        "options": [
+            "Micro Environment",
+            "Macro Environment",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements does not pertain to middle-level management?",
+        "options": [
+            "They are responsible for all the activities of the operational managers.",
+            "They are responsible for the welfare and survival of the organisation.",
+            "The interpreter of the policies is made by top-level managers.",
+            "Cooperate with other departments for the smooth running of the organisation."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "A business has to offer wider choice in purchasing enhanced quality of goods and services in order to maintain an edge over its competitors. The implementation of the new economic policy with liberalisation, privatisation and globalisation has posed various challenges for the corporate sector. One of the important challenges is explained in the above lines. Identify it.",
+        "options": [
+            "Increasing competition",
+            "More demanding customers",
+            "Necessity for change",
+            "Market orientation"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Which branch of management refers to the identification of consumer’s need and supplying them the goods and services which can satisfy their wants?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Production management"
+            },
+            {
+                "label": "Option 2",
+                "text": "Financial Management"
+            },
+            {
+                "label": "Option 3",
+                "text": "Marketing management"
+            },
+            {
+                "label": "Option 4",
+                "text": "Personnel Management"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Which feature of the business environment is being highlighted in the above statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Specific and general forces"
+            },
+            {
+                "label": "Option 2",
+                "text": "Dynamic nature"
+            },
+            {
+                "label": "Option 3",
+                "text": "Relativity"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Business environment includes both specific and general forces. Business environment is dynamic, i.e., it keeps on changing whether in terms of technological improvement, shifts in consumer preferences or entry of new competition in the market. Business environment is a relative concept since it differs from country to country and even region to region.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Which of the following attitudes is not generally associated with successful entrepreneurship?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Investing in R&D"
+            },
+            {
+                "label": "Option 2",
+                "text": "Live your business day-by-day"
+            },
+            {
+                "label": "Option 3",
+                "text": "Innovate and improvise continually"
+            },
+            {
+                "label": "Option 4",
+                "text": "Produce as per customer’s requirements"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "An entrepreneur does all the possible stuffs to make his business run in a profitable manner. Investing in R & D, Innovations and Customer preferences are attributes of successful entrepreneurship.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "To get success in business all managers need to work hard in thinking about future, in making business prediction and achieving targets. The above line describe one of the concept, name that :",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Coordination"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Planning concept",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Planning cannot foresee everything, and thus, there may be obstacles to effective planning. Identify the related limitation of planning.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning leads to rigidity"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning may not work in a dynamic environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning does not guarantee success"
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning reduces creativity"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "In business environment, nothing is constant as it consists of a number of dimensions: economic, political, physical, legal and social dimensions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "match-the-column",
+        "question": "Match the following",
+        "column_1": [
+            {
+                "label": "a",
+                "text": "Mental Exercise"
+            },
+            {
+                "label": "b",
+                "text": "Futuristic"
+            },
+            {
+                "label": "c",
+                "text": "Continuous"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "involves looking ahead and is regarded as a forward looking function"
+            },
+            {
+                "label": "ii",
+                "text": "an intellectual activity of thinking rather than doing"
+            },
+            {
+                "label": "iii",
+                "text": "need for a new plan on the basis of new requirements and future conditions"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(ii), (iii), (i)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(iii), (ii), (i)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(ii), (i), (iii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii), (i), (ii)"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is true with respect to the step “developing premises” under the planning process?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Base material for assumption can be put in the form of forecasts, existing plans or any past information about policies"
+            },
+            {
+                "label": "Option 2",
+                "text": "Only a few managers are required to be familiar with and use the same assumptions"
+            },
+            {
+                "label": "Option 3",
+                "text": "As a need not necessarily be same for all"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "true-false",
+        "question": "Planning premises are the actual plans about the future organisational resources.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "True"
+            },
+            {
+                "label": "Option 2",
+                "text": "False"
+            },
+            {
+                "label": "Option 3",
+                "text": "Partially true"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Planning premises are the assumptions about future environmental scenario and organisational resources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Organising process includes one of the following",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Grouping of activities"
+            },
+            {
+                "label": "Option 2",
+                "text": "Prescribing disciplinary action"
+            },
+            {
+                "label": "Option 3",
+                "text": "Determining objectives"
+            },
+            {
+                "label": "Option 4",
+                "text": "Prescribing work schedule"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The steps in the process of organizing are: Identifying the Work, Grouping of Work, Establish Hierarchy, Delegation of Authority, and Coordination.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "The feature of planning is",
+        "options": [
+            "Planning is a mental exercise",
+            "Planning is Futuristic",
+            "Planning establishes standards for controlling",
+            "Planning focuses on achieving objectives"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Planning is a mental exercise",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "Which type of organisational structure is the most suitable for those business enterprises where a large variety of products are manufactured?",
+        "options": [
+            "Functional",
+            "Divisional",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "A divisional organizational structure gives a larger business enterprise the ability to segregate large sections of the company's business into semi-autonomous groups.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "In staffing function, which one of the following groups of managers is involved?",
+        "options": [
+            "Only Top Managers",
+            "Only Human resource Managers",
+            "Only Middle Managers",
+            "All Managers"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The staffing function of management pertains to recruitment, selection, training, development, appraisal and remuneration of personnel. It is the duty of every manager to perform this function.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "Under which training method, both the technical institutes and the business organisations jointly impart training to their members?",
+        "options": [
+            "Induction Training",
+            "Apprenticeship Training",
+            "Vestibule Training",
+            "Internship Training"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Under internship training, technical institutions and business organisations jointly impart training to their members.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "“Appointment is as per the requirement and satisfaction of the Job”. This is related to which importance of staffing.",
+        "options": [
+            "Filling the roles by obtaining competent persons",
+            "Placing the right person at the right job",
+            "Optimum utilisation of human resources",
+            "Improves job satisfaction and morale of the employee"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Placing the right person at the right job.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "true-false",
+        "question": "Spending money on training is waste when we are already spending huge amount in selection of efficient employees.",
+        "options": [
+            "True",
+            "False",
+            "Partially True",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "No, it is very important.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "multiple-choice",
+        "question": "It refers to the process of instructing, guiding, counselling, motivating and leading people in the organisation to achieve their objectives.",
+        "options": [
+            "Planning",
+            "Organising",
+            "Staffing",
+            "Directing"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Directing means giving instructions and guiding people in doing work.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is true about directing?",
+        "options": [
+            "Directing is necessary at planning stage",
+            "Directing is needed at every level of management in each department",
+            "Directing is initiated at lower level of management",
+            "Directing is the least important function of management"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Motivation is an internal feeling.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "Aman and Alok work in a garment factory. Aman always earns a higher wage than Alok, as he produces more units of output. Identify the type of financial incentive being adopted by the company.",
+        "options": [
+            "Perquisites",
+            "Productivity linked wage incentives",
+            "Co-partnership",
+            "Pay and allowances"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The type of incentive being adopted by the company is Productivity linked wage incentives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is false with respect to a leader?",
+        "options": [
+            "Leader provides training to his subordinates",
+            "A leader maintains personal relations and helps followers in fulfilling their needs",
+            "Leader plays a key role in introducing required changes in the organisation",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "A leader maintains personal relations and helps followers in fulfilling their needs. He provides needed confidence, support and encouragement and thereby creates congenial work environment. Leader plays a key role in introducing required changes in the organisation. He persuades, clarifies and inspires people to accept changes whole-heartedly.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "multiple-choice",
+        "question": "Controlling and Planning are",
+        "options": [
+            "Independent functions",
+            "Interdependent functions",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Planning and controlling are inter-related to each other. Planning sets the goals for the organization and controlling ensures their accomplishment. Planning decides the control process and controlling provides sound basis for planning. In reality planning and controlling are both dependent on each other.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "multiple-choice",
+        "question": "The main objective of controlling is",
+        "options": [
+            "Punishing the guilty",
+            "Fixing responsibility of the subordinate",
+            "Ensuring conformity of performance with established standards",
+            "Creating a fear for discipline."
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The main objective of controlling is to ensure that activities are performed in accordance with the predetermined standard that is to see that activity is achieving the desired result.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "33",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is the appropriate sequence of steps of controlling process?",
+        "options": [
+            "Setting Performance Standards – Measurement of Actual Performance – Comparison of Actual performance with standards – Taking Corrective Action – Analysing Deviations",
+            "Setting Performance Standards – Measurement of Actual Performance – Comparison of Actual Performance with standards – Analysing Deviations – Taking Corrective Action",
+            "Setting Performance Standards – Comparison of Actual Performance with standards – Measurement of Actual Performance – Analysing Deviations – Taking Corrective Action",
+            "Setting Performance Standards – Measurement of Actual Performance – Analysing Deviations"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The correct steps involved in the controlling process are Setting performance standards, Measurement of actual performance, Comparison of actual performance with standards, Analysing deviations, and taking corrective action.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "Which of the following steps in the Controlling process state that comparison becomes easier when standards are set in quantitative terms?",
+        "options": [
+            "Analysing deviations",
+            "Measurement of actual performance",
+            "Comparing actual performance with standards",
+            "Setting performance standards"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "This step involves comparison of actual performance with the standard. Such comparison will reveal the deviation between actual and desired results. Comparison becomes easier when standards are set in quantitative terms.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "The application of the principles of management has to be changed as per the requirements of the prevailing situation at a particular point of time. Which feature of the principles of management is being described in the given statement?",
+        "options": [
+            "Contigent",
+            "Mainly behavioural",
+            "Cause and effect relationship",
+            "General guidelines"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "Gross working capital represents the total investment in _______ assets",
+        "options": [
+            "Current",
+            "Fixed",
+            "Tangible",
+            "Intangible"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Gross working capital is the sum of a company's current assets (assets that are convertible to cash within a year or less). Gross working capital includes assets such as cash, accounts receivable, inventory, short-term investments, and marketable securities.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "Financial decisions impact which of the following items of profit and loss account?",
+        "options": [
+            "Interest",
+            "Tax",
+            "Profit",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "38",
+        "question_type": "multiple-choice",
+        "question": "Degree of total leverage can be applied in measuring change in",
+        "options": [
+            "EBIT to a percentage change"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "To be listed on OTCEL, the minimum capital requirement for a company is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "₹ 3 crores"
+            },
+            {
+                "label": "Option 2",
+                "text": "₹5 crores"
+            },
+            {
+                "label": "Option 3",
+                "text": "₹10 crores"
+            },
+            {
+                "label": "Option 4",
+                "text": "₹25 crores"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The minimum capital requirement for a company to be listed on the OTCEI is Rs 3 crores and the maximum is Rs 50 crores.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "Primary market is associated with ______ issues",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Old"
+            },
+            {
+                "label": "Option 2",
+                "text": "New"
+            },
+            {
+                "label": "Option 3",
+                "text": "Old and new"
+            },
+            {
+                "label": "Option 4",
+                "text": "Very old"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "In the primary market, new stocks and bonds are sold to the public for the first time.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is not a function of financial market?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Mobilisation of savings"
+            },
+            {
+                "label": "Option 2",
+                "text": "Floating of companies"
+            },
+            {
+                "label": "Option 3",
+                "text": "Price determination of securities"
+            },
+            {
+                "label": "Option 4",
+                "text": "Lowering transaction cost"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Financial Markets have different roles to play, including price determination, funds mobilization, risk sharing, easy access, liquidity, capital formation, reduction in transaction costs, provision of the required information, etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "In Rathi Steel Company the employees do the quality analysis in a neutral and fair manner. They are applying different techniques for achieving this aim. Some of these are personal observation, sample checking, etc. They are also keeping the units of measurement same to that of the units of set standards. Identify the step of controlling.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Taking corrective action"
+            },
+            {
+                "label": "Option 2",
+                "text": "Measurement of actual performance"
+            },
+            {
+                "label": "Option 3",
+                "text": "Comparing actual with standard performance"
+            },
+            {
+                "label": "Option 4",
+                "text": "Analysing deviations"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The step of controlling which is being taken in Rathi steel company is measuring the actual performance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "_________ is the process of classification of products into different groups on the basis of some of its important characteristics.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Grading"
+            },
+            {
+                "label": "Option 2",
+                "text": "Packaging"
+            },
+            {
+                "label": "Option 3",
+                "text": "Standardization"
+            },
+            {
+                "label": "Option 4",
+                "text": "Branding"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Grading is a process of classification of products into different groups on the basis of some important characteristics such as quality, size, etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are considered as the pillars of marketing?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Packaging"
+            },
+            {
+                "label": "Option 2",
+                "text": "Labelling"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Labelling have become so important in modern day marketing that there are considered as the pillars of marketing Packaging to important not only for protection of the products but also serves as a promotional tool.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "true-false",
+        "question": "Selling concept focuses on customer satisfaction.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "True"
+            },
+            {
+                "label": "Option 2",
+                "text": "False"
+            },
+            {
+                "label": "Option 3",
+                "text": "Partially true"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "It focus on sales maximisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "Which of the following function of marketing helps in building consumer loyalty and for promoting its sales?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Standardisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Branding"
+            },
+            {
+                "label": "Option 3",
+                "text": "Pricing of Products"
+            },
+            {
+                "label": "Option 4",
+                "text": "Grading"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Branding refers to the process of giving a name, sign, symbol or a combination of all to a product for creating its identification. It helps to differentiate the product from order products available in the market. It also helps to build customer's loyalty and promoting its sales.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "From the point of view of business, which one of the following is a reason because of which consumer protection is important?",
+        "options": [
+            "Dynamic environment",
+            "Fast technological development",
+            "Government intervention",
+            "Competitive market"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "Arif joined a food processing unit as a factory worker. Since he was expected to work on sophisticated machinery, he was asked to undergo a special training. Identify the training method with reference to the above lines.",
+        "options": [
+            "Vestibule training",
+            "Apprenticeship training",
+            "Internship training",
+            "Induction training"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The type of training mentioned in the above case is vestibule training because this type of training at present is more common in industries that use hands-on activities and specialised machines.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is true about communication?",
+        "options": [
+            "Communication is a process of passing information and understanding from one person to another",
+            "Communication is an exchange of facts, ideas, opinions or emotions by two or more persons",
+            "Both (a) and (b)",
+            "Communication involves absolute authority and control"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Communication is a process of exchange of ideas, views, facts, feelings, etc. between or among people to create common understanding.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "50",
+        "question_type": "multiple-choice",
+        "question": "It is a measure of an individual’s potential for learning new skills.",
+        "options": [
+            "Trade test",
+            "Personality test",
+            "Intelligence test",
+            "Aptitude test"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Aptitude tests will test your ability to perform tasks and react to situations at work. This includes problem-solving, prioritisation and numerical skills, amongst other things.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

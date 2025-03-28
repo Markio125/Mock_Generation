@@ -1,0 +1,1365 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Find the correct Statement",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Product specialization takes place in functional structure"
+            },
+            {
+                "label": "Option 2",
+                "text": "Easy to fix responsibilities in case of divisional structure"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "a The Correct answer is option (a) as functional structure doesn't lead to product specialization and the responsibilities are easy to fix in the case of divisional structure.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "Divisional structure",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Promotes flexibility and initiative"
+            },
+            {
+                "label": "Option 2",
+                "text": "It facilitates expansion and growth of new division"
+            },
+            {
+                "label": "Option 3",
+                "text": "Divisional heads are accountable"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "d Divisional structure Promotes flexibility and initiative. It facilitates expansion and growth of new division and the Divisional heads are accountable.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "The process of organizing involves following steps. Arrange them in correct order.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "A-D-B-C"
+            },
+            {
+                "label": "Option 2",
+                "text": "A-D-C-B"
+            },
+            {
+                "label": "Option 3",
+                "text": "A-B-C-D"
+            },
+            {
+                "label": "Option 4",
+                "text": "A-C-D-B"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "a The process has the following steps -: Identification and division of work, Departmentalization, Assignment of duties, establishing reporting relationships.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "Find the incorrect statement",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Authority, Responsibility and Accountability all three are Elements of Delegation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Divisional structure Promotes flexibility and initiative"
+            },
+            {
+                "label": "Option 3",
+                "text": "Flow of communication is scalar in case of formal organization"
+            },
+            {
+                "label": "Option 4",
+                "text": "Managers are leaders in case of informal organization"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "d The incorrect statement is managers are leaders in case of informal organization while the correct answer is that managers are leaders in case of Formal organization.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "A network of social relationship that arise spontaneously due to interaction at work is called",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Formal Organisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Informal Organisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Decentralisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Delegation"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "b The informal organisation may be defined as “a n etwork of personal and social relationships that arise spontaneously as people associate with one another in a work environment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a method used to assess the ability of a firm to generate demand for its products?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Survey of customers"
+            },
+            {
+                "label": "Option 2",
+                "text": "Market survey"
+            },
+            {
+                "label": "Option 3",
+                "text": "Sales forecast"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "c Market surveys estimate demand for specific products or services by tracking actual sales over time to see what the trends were in terms of identifying trends and evaluating the information obtained from this process & survey of customers also help us assess the upcoming demand, but sales forecast is a by-product we get after we've estimated market demand",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a factor that affects consumption patterns?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Age"
+            },
+            {
+                "label": "Option 2",
+                "text": "Standard of living"
+            },
+            {
+                "label": "Option 3",
+                "text": "Type of family"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "d Standard of living, Age, Type of family and size of the family are factors that affect consumption patterns.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Which of the following industries are considered natural monopolies?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Banking industry"
+            },
+            {
+                "label": "Option 2",
+                "text": "Railways"
+            },
+            {
+                "label": "Option 3",
+                "text": "Electricity generation industry"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "d Natural monopolies are industries in which economies of scale cause it to be efficient for a single firm to supply the entire market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "Social marketing concept is based upon",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Large target market with active buyers"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social responsibilities"
+            },
+            {
+                "label": "Option 3",
+                "text": "Customer satisfaction and customer welfare"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "d The concept of social marketing places human well-being above profits and meets desires.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Generated increase sales by neglecting quality control, production efficiency and / or cash flow management are",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Over marketing"
+            },
+            {
+                "label": "Option 2",
+                "text": "Remarketing"
+            },
+            {
+                "label": "Option 3",
+                "text": "Under marketing"
+            },
+            {
+                "label": "Option 4",
+                "text": "De – marketing"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "a Marketing may be defined as the collection of activities undertaken by the firm to relate profitability to its market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not included in the marketing management process used by the marketing manager to achieve its objectives?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning marketing activities"
+            },
+            {
+                "label": "Option 2",
+                "text": "Controlling marketing plans"
+            },
+            {
+                "label": "Option 3",
+                "text": "Raising funds to finance the marketing projects"
+            },
+            {
+                "label": "Option 4",
+                "text": "Directing implementation of the marketing plans"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "b Raising funds to finance the marketing projects is NOT included in the marketing management process used by the marketing manager to achieve its objectives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is a key to build lasting relationships with consumers?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Price of the product"
+            },
+            {
+                "label": "Option 2",
+                "text": "Need recognition"
+            },
+            {
+                "label": "Option 3",
+                "text": "Customer satisfaction"
+            },
+            {
+                "label": "Option 4",
+                "text": "Quality of product"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "c Customer satisfaction is a key to build lasting relationships with consumers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "After concept testing, a firm would engage in __________ f or developing and marketing a n ew product?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Marketing Strategy Development Stage"
+            },
+            {
+                "label": "Option 2",
+                "text": "Business Analysis Stage"
+            },
+            {
+                "label": "Option 3",
+                "text": "Product Development Stage"
+            },
+            {
+                "label": "Option 4",
+                "text": "Test Marketing Stage"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "a After concept testing, the next stage is: Market strategy development: When a promising concept has been developed and tested, it is essential to design an initial marketing strategy for the new product.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Effectiveness relates to",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Doing the right task"
+            },
+            {
+                "label": "Option 2",
+                "text": "Completing activities"
+            },
+            {
+                "label": "Option 3",
+                "text": "Achieving goals"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "d Effectiveness is characterized as how much something is effective in creating the ideal outcome; achievement.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "Management translates the works to be carried out in terms of goals to be achieved and assigns the means to achieve it.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management of work"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management of people"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management of operations"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "a Management is multidimensional in nature and involves three aspects, management of work is one of them.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not relevant to the concept of “Management as an inexact science”?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The principles of management lack universal validity"
+            },
+            {
+                "label": "Option 2",
+                "text": "The principles of management lack universal applicability"
+            },
+            {
+                "label": "Option 3",
+                "text": "The principles of management have to be modified according to the given situation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management involves dealing with human behaviour and outcomes cannot be predicted with utmost accuracy"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "b The principles of management are not universally val id as they deal with human behaviour and the outcome of application of a principle cannot be predicted with utmost accuracy.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "What are the powers of the Central Authority?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "To promote the rights"
+            },
+            {
+                "label": "Option 2",
+                "text": "To protect the rights"
+            },
+            {
+                "label": "Option 3",
+                "text": "To enforce the rights"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "d The Union Authority shall protect, promote and enforce the rights of the consumers as a class, and prevent violation of Consumers Rights under the Act.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Which of the subsequent establishments delivers a gu arantee or assurance to the exporters?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Exim Bank"
+            },
+            {
+                "label": "Option 2",
+                "text": "Director General Foreign Trade"
+            },
+            {
+                "label": "Option 3",
+                "text": "Reserve Bank of India"
+            },
+            {
+                "label": "Option 4",
+                "text": "Export Credit Guarantee Corporation (ECGC)"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "d Maintained by the Government of India and was established in 1957 w ith the aim of promoting exports from the nation by managing and providing export-related",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "Investment is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Net additions made to the nation’s capital stocks"
+            },
+            {
+                "label": "Option 2",
+                "text": "Person’s commitment to buy a flat or house"
+            },
+            {
+                "label": "Option 3",
+                "text": "Employment of funds on assets to earn returns"
+            },
+            {
+                "label": "Option 4",
+                "text": "Employment of funds on goods and services that are used in production process"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "An investment is a monetary asset purchased with the idea that the asset will provide income in the future or will later be sold at a higher price for a profit.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "The International Fisher equation states that",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Domestic inflation rates will tend to equal foreign inflation rates"
+            },
+            {
+                "label": "Option 2",
+                "text": "Domestic real interest rates will tend to equal foreign real interest rates"
+            },
+            {
+                "label": "Option 3",
+                "text": "The expected exchange rate depreciation of the domestic currency is equal to the future inflation differential (foreign minus domestic inflation)"
+            },
+            {
+                "label": "Option 4",
+                "text": "The difference between the bid-ask spread for an exchange rate is equal to the future inflation differential (foreign minus domestic inflation)"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The International Fisher Effect (IFE) states that differences in nominal interest rates between countries can be used to predict changes in exchange rates.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "Financial leverage helps one to estimate",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Business risk"
+            },
+            {
+                "label": "Option 2",
+                "text": "Financial risk"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both risks"
+            },
+            {
+                "label": "Option 4",
+                "text": "Production risk"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Financial leverage helps one to estimate financial risk. Financial leverage which is also known as leverage or trading on equity, refers to the use of debt to acquire additional assets.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "The avai lable capital funds are to be carefully allocated among competing projects by careful prioritization. This is called",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Capital positioning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Capital structuring"
+            },
+            {
+                "label": "Option 3",
+                "text": "Capital rationing"
+            },
+            {
+                "label": "Option 4",
+                "text": "Capital budgeting"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The avai lable capital funds are to be carefully allocated among competing projects by careful prioritization. This is called capital budgeting. Capital budgeting is the process a business undertakes to evaluate potential major projects or investments.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "This concept of Control Management is based on the belief that if you try to control everything, you may end up controlling nothing",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Critical point control"
+            },
+            {
+                "label": "Option 2",
+                "text": "Key result areas"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management by exception"
+            },
+            {
+                "label": "Option 4",
+                "text": "Deviations"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management by exception, which is often referred to as control by exception, is an important principle of management control based on the belief that an attempt to control everything results in controlling nothing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "multiple-choice",
+        "question": "Determine which phase of the controlling process applies in the example.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Taking corrective action"
+            },
+            {
+                "label": "Option 2",
+                "text": "Analysing deviations"
+            },
+            {
+                "label": "Option 3",
+                "text": "Measurement of actual performance"
+            },
+            {
+                "label": "Option 4",
+                "text": "Comparing actual and standard performance"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Measurement of actual performance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "multiple-choice",
+        "question": "For the following two statements, choose the correct option",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Statement I is correct & Statement II is wrong"
+            },
+            {
+                "label": "Option 2",
+                "text": "Statement II is correct & Statement I is wrong"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both the statements are correct"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both the statements are incorrect"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Statement II is correct & Statement I is wrong.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "multiple-choice",
+        "question": "_______ i s an important function of management which involves communicating and providing leadership to the subordinates and motivating them to contribute to the best of their capacity for the achievement of organisational objectives.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Motivation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Directing"
+            },
+            {
+                "label": "Option 3",
+                "text": "Discipline"
+            },
+            {
+                "label": "Option 4",
+                "text": "Coordination"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Direction is an important function of management which is related to inspiring, instructing and guiding human factors in the organization to achieve organizational activities and objectives. Essential elements of direction are giving orders and instructions, supervising the work of subordinates, giving guidance to the subordinates in their work, maintaining discipline and rewarding efficient employees and motivating the subordinates.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "The board of directors of a company has made some guidelines and policies for the workers and wants to communicate these to the workers. Who would be the best communicator in this regard?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Board of directors"
+            },
+            {
+                "label": "Option 2",
+                "text": "Manager"
+            },
+            {
+                "label": "Option 3",
+                "text": "Supervisor"
+            },
+            {
+                "label": "Option 4",
+                "text": "Clerk"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Supervisor is the person who is in touch with the workers directly. He acts as a link between management and workers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "multiple-choice",
+        "question": "Managers in India do the same work as managers in USA or Japan or Germany. Which characteristic of management is highlighted in this statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management is a group activity"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management is all pervasive"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management is effective"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both (a) and (b)"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Management is a function. It is performed at all levels and all places in the same way. The change of place or organisation may affect quality and procedures of work, but the function remains the same.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements pertains to top level management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "They are responsible for all the activities of the operational managers."
+            },
+            {
+                "label": "Option 2",
+                "text": "They are responsible for the welfare and survival of the organisation."
+            },
+            {
+                "label": "Option 3",
+                "text": "They interpret the policies made by top level managers"
+            },
+            {
+                "label": "Option 4",
+                "text": "Co-operate with other departments for the smooth running of the organisation."
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Welfare and survival of the organisation is a top level function.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "multiple-choice",
+        "question": "‘‘It is a thinking process, the organised foresight, the vision based on fact and experience that is required for intelligent action.” Identify the function of management.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 4",
+                "text": "Directing"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Planning is a thinking process. It requires both creativity and analysis in defining business opportunities and constraints. While planning the present facts as well as past experiences both work as important factors.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "33",
+        "question_type": "multiple-choice",
+        "question": "Which aspect of management involves cost-benefit analysis and the relationship between inputs and outputs?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Effectiveness"
+            },
+            {
+                "label": "Option 2",
+                "text": "Efficiency"
+            },
+            {
+                "label": "Option 3",
+                "text": "Coordination"
+            },
+            {
+                "label": "Option 4",
+                "text": "Controlling"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Efficiency refers to the act of performing activities with minimum wastage of time and optimum usage of resources, so that the work done is faster and in an error free manner.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "“Authority is undermined, discipline in jeopardy, order disturbed and stability threatened.” This statement is the violation of",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Unity of direction"
+            },
+            {
+                "label": "Option 2",
+                "text": "Discipline"
+            },
+            {
+                "label": "Option 3",
+                "text": "Unity of command"
+            },
+            {
+                "label": "Option 4",
+                "text": "Stability of personnel"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The statement violates the principle of unity of command. This principle says that if an employee receives instructions from more than one manager/superior, there is likely to be confusion and conflict.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "“Principles of management emphasize on logical and rational decision making rather than on the basis of bias and prejudice.” The given statement highlights that the knowledge of principles of management leads to",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Providing managers with useful insight into reality"
+            },
+            {
+                "label": "Option 2",
+                "text": "Scientific decisions"
+            },
+            {
+                "label": "Option 3",
+                "text": "Meeting changing environmental requirements"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Proper knowledge and implementation of management principles help in taking scientific and logical decisions free from any biases.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "The technique of differential piece rate system was developed by Taylor in order to",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Discriminate between efficient and inefficient workers"
+            },
+            {
+                "label": "Option 2",
+                "text": "Reward the efficient worker"
+            },
+            {
+                "label": "Option 3",
+                "text": "Motivate the inefficient workers to perform better"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Differential piece rate system suggests two piece rates, one for efficient and other for inefficient. Thus it differentiates between efficient and inefficient worker and also motivates the inefficient to touch the standard of efficiency.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "Arora limited is a large firm which sells mobile phones. The company has decided to make itself adaptable to all different changes like social, economic, political etc. with continuously changing circumstances. Identify the features of business environment highlighted here",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Relative concept"
+            },
+            {
+                "label": "Option 2",
+                "text": "Uncertainty"
+            },
+            {
+                "label": "Option 3",
+                "text": "Dynamic nature"
+            },
+            {
+                "label": "Option 4",
+                "text": "Complexity"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The company has decided to make itself adaptable to all different changes like social, economic, political etc. with continuously changing circumstances, which highlights the dynamic nature of business environment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "38",
+        "question_type": "multiple-choice",
+        "question": "India continues to be a lower-middle-income country along with 46 others, while Sri Lanka has climbed to the upper middle- income group for the fiscal year (FY) 2020, according to the World Bank’s classification of countries by income levels, released on July 1, 2019. Identify the related dimensions of business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Social dimension"
+            },
+            {
+                "label": "Option 2",
+                "text": "Technological dimension"
+            },
+            {
+                "label": "Option 3",
+                "text": "Economic dimension"
+            },
+            {
+                "label": "Option 4",
+                "text": "Political dimension"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "This relates to the economic dimension of the environment. The economic dimension consists of economic system, economic policies and economic conditions prevailing in a country.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "As per the directions issued by the Supreme Court, the government passed an order to ban the sale of tobacco products within the area of 200 meters of all educational institutions. Identify the dimension of business environment highlighted in this statement.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Legal environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Political environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Banning of tobacco products within a prescribed area by the Supreme Court shows the legal dimension of the environment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "With the introduction of Photostat machines in the market, the carbon paper industry was adversely affected. Which component of environment was responsible for it?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Economic"
+            },
+            {
+                "label": "Option 2",
+                "text": "Political"
+            },
+            {
+                "label": "Option 3",
+                "text": "Technical"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Improvement in technology makes the old methods and techniques obsolete.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "“Planning requires logical and systematic thinking rather than genuine work.” Which feature of planning is highlighted here?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Pervasive"
+            },
+            {
+                "label": "Option 2",
+                "text": "Futuristic"
+            },
+            {
+                "label": "Option 3",
+                "text": "Psychological activity"
+            },
+            {
+                "label": "Option 4",
+                "text": "Continuous"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Planning is just a process of thinking regarding the activities required to achieve the desired goals, not doing the activities. Hence, it is a psychological activity.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "“Aman runs a clothing company. There is lot of chaos in the organisation. He decided to do grouping of similar activities into departments, units, sections etc. using several criteria as a basis to facilitate specialisation.” Identify the step of organising process referred here.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Identification and division of work"
+            },
+            {
+                "label": "Option 2",
+                "text": "Departmentalisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assignment of duties"
+            },
+            {
+                "label": "Option 4",
+                "text": "Establishing reporting relationship"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Departmentalisation is the process of making departments to bring specialisation in the organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "“There is concentration of decision-making authority at higher or top levels of management. It refers to a situation where all decisions on all matters are taken by one or a few managers at relatively higher levels.” Identify the concept of organising.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Delegation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Centralisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Authority"
+            },
+            {
+                "label": "Option 4",
+                "text": "Responsibility"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Centralisation means the decision making authority is concentrated at top level and all the decisions are taken at that level only. The lower level management has just to follow their instructions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "______ is the hiring of relatives, which is an inevitable component of recruitment programmes in family owned firms.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Leasing"
+            },
+            {
+                "label": "Option 2",
+                "text": "Nepotism"
+            },
+            {
+                "label": "Option 3",
+                "text": "Loyalty"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Nepotism is the process by which those within managerial or executive positions, use their power or influence within an organisation to hire unqualified family members rather than promoting talented employees, or hiring external, qualified candidates.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "In order to motivate the workers in the factory to work overtime, Manoj decided to provide additional wages to the workers. On knowing this, a worker in his factory, Madan, was very happy, whereas Raju was disappointed as he preferred to go back home on time rather than working for overtime wages. Identify the feature of motivation being described in the above lines.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Motivation is an internal feeling"
+            },
+            {
+                "label": "Option 2",
+                "text": "Motivation produces goal-directed behaviour"
+            },
+            {
+                "label": "Option 3",
+                "text": "Motivation is a complex process"
+            },
+            {
+                "label": "Option 4",
+                "text": "Motivation can be either positive or negative"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The feature of motivation being described in the above line is Motivation is a complex process. Motivation is a complex process because it is based on human needs. An unsatisfied need creates tension which stimulates an individual’s drives. All individuals do not have same desires. They are heterogeneous.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is not a reason for the importance of consumer protection from the point of view of consumers?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Consumer ignorance"
+            },
+            {
+                "label": "Option 2",
+                "text": "Consumer apathy"
+            },
+            {
+                "label": "Option 3",
+                "text": "Consumer exploitation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Unorganised consumers"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The importance of consumer protection from the point of view of consumers are: Consumer ignorance, Consumer exploitation and unorganised consumers. Consumer apathy is the tendency of consumers to resist changing from one brand to other.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "The approach “Caveat Venditor” implies",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Let the buyer beware"
+            },
+            {
+                "label": "Option 2",
+                "text": "Let the seller beware"
+            },
+            {
+                "label": "Option 3",
+                "text": "Let the market beware"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both (a) and (b)"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Caveat Venditor approach fosters consumer welfare by making the seller, manufactures and service provides accountable for quality of goods and services offered.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "Advertisements of a protein supplement must inform the potential buyer that the product if taken beyond a given dose can be harmful to the diabetics. Which dimension of business environment is highlighted here?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Technological environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Socio-cultural environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Legal environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "It is a legal requirement for the companies to warn the consumers about the precautions to be taken while using the product. It is mandatory.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "One of the common irregularities noted by the Securities and Exchange Board of India during the inspection of a stock exchange was that it was dealing with unregistered sub brokers. Identify the related function of the Securities and Exchange Board of India.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Regulatory function"
+            },
+            {
+                "label": "Option 2",
+                "text": "Protective function"
+            },
+            {
+                "label": "Option 3",
+                "text": "Developmental function"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Registration of brokers and sub-brokers and other players in the market comes under the regulatory function of SEBI.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

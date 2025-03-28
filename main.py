@@ -124,6 +124,6 @@ def main(corpus_path: str, output_path: str, total_questions: int = 50):
         return final_paper
 
 if __name__ == "__main__":
-    corpus_path = "./processed_papers/1.json"
+    corpus_path = "processed_papers/1.json"
     output_path = "outputs/generated_paper.json"
     main(corpus_path, output_path)

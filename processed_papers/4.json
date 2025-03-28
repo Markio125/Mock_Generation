@@ -1,0 +1,955 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Successful management ensures that",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Goals are achieved with least cost"
+            },
+            {
+                "label": "Option 2",
+                "text": "Timely achievement of goals"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both of these"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management aims to carry out the work in a manner that is completed within the stipulated time (effectiveness) and at the least cost (efficiency).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "The principles of management serve as",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Managerial action"
+            },
+            {
+                "label": "Option 2",
+                "text": "Decision making"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Principles of management are broad and general guidelines for managerial decision-making and behaviour.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "The element that aims at integrating group efforts to achieve group objectives is called",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Cooperation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Coordination"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management"
+            },
+            {
+                "label": "Option 4",
+                "text": "Directing"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The element that aims at integrating group efforts to achieve group objectives is called coordination.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "“Specialisation is the most efficient way to use human effort.” Which principle of Fayol is highlighted in this statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Authority and Responsibility"
+            },
+            {
+                "label": "Option 2",
+                "text": "Division of work"
+            },
+            {
+                "label": "Option 3",
+                "text": "Unity of command"
+            },
+            {
+                "label": "Option 4",
+                "text": "Discipline"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "People in the organisations carry out diverse tasks with the aim to achieve",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Different objectives"
+            },
+            {
+                "label": "Option 2",
+                "text": "Common objectives"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both of these"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Management seeks to integrate individual goals with organisational goals and ensure realisation of both.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Management is equally important to run a political organisation as it is to run an economic organisation. Which feature of management is being reflected in the given statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management is goal oriented"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management is multidimensional"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management is all pervasive"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management is a group activity"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management is required in all types: economic, social or political, and sizes of organisations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "‘Rule of thumb’ refers to",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Use of personal judgement in handling management issues"
+            },
+            {
+                "label": "Option 2",
+                "text": "Adopting a hit-and-trial approach to resolve management problems"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both of these"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "A rule of thumb is a heuristic guideline that provides simplified advice or some basic rule-set regarding a particular subject or course of action.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "The growing awareness about healthcare has led to an increase in the demand for healthcare products and services in the country. Identify the feature of business environment being described in the above case.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Dynamic nature"
+            },
+            {
+                "label": "Option 2",
+                "text": "Uncertainty"
+            },
+            {
+                "label": "Option 3",
+                "text": "Relativity"
+            },
+            {
+                "label": "Option 4",
+                "text": "Interrelatedness"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Interrelatedness, as the different elements or parts of business environment are closely interrelated.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "The Economic Survey, 2019 suggests that the psychological biases can be used in the realm of tax compliance. It is in favour of using religious norms such “dying in debt is a sin” to improve tax compliance. Identify the related dimensions of business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Legal dimension and Social dimension"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social dimension and Economic dimension"
+            },
+            {
+                "label": "Option 3",
+                "text": "Technological dimension and Political dimension"
+            },
+            {
+                "label": "Option 4",
+                "text": "Political dimension and Economic dimension"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "“Anyone can be called a manager irrespective of the educational qualification possessed.” Identify the characteristic of the profession that management does not fulfil in the statement being discussed above.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Ethical code of conduct"
+            },
+            {
+                "label": "Option 2",
+                "text": "Professional association"
+            },
+            {
+                "label": "Option 3",
+                "text": "Restricted entry"
+            },
+            {
+                "label": "Option 4",
+                "text": "Service motive"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management does not have the feature of restricted entry similar to profession.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are the impact of govt. policy changes on business & industry?",
+        "options": [
+            "Increased competition",
+            "Need for change",
+            "Demanding customers",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a factor of the social environment of business?",
+        "options": [
+            "Customs",
+            "Composition of family",
+            "Level / Standard of education",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Composition of family is an example of social environment. Social environment consists of the customs and traditions of the society in which business is existing. It includes the standard of living, taste, and preference and education level of people living in the society where business exists.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "As a result of the Economic Reforms the seller Market has been replaced by",
+        "options": [
+            "Buyer market",
+            "Foreign market",
+            "Whole sale market",
+            "Retail market"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Name the function of management which involves setting objectives and developing appropriate courses of action to achieve these objectives.",
+        "options": [
+            "Directing",
+            "Organising",
+            "Planning",
+            "Staffing"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Planning makes these objectives explicit and states activities are to be embraced to accomplish these objectives. Planning is an essential capacity, it sets out the base for all functions of management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "All other managerial functions are performed within the framework of the plans drawn. Identify the related feature of planning.",
+        "options": [
+            "Planning focuses on achieving objectives.",
+            "Planning is pervasive.",
+            "Planning is futuristic.",
+            "Planning is primary function of management."
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Planning is the basis for all other functions of management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Identify the correct sequence of steps involved in the planning process.",
+        "options": [
+            "Evaluating alternative courses, Identifying alternative course of actions, Setting objectives, Developing premises",
+            "Setting objectives, Identifying alternative course of actions, Evaluating alternative courses, Developing premises",
+            "Setting objectives, Developing premises, Identifying alternative course of actions, Evaluating alternative courses",
+            "Developing premises, Setting objectives, Identifying alternative course of actions, Evaluating alternative courses"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "It is a plan which quantifies future facts and figures.",
+        "options": [
+            "Procedure",
+            "Programme",
+            "Rule",
+            "Budget"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Budget is a numerical plan.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a benefit of planning?",
+        "options": [
+            "Planning reduces overlapping and wasteful activities.",
+            "Planning is a mental exercise.",
+            "Planning provides directions.",
+            "Planning reduces the risks of uncertainty."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Planning is a mental exercise (it is a feature of planning).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "Organising involves organisation of which of the following resources?",
+        "options": [
+            "Men",
+            "Material",
+            "Money",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Organizations use different resources to accomplish goals. The major resources used by organizations are often described as follow: human resources, financial resources, physical resources, and information resources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "Which organisation structure is consciously or deliberately established?",
+        "options": [
+            "Formal",
+            "Informal",
+            "Both (a) & (b)",
+            "None"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Formal organisational structure is consciously and deliberately designed structure of well-defined jobs, each bearing a definite authority, responsibility and accountability.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[24]",
+        "question_type": "multiple-choice",
+        "question": "It is defined as the framework within which managerial and operating tasks are performed.",
+        "options": [
+            "Span of management",
+            "Organisational structure",
+            "Informal organisation",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "An organizational structure is a framework that traces how specific business activities are guided to accomplish the objectives of an association.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[25]",
+        "question_type": "multiple-choice",
+        "question": "It is a good source of filling the vacancies with employees from over staffed departments.",
+        "options": [
+            "Transfer",
+            "Promotion",
+            "Placement agencies",
+            "Government exchanges"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "As the employees may be transferred from an overstaffed department to an under staffed department.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[26]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is an internal source of recruitment?",
+        "options": [
+            "Transfer",
+            "Advertising on television",
+            "Casual callers",
+            "Labour contractors"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "It is an internal source.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[27]",
+        "question_type": "multiple-choice",
+        "question": "Workforce analysis is a part of",
+        "options": [
+            "Recruitment Process",
+            "Selection process",
+            "Training and development process",
+            "Estimation of manpower requirement"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Workforce analysis is a part of estimation of manpower requirement.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[28]",
+        "question_type": "multiple-choice",
+        "question": "This type of training is provided to the new employees of an organisation in order to familiarise them with the organisational rules and policies, their superior and subordinate, and so on.",
+        "options": [
+            "Vestibule Training",
+            "Apprenticeship Training",
+            "Internship Training",
+            "Induction Training"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Induction training means to acquaint the newly appointed employees with their job and the organisation. Under this, new employees are introduced both to their superior and subordinates so that they can work with them as a team.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[29]",
+        "question_type": "multiple-choice",
+        "question": "This analysis would enable an assessment of the number and types of human resources necessary for the performance of various jobs and accomplishment of organisational objectives.",
+        "options": [
+            "Breakeven analysis",
+            "Workload analysis",
+            "Workforce analysis",
+            "All of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Workload analysis is a technique used to decide the time, exertion, and assets required by an association in distinguishing the genuine necessities.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[30]",
+        "question_type": "multiple-choice",
+        "question": "It is very difficult to detect the source of such communication.",
+        "options": [
+            "Upward communication",
+            "Vertical communication",
+            "Lateral communication",
+            "Informal communication"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "As it leads to spreading of rumours.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[31]",
+        "question_type": "multiple-choice",
+        "question": "These needs are most basic in the hierarchy of motivation theory and correspond to primary needs.",
+        "options": [
+            "Self-Actualisation Needs",
+            "Basic Physiological Needs",
+            "Security Needs",
+            "Belonging Needs"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "As per the theory of motivation by Maslow, the primary level of needs involves the basic physiological needs of people. Such needs are inclusive of food, shelter, water, and basic amenities to support survival. These needs are at the bottom level of the hierarchy.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[32]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a type of psychological barriers?",
+        "options": [
+            "Premature evaluation",
+            "Lack of attention",
+            "Fear of challenge to authority",
+            "Distrust"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "It is a type of personal barrier.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[33]",
+        "question_type": "multiple-choice",
+        "question": "Controlling function brings the management cycle back to the",
+        "options": [
+            "Organising",
+            "Planning",
+            "Staffing",
+            "Directing"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Controlling function brings the management cycle back to the organising.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "",
+        "question_type": "assertion-reason",
+        "question": "Organising creates a working relationship that establishes a clear channel of communication and specifies who is accountable for what.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of R",
+            "Both A and R are correct and R is not the correct explanation of R",
+            "A is true but R is false",
+            "A is false but R is true"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is true with respect to controlling function?",
+        "options": [
+            "It is a forward looking function",
+            "is a backward looking function.",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Controlling as an essential part of management is forward as well as backward looking. It is a backward looking function in the sense that it assesses the work done and analyses deviations from the set standards. Based on these deviations it attempts to take the required corrective measures. Thus, it guides the future course of action and aims at improving the future performance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a technique of controlling?",
+        "options": [
+            "Break even analysis",
+            "Budget",
+            "Managerial Audit",
+            "Cash Flow statement"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Traditional Techniques are: Personal observation, Statistical reports, Break-even analysis, and Budgetary control. Modern techniques are: Return on investment, Ratio analysis, Responsibility accounting, Management audit, PERT & CPM. A cash flow statement is a financial statement that provides total data regarding all cash inflows a company receives from its ongoing operations and external investment sources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "Financial Management aims at",
+        "options": [
+            "Reducing the cost of funds procured",
+            "Keeping the risk under control",
+            "Achieving effective deployment of such funds",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Financial Management aims at reducing the cost of funds procured, keeping the risk under control and achieving effective deployment of such funds. It also aims at ensuring availability of enough funds whenever required as well as avoiding idle finance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "Current assets of a business firm should be financed through",
+        "options": [
+            "Current liability only",
+            "Long term liability only",
+            "Fixed liabilities only",
+            "None of these"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Current assets of a business firm should be financed through current liability only.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "38",
+        "question_type": "multiple-choice",
+        "question": "These decisions affect the liquidity as well as profitability of a business.",
+        "options": [
+            "Capital budgeting decision",
+            "Financing decision",
+            "Working capital decision",
+            "Dividend decision"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Current assets are usually more liquid but contribute less to the profits than fixed assets. These provide liquidity to the business but provide little or low return. Hence, a balance needs to be struck between liquidity and profitability.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "Insufficient working capital in any enterprise may also result in",
+        "options": [
+            "(i), (ii) and (iii) only",
+            "(i), (iii), and (iv) only",
+            "(ii) and (iii) only",
+            "(i) and (iv) only"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Working capital is the difference between an organization’s current assets and its current liabilities. Working capital management ensures a company has sufficient liquidity (cash flow) in order to meet its short-term obligations and operating expenses. A poor and inefficient working capital management leads to tying up of funds in idle assets and reduces the liquidity and profitability of a company.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "This decision is about the quantum of finance to be raised from various long-term sources.",
+        "options": [
+            "Investment decision",
+            "Financing decision",
+            "Dividend decision",
+            "Capital budgeting decision"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The financing decision is a pivotal decision that involves determining the optimal mix of debt and equity to raise the required funds.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not true with regard to money market?",
+        "options": [
+            "It involves low market risk.",
+            "It is situated at specific locations.",
+            "Deals in unsecured and short-term debt instruments.",
+            "The instruments traded are highly liquid."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "It has no physical locations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is a money market instrument?",
+        "options": [
+            "Unit of mutual fund",
+            "Debenture",
+            "Bond",
+            "Treasury bill"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Money markets are unorganised markets. Financial institutions, banks, brokers and money dealers trade for a short period. T Bills, commercial paper, certificate of deposit, trade credit, bills of exchange, promissory notes, call money, etc. are some of the examples of money market instruments.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "Primary and Secondary Markets develop simultaneously because they",
+        "options": [
+            "Compete with each other",
+            "Complement each other",
+            "Function independently",
+            "Control each other"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Both the primary market and the secondary market are aspects of a capitalist financial system, in which money is raised by the buying and selling of securities—financial assets like stocks and bonds.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "After the trade has been executed, the broker issues a Contract Note to the investor within",
+        "options": [
+            "52 hours",
+            "48 hours",
+            "24 hours",
+            "12 hours"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "It is a legally enforceable document which is issued by a stock broker within 24 hours of the execution of a trade order.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "Customer’s satisfaction alone can ensure success. Which marketing concept holds this view?",
+        "options": [
+            "Production",
+            "Product",
+            "Marketing",
+            "Selling"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is not an element of marketing mix?",
+        "options": [
+            "Product",
+            "Physical distribution",
+            "Product pricing",
+            "Target market"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Target market is not an element of the marketing mix. A target market refers to a group of potential customers to whom a company wants to sell its products and services.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "On what grounds you cannot claim compensation from the product manufacturer?",
+        "options": [
+            "Manufacturing defect",
+            "Defect in design",
+            "Deviation from specification",
+            "Damaged by consumer"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "A consumer cannot claim compensation if the consumer himself damages the product.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "Why is consumer protection necessary?",
+        "options": [
+            "Physical safety of a consumer",
+            "Access to information",
+            "Consumer satisfaction",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Consumer protection makes markets work for both businesses and consumers. Consumers need to be able to obtain accurate, unbiased information about the products and services they purchase.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "A complaint can be launched against a _______ who engages in unfair business practices.",
+        "options": [
+            "Manufacturer",
+            "Traders",
+            "Consumer",
+            "Both traders and manufacturers"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "50",
+        "question_type": "multiple-choice",
+        "question": "Self-actualisation needs on the job are fulfilled by",
+        "options": [
+            "Ensuring hard work in the job",
+            "Ensuring quality products",
+            "Participating in a training programme",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Self-actualization needs are also referred to as our 'being' needs;",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "these include personal and creative self-growth, which are achieved through the fulfilment of our full potential.",
+        "options": [
+            "Personal growth",
+            "Creative growth",
+            "Self-actualization",
+            "Fulfilment of potential"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Self-actualization is the realization of one's full potential, and it encompasses personal and creative growth.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

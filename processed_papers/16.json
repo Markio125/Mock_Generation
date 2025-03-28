@@ -1,0 +1,1178 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "The barrier due to lack of vocabulary, wrong grammar or use of wrong words is called",
+        "options": [
+            "Badly expressed message",
+            "Technical Jargon",
+            "Faculty Translation",
+            "Symbol with different meaning"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Badly expressed message: sometimes due to lack of vocabulary, manager may use wrong words, omission of needed words, etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "The leader who encourages the employees to give suggestion and allots the work after consulting the employees is called",
+        "options": [
+            "Autocratic leader",
+            "Free Rein leader",
+            "Democratic leader",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "A democratic leader takes decisions after consultation and encourages the participation of subordinates. He decentralises authority and allows the subordinates to share his power.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Out of the following, which one depicts the correct sequence of process of motivation?",
+        "options": [
+            "Tension – Unsatisfied Need – Drives – Search Behaviour – Reduction of Tension – Satisfied Need",
+            "Unsatisfied Need – Tension – Satisfied Need - Drives – Search Behaviour – Reduction of Tension",
+            "Unsatisfied Need – Tension - Drives – Search Behaviour – Satisfied Need - Reduction of Tension",
+            "Drives – Search behaviour – Unsatisfied Need – Tension – Satisfied Need - Reduction of Tension"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Unsatisfied Need – Tension - Drives – Search Behaviour – Satisfied Need - Reduction of Tension",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "Which of the following features is of Formal organization -",
+        "options": [
+            "Directed by company rules and regulations",
+            "Managers are leaders",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The correct answer is option (c) as Formal organization finds its origin from the rules and regulations of the company further the leadership of a formal organization is Managers . Managers are the leaders in case of formal organization.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a point of distinction between functional division and divisional structure",
+        "options": [
+            "Formation is based on functions in case of functional structure while in case of divisional structure the formation is based on product",
+            "Not Easy to fix responsibilities in case of divisional structure while it is easy to fix responsibilities in case of functional structure",
+            "Product specialization takes place in functional structure",
+            "Managerial development is easy in case of functional structure"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The formation is based on functions in case of Functional structure while is based on product in case of divisional structure so option (a) is correct. Responsibility is easy to fix in case of divisional structure while difficult in case of functional structure; product specialization is a core of divisional structure.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Find the incorrect statement.",
+        "options": [
+            "The importance of Decentralisation is that it develops managerial talent for the future, quick decision making, facilitates growth and better control",
+            "Authority means right to command",
+            "The process of organizing involves defining the activity followed by grouping them",
+            "Authority, Responsibility and Accountability are not Elements of Delegation"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The correct answer is Authority, Responsibility and Accountability all three are Elements of Delegation . Hence the correct answer is Option (d).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are correct regarding Authority?",
+        "options": [
+            "Authority means right to command",
+            "Authority can be delegated",
+            "Authority arises from formal position",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The correct answer is option (d). Authority means right to command. Authority can be delegated and it arises from formal position.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a way to classify consumers?",
+        "options": [
+            "Consumers with different income levels",
+            "Consumers with different tastes and preferences",
+            "Consumers with different social statuses",
+            "None of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Different income levels, tastes and preferences, and social statuses are ways to classify consumers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "What is the role of management in business?",
+        "options": [
+            "Managerial skills are essential for the success of any enterprise.",
+            "Managerial skills should not be emphasised because only a few people can achieve true greatness.",
+            "Management and leadership skills are essential for the success of any enterprise.",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management is an important function in business. It does not exist by itself, but it is still very important for the operation of a business. The role of management is to manage human, financial and material resources within the enterprise.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Market orientation is a technique of selecting",
+        "options": [
+            "Product integration",
+            "Concentrated marketing",
+            "Additional segmentation",
+            "Marketing mix"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Market orientation is a business philosophy where the focus is on identify customer needs or wants and meeting them. When a company has a market orientation approach, it focuses on designing and selling goods and services, that satisfy customer needs in order to be profitable.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Which of the following reflects the sum of perceived tangible and intangible benefits and costs to a customer?",
+        "options": [
+            "Customer satisfaction",
+            "Customer delight",
+            "Customer value",
+            "Customer expectation"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Customer value reflects the sum of perceived tangible and intangible benefits and costs to a customer. Customer value is the perception of what a product or service is worth to a Customer versus the possible alternatives. Worth means whether the Customer feels s/he or he got benefits and services over what s/he paid.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not included as a basic idea in the definition of marketing concepts?",
+        "options": [
+            "Total company efforts",
+            "Profit",
+            "Productivity",
+            "Customer Satisfaction"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Productivity is NOT included as a basic idea in the definition of marketing concepts. The marketing concept is the belief that companies must assess the needs of their consumers first and foremost. Based on those needs, companies can make decisions in order to satisfy their consumers' needs, better than their competition.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "Marketing management is ________.",
+        "options": [
+            "Developing marketing strategies to move the company forward",
+            "Managing the marketing process",
+            "Monitoring the profitability of the company’s products and services",
+            "The art and science of choosing target markets and getting, keeping, and growing customers through creating, delivering, and communicating superior customer value"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The art and science of choosing target markets and getting, keeping, and growing customers through creating, delivering, and communicating superior customer value.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a function of marketing?",
+        "options": [
+            "Bending the customers according to product",
+            "Marketing planning",
+            "Product designing and development",
+            "Gathering and analysing market information"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Marketing function types within a larger business might include performing market research, producing a marketing plan, and product development, as well as strategically overseeing advertising, promotion, distribution for sale, customer service and public relations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "Efficiency is concerned with",
+        "options": [
+            "Doing the right thing",
+            "Doing things right",
+            "Achieving end results",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Efficiency aims at reduction of cost through optimum utilisation of resources and avoiding wastage of resources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Management is equally important to run a political organisation as it is to run an economic organisation. Which feature of management is being reflected in the given statement?",
+        "options": [
+            "Management is goal oriented",
+            "Management is multidimensional",
+            "Management is all pervasive",
+            "Management is a group activity"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management is required in all types: economic, social or political, and sizes of organisations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "Management is considered to be an art because",
+        "options": [
+            "The principles of management have universal validity",
+            "The principles of management have universal application",
+            "Different principles of management are brought into effect differently by different managers",
+            "It is not important for the practising managers to be a member of a professional association"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management is based on personalised application of the knowledge and skills.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "On what grounds you cannot claim compensation from the product manufacturer?",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Explanation if available",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[21]",
+        "question_type": "multiple-choice",
+        "question": "Businesses in capital markets are normally managed by",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Governmental treasury departments and sometimes accessed by the public, also"
+            },
+            {
+                "label": "Option 2",
+                "text": "Private bodies in the financial sectors"
+            },
+            {
+                "label": "Option 3",
+                "text": "International bodies and businesses"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The capital market is the governmental organization that deals in the connection of buyers and suppliers and also provides financial support to the required businesses.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[22]",
+        "question_type": "multiple-choice",
+        "question": "The highest level of market efficiency is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Weak form efficiency"
+            },
+            {
+                "label": "Option 2",
+                "text": "Semi-strong form efficiency"
+            },
+            {
+                "label": "Option 3",
+                "text": "Random walk efficiency"
+            },
+            {
+                "label": "Option 4",
+                "text": "Strong form efficiency"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The highest level of market efficiency is strong form efficiency. Market efficiency refers to the degree to which market prices reflect all available, relevant information.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[23]",
+        "question_type": "multiple-choice",
+        "question": "Diversification cannot completely eliminate risk in an investor's portfolio because...",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Of risk aversion"
+            },
+            {
+                "label": "Option 2",
+                "text": "Of the bid-ask spread"
+            },
+            {
+                "label": "Option 3",
+                "text": "There is no one willing to take an unnecessary risk"
+            },
+            {
+                "label": "Option 4",
+                "text": "Existing risks are almost never perfectly negatively correlated with each other"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Diversification can't completely eliminate risk — when it comes to investing, almost nothing is 100% safe. But it can significantly reduce your exposure to risk.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[24]",
+        "question_type": "multiple-choice",
+        "question": "Financial leverage measures",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Sensitivity of EBIT with respect of % change with respect to output"
+            },
+            {
+                "label": "Option 2",
+                "text": "% variation in the level of production"
+            },
+            {
+                "label": "Option 3",
+                "text": "Sensitivity of EPS with respect to % change in level of EBIT"
+            },
+            {
+                "label": "Option 4",
+                "text": "No change with EBIT and EPS"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The Financial Leverage (FL) measures the relationship between the EBIT and the EPS and it reflects the effect of change in EBIT on the level of EPS.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[25]",
+        "question_type": "multiple-choice",
+        "question": "The decision to invest a substantial sum in any business venture expecting to earn a minimum return is called",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Working capital decision"
+            },
+            {
+                "label": "Option 2",
+                "text": "An investment decision"
+            },
+            {
+                "label": "Option 3",
+                "text": "A production decision"
+            },
+            {
+                "label": "Option 4",
+                "text": "A sales decision"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The decision to invest a substantial sum in any business venture expecting to earn a minimum return is called an investment decision.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[26]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements does not highlight the relationship between planning and controlling?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning and controlling are separable twins of management."
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning without controlling is meaningless; controlling without planning is blind."
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning is prescriptive, controlling is evaluative."
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning and controlling are interrelated and interdependent"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Planning and controlling are inseparable twins of management. Planning without controlling is meaningless, controlling without planning is blind.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[27]",
+        "question_type": "multiple-choice",
+        "question": "Controlling function brings the management cycle back to the",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Organising function"
+            },
+            {
+                "label": "Option 2",
+                "text": "Directing function"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning function"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "It is a function that brings back the management cycle back to the planning function.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[28]",
+        "question_type": "multiple-choice",
+        "question": "For the following two statements, choose the correct option",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Statement I is correct & Statement II is wrong"
+            },
+            {
+                "label": "Option 2",
+                "text": "Statement II is correct & Statement I is wrong"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both the statements are correct"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both the statements are incorrect"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Both the statements are correct.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[29]",
+        "question_type": "multiple-choice",
+        "question": "These needs are most basic in the hierarchy of motivation theory and correspond to primary needs",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Self-Actualisation Needs"
+            },
+            {
+                "label": "Option 2",
+                "text": "Basic Physiological Needs"
+            },
+            {
+                "label": "Option 3",
+                "text": "Security Needs"
+            },
+            {
+                "label": "Option 4",
+                "text": "Security Needs"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Basic physiological needs in Maslow's theory are concerned with the needs that are universal in nature, this incorporates having a work environment, normal month-to-month compensation, open workspace, and fundamental offices (like coffee and tea making offices).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[30]",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is an element of directing function of management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Motivation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Recruitment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Supervision"
+            },
+            {
+                "label": "Option 4",
+                "text": "Leadership"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Motivation, supervision and leadership are the elements of directing but recruitment is a step involved in staffing process.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[31]",
+        "question_type": "multiple-choice",
+        "question": "Even where members of a department willingly cooperate and work, a manager has to coordinate the efforts of different people in a conscious manner.’ Identify the characteristic of coordination discussed above.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Coordination ensures unity of action"
+            },
+            {
+                "label": "Option 2",
+                "text": "Coordination is a deliberate function"
+            },
+            {
+                "label": "Option 3",
+                "text": "Coordination is a continuous process"
+            },
+            {
+                "label": "Option 4",
+                "text": "Coordination is an all-pervasive function"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The manager has to coordinate the efforts of different people in a conscious manner even where the members of a department willing cooperate and wave work so we can say that coordination is a deliberate function.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[32]",
+        "question_type": "multiple-choice",
+        "question": "A senior manager suggested his subordinate that you cannot learn management from books alone. Do you agree with the view of senior manager? Also identify the nature of management you understand from the above statement.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "No, Management is profession"
+            },
+            {
+                "label": "Option 2",
+                "text": "Yes, Management is profession"
+            },
+            {
+                "label": "Option 3",
+                "text": "No, Management is science"
+            },
+            {
+                "label": "Option 4",
+                "text": "Yes, Management is an art"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "This statement is true because management is not only a science, it is also an art which requires creativity.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[33]",
+        "question_type": "multiple-choice",
+        "question": "“Successful organisation do not achieve their goals by chance but by following a deliberate process.” Identify the process.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Efficiency"
+            },
+            {
+                "label": "Option 2",
+                "text": "Cooperation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management"
+            },
+            {
+                "label": "Option 4",
+                "text": "Coordination"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "To achieve the goals and objectives of the organisation, proper management of people, resources and activities need to be done.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[34]",
+        "question_type": "multiple-choice",
+        "question": "This function of Management related to placing the right person at the right job is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 2",
+                "text": "Staffing"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 4",
+                "text": "Controlling"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Staffing is the function which helps in the selection of proper candidates who have the training and skill to meet the demands of each position.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[35]",
+        "question_type": "multiple-choice",
+        "question": "What is the latest development in scientific management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Motion study"
+            },
+            {
+                "label": "Option 2",
+                "text": "Time study"
+            },
+            {
+                "label": "Option 3",
+                "text": "Fatigue study"
+            },
+            {
+                "label": "Option 4",
+                "text": "Lean manufacturing"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The latest development of scientific management is lean manufacturing which is a method that focuses on minimizing waste within manufacturing systems while simultaneously maximizing productivity.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[36]",
+        "question_type": "multiple-choice",
+        "question": "The principles of management enhance the understanding of relationship between human and material resources for the achievement of organisational goals. Identify the feature of the principles of management being described in the given statement.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Cause and effect relationships"
+            },
+            {
+                "label": "Option 2",
+                "text": "Optimum utilisation of resources and effective administration"
+            },
+            {
+                "label": "Option 3",
+                "text": "Formed by practice and experimentation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Mainly behavioural"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The principles of management emphasise on planned activities and systematic organisation of men and material in the organisation to get maximum benefit",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is an objective of time study?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "To determine the number of workers to be employed"
+            },
+            {
+                "label": "Option 2",
+                "text": "To calculate the labour costs"
+            },
+            {
+                "label": "Option 3",
+                "text": "To formulate suitable incentive schemes"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Time study technique determines the standard time required to perform a task and on that basis it helps to decide number of workers to be employed for it. It also helps to determine the labour costs and facilitate maintaining suitable incentive schemes to motivate the employees.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "38",
+        "question_type": "multiple-choice",
+        "question": "“The increase in the demand for many Ayurvedic medicines, health products and services in the past few months, is related to the need for building immunity and an increased awareness for health care due to the spread of Corona Virus.” Identify the feature of business environment being described above.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Specific and general forces"
+            },
+            {
+                "label": "Option 2",
+                "text": "Inter-relatedness"
+            },
+            {
+                "label": "Option 3",
+                "text": "Relativity"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The spread of corona virus influenced the demand of people and changed their life styles. People became more health conscious and demand for immunity booster products increased. It is an example of inter-relatedness.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "The Economic Survey, 2019 suggests that the psychological biases can be used for the tax compliance. It is in favour of using religious slogan such as “dying in debt is a sin” to improve tax compliance. Identify the related dimensions of business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Legal dimension and social dimension"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social dimension and economic dimension"
+            },
+            {
+                "label": "Option 3",
+                "text": "Technological dimension and political dimension"
+            },
+            {
+                "label": "Option 4",
+                "text": "Political dimension and economic dimension"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The religious slogan is related to the social dimension which includes forces like traditions, values, social trends etc. and tax rates relate to economic dimension.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "In urban areas people are becoming diet conscious. They go to gym and avoid eating junk food. Due to which there is less sale of fast food chain stores. Identify the dimension of business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Political"
+            },
+            {
+                "label": "Option 2",
+                "text": "Economic"
+            },
+            {
+                "label": "Option 3",
+                "text": "Social"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Health and fitness trends have become popular among large number of urban dwellers. This has lowered the demand for junk and fast foods and instead increased the demand for products like organic foods, diet foods etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "Which one is not an element of internal environment?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Money and capital market"
+            },
+            {
+                "label": "Option 2",
+                "text": "Marketing capabilities"
+            },
+            {
+                "label": "Option 3",
+                "text": "Operational capabilities"
+            },
+            {
+                "label": "Option 4",
+                "text": "Personal capabilities"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Money and capital market are the elements of external environment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "“Adarsh wants to start a business of opening a fast food chain. Anisha his friend, told him to perform planning as a function of management, as it precedes all functions of management, i.e., organising, staffing, directing, and controlling.” Identify the feature of planning referred to here.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning is a primary function"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning is pervasive"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning is continuous"
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning is futuristic"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Planning as a primary function precedes all the other functions of management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "“The entire work is divided in such a manner that each activity is properly managed.” Identify the statement and choose the correct answer.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Assignment of duties"
+            },
+            {
+                "label": "Option 2",
+                "text": "Establishing reporting relationships"
+            },
+            {
+                "label": "Option 3",
+                "text": "Departmentalisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Identification and division of work"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "To identify the activities and then grouping them properly is called division of work.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not true?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Delegation is a tool used to get subordinates to perform tasks and duties identified during decentralisation."
+            },
+            {
+                "label": "Option 2",
+                "text": "Decentralisation requires delegation tool to grant authority and power to the sub-ordinates."
+            },
+            {
+                "label": "Option 3",
+                "text": "Decentralisation means that control and decision-making lies only with the top management"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Under decentralisation the authority is dispersed in the hands of large number of executives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "For the following two statements, choose the correct option Statement I: Selection test is used to measure the ability and skill of the person. Statement II: Training is a career oriented process.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Statement I is correct and II is incorrect"
+            },
+            {
+                "label": "Option 2",
+                "text": "Statement I is incorrect and II is correct"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both are correct"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both are incorrect"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Individuals differ in many respects including job-related abilities and skills. In order to select a right person for the job, individual differences in terms of abilities and skills need to be adequately and accurately measured for comparison. This is done through a device called ‘selection test’. While training is not a job or career oriented process.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "Effective motivation in the organisation does not contribute towards",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Developing performance levels of employees"
+            },
+            {
+                "label": "Option 2",
+                "text": "Helping to reduce employee turnover"
+            },
+            {
+                "label": "Option 3",
+                "text": "Resistance to changes in the organisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Motivated employees don’t resist changes. They rather adopt to the changes.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "Though the dividends are free of tax in the hands of shareholders, which tax is levied on companies for the dividend?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Dividend pay-out tax"
+            },
+            {
+                "label": "Option 2",
+                "text": "Dividend allocation tax"
+            },
+            {
+                "label": "Option 3",
+                "text": "Dividend distribution tax"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The income tax laws in India provide for an exemption of the dividend income received from Indian companies by the investors by levying a tax called the Dividend Distribution Tax (DDT) on the company paying the dividend.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not important in financial planning?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It helps in avoiding business shocks and surprises"
+            },
+            {
+                "label": "Option 2",
+                "text": "It helps in co-ordinating various business functions"
+            },
+            {
+                "label": "Option 3",
+                "text": "It helps to reduce waste, duplication of efforts and gaps in planning"
+            },
+            {
+                "label": "Option 4",
+                "text": "It tries to delink the present with the future"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The importance of financial planning is that it helps avoid business shocks and surprises; it helps co-ordinate various business functions. It also helps to reduce waste, duplication of efforts and gaps in planning.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "The rate of return expected by the investor consists of the _______ an d __________.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Yield"
+            },
+            {
+                "label": "Option 2",
+                "text": "Capital appreciation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Yield, capital appreciation"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The rate of return expected by the investor consists of the yield and capital appreciation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "50",
+        "question_type": "multiple-choice",
+        "question": "Transaction cost of trading of financial instruments in centralised market is classified as:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Flexible costs"
+            },
+            {
+                "label": "Option 2",
+                "text": "Low transaction costs"
+            },
+            {
+                "label": "Option 3",
+                "text": "High transaction costs"
+            },
+            {
+                "label": "Option 4",
+                "text": "Constant costs"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Transaction costs are expenses incurred when buying or selling a good or service. In a financial sense, transaction costs include brokers’ commissions and spreads, which are the differences between the price the dealer paid for a security and the price the buyer pays.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

@@ -1,0 +1,818 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Management translates the work to be carried out in terms of goals to be achieved and assigns the means to achieve it.",
+        "options": [
+            "Management of work",
+            "Management of people",
+            "Management of operations",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management is multidimensional in nature and involves three aspects, management of work is one of them.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "This function of management relating to laying down the foundation for carrying out the other functions of management successfully is",
+        "options": [
+            "Organising",
+            "Staffing",
+            "Planning",
+            "Controlling"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Planning is the primary function of management and occupies the first position in the management process.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Principles of management can be modified by the manager when the situation demands.",
+        "options": [
+            "Rigid",
+            "Contingent",
+            "Flexible",
+            "Universally applicable"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Principles of management can be modified by the manager when the situation demands.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "How are principles of management formed?",
+        "options": [
+            "By experience of customers",
+            "By experience of managers",
+            "By propagation of social scientists",
+            "In a laboratory"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Principles of management were developed over years by experiences and observation of the managers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "Principles of management are significant because these result in",
+        "options": [
+            "Taking initiative",
+            "Adapting to new technology",
+            "Employee satisfaction",
+            "Optimum utilisation of resources"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Principles of management are significant because it increases efficiency in production, optimum utilization of resources, overall it increases efficiency of organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Name the principle of management suggested by Henri Fayol, which advocates that, “there should be good superiors at all levels, clear and fair agreement and judicious application of penalties.”",
+        "options": [
+            "Authority and responsibility",
+            "Esprit De Corps",
+            "Order",
+            "None of these"
+        ],
+        "correct_answer": "None of these",
+        "explanation": "It is the Principle of Discipline which advocates that, “there should be good superiors at all levels, clear and fair agreement and judicious application of penalties.”",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "Micro environment factors include",
+        "options": [
+            "Customers",
+            "Suppliers",
+            "Intermediaries",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "It is important for an organization to monitor and analyse all the elements of its micro environment like Company, Suppliers, Marketing Intermediaries, Competitors, General Public and the Customers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Business environment keeps on changing on regular basis. This characteristic of the business environment is called",
+        "options": [
+            "Dynamic",
+            "Relativity",
+            "Unpredictable",
+            "None of these"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Dynamic nature: Business environment is dynamic as it keeps on changing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are External factors in the Business environment of an organisation?",
+        "options": [
+            "Employees",
+            "Labour unions",
+            "Value system",
+            "None of these"
+        ],
+        "correct_answer": "None of these",
+        "explanation": "The external business environment consists of economic, political and legal, demographic, social, competitive, global, and technological sectors.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "vicinity",
+        "question_type": "multiple-choice",
+        "question": "Name the related feature of business environment which has influenced the business of ‘Twinkle Stars’ adversely.",
+        "options": [
+            "Totality of external forces",
+            "Dynamic nature",
+            "Interrelatedness",
+            "Uncertainty"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Business environment is dynamic in that it keeps on changing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not true with reference to planning?",
+        "options": [
+            "Planning is a pre-requisite for controlling.",
+            "Planning does not lead to rigidity.",
+            "Planning enables a manager to look ahead and anticipate changes.",
+            "Planning facilitates co-ordination among departments and individuals in the organisation."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Planning does lead to rigidity.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "____ type of plan is not likely to be repeated in future :-",
+        "options": [
+            "Standing plan",
+            "Programme",
+            "Single use plan",
+            "Method"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Single Use Plans are used only once. They are discarded when the situation is over.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "Which limitation is highlighted here once plan decided the future course of action, and manager may not be in a position to change it:",
+        "options": [
+            "Planning may not work in dynamic environment",
+            "Creates Rigidity",
+            "Reduces Creativity",
+            "Time Consuming"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Planning leads to rigidity in an organisation, a well-defined plan is drawn up with specific goals to be achieved within a specific time frame. These plans then decide the future course of action and managers may not be in a position to change it.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Pervasiveness of planning indicates that planning",
+        "options": [
+            "is a top management function",
+            "extends throughout the organisation",
+            "is a future-oriented activity",
+            "is the first element of management process"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "It implies that planning is required at all levels of management as well as in all departments of the organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "____ is the process of dividing work into manageable activities and then grouping the activities which are similar in nature.",
+        "options": [
+            "Coordination",
+            "Departmentalisation",
+            "Organisation structure",
+            "Delegation of authority"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Once work has been divided into small and manageable activities, than those activities which are similar in nature, are grouped together. This process is called departmentalisation. Department can be created on the basis of products, functions, and territory. This brings specialisation in operation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not related to ‘Organising as a Process’?",
+        "options": [
+            "Initiates implementation of plans",
+            "Provide framework for performing managerial and operating tasks",
+            "Clarifies jobs and working relationships",
+            "Effectively deploys resources"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Organising is a process that initiates implementation of plans by clarifying jobs and working relationship and effectively deploying resources for attainment of identified and desired results.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "It refers to the number of subordinates that can be effectively managed by a superior,",
+        "options": [
+            "Organisational structure",
+            "Informal organisation",
+            "Span of management",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The Span of Management refers to the number of subordinates who can be managed efficiently by a superior. Simply, the manager having the group of subordinates who report him directly is called as the span of management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Organisation structure establishes relationships between",
+        "options": [
+            "Organisation and environment",
+            "People, work and resources",
+            "Organisation and society",
+            "Suppliers and customers"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Organisation structure establishes relationships between people, work and resources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "Which type of learning is management development concerned with?",
+        "options": [
+            "Specific job skill development",
+            "Multi-skill development",
+            "Manual skill development",
+            "Inventory development"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Multi skill development.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "Which decision determines the overall cost of capital and the financial risk of the enterprise?",
+        "options": [
+            "Dividend decision",
+            "Capital budgeting decision",
+            "Investment decision",
+            "Financing decision"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Financing decisions refer to the decisions that companies need to take regarding what proportion of equity and debt capital to have in their capital structure. An integral part of financial decisions is the consideration of the cost of capital, which companies must take into account.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is the correct sequence in the staffing process?",
+        "options": [
+            "Placement and orientation, selection, recruitment, training and development, performance appraisal, promotion and career planning, compensation",
+            "Recruitment, placement and orientation, selection, performance appraisal, training and development, promotion and career planning, compensation",
+            "Recruitment, selection, training and development, placement and orientation, performance appraisal, promotion and career planning, compensation",
+            "Recruitment, selection, placement and orientation, training and development, performance appraisal, promotion and career planning, compensation"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Recruitment, selection, placement and orientation, training and development, performance appraisal, promotion and career planning, compensation",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "Staffing needs may arise because of",
+        "options": [
+            "Expansion needs",
+            "Existing employees leaving the organisation",
+            "Optimum utilization of resources",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Staffing needs may arise because of expansion needs, existing employees leaving the organisation and optimum utilization of resources",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a type of semantic barriers?",
+        "options": [
+            "Badly expressed message",
+            "Unclarified assumptions",
+            "Technical jargon",
+            "Premature evaluation"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "It is a type of psychological barrier",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "multiple-choice",
+        "question": "Two way communication technique is used under",
+        "options": [
+            "Laissez Faire",
+            "Democratic style",
+            "Autocratic style",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Two-way communication is a form of transmission in which both parties involved transmit information. Two-way communication has also been referred to as interpersonal communication",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "multiple-choice",
+        "question": "A company wants to replace manual production technique with mechanised techniques. Labour unions are resisting this change. Which function of management will help in the introduction of this change?",
+        "options": [
+            "Planning",
+            "Organising",
+            "Controlling",
+            "Directing"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Directing facilitates introduction of needed changes in the organisation. Generally, people have a tendency to resist changes in the organisation. Effective directing through motivation, communication and leadership helps to reduce such resistance and develop required cooperation in introducing changes in the organisation",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "multiple-choice",
+        "question": "Lateral communication takes place from",
+        "options": [
+            "First to second division of the same organisation",
+            "Superior to subordinate",
+            "Subordinate to superior",
+            "All of these"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Horizontal communication takes place between employees with same status. Horizontal communication, also called lateral communication, involves the flow of messages between individuals and groups on the same level of an organization",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "Directing takes place among which of the following:",
+        "options": [
+            "Superior-Superior",
+            "Superior-Subordinate",
+            "Subordinate-Subordinate",
+            "All of the above"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Every manager, from top executive to supervisor performs the function of directing. Directing takes place wherever a superior subordinate relations exist",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Directing is a key managerial function. Reason (R): Directing is a continuous activity",
+        "options": [
+            "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+            "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+            "(A) is true, but (R) is false",
+            "(A) is false, but (R) is true"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Directing is a key managerial function and a continuous activity, but the reason is not the correct explanation of the assertion",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not an importance of controlling function?",
+        "options": [
+            "It ensures order and discipline.",
+            "It restricts co-ordination in action.",
+            "It helps in judging accuracy of standards.",
+            "It improves employee motivation."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "It facilitates co-ordination in action.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "multiple-choice",
+        "question": "First step in controlling process is:",
+        "options": [
+            "Taking corrective action",
+            "Analysing the deviations",
+            "Determining standards",
+            "Measurement of actual performance."
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The first step in the controlling process is fixation of standards because standards are the criteria against which actual performance would be measured.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "33",
+        "question_type": "multiple-choice",
+        "question": "'Planning in the absence of controlling is meaningless'. What does this statement indicate in respect of both?",
+        "options": [
+            "Only planning is essential",
+            "Only controlling is essential",
+            "Both are essential",
+            "Both are unnecessary"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Both planning and controlling are essential.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "What is the last step in the controlling process?",
+        "options": [
+            "Setting Performance Standards",
+            "Taking corrective action",
+            "Comparing actual performance with standards",
+            "Measurement of actual performance"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Controlling consists of five steps: (1) set standards, (2) measure performance, (3) compare performance to standards, (4) determine the reasons for deviations and then (5) take corrective action as needed.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following shows the significance of an efficient control system?",
+        "options": [
+            "Accomplishes organisational objectives",
+            "Boosts employee morale",
+            "Judges accuracy of standards",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Significance of controlling system include accomplishing organisational objectives, judging accuracy of standards, improves employee motivation and making efficient use of resources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "Primary aim of financial management is to",
+        "options": [
+            "Maximise shareholder’s wealth",
+            "Wealth maximisation concept",
+            "Maximisation of the market value of equity shares",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The primary objective of the financial management process is to optimize the financial and economic benefits of an investment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "These decisions affect the liquidity as well as profitability of a business.",
+        "options": [
+            "Capital budgeting decision",
+            "Financing decision",
+            "Working capital decision",
+            "Dividend decision"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Working Capital Decisions affect the current assets and liabilities of a business and hence impacts the liquidity of the business.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "38",
+        "question_type": "multiple-choice",
+        "question": "The management of working capital is concerned with the following activities",
+        "options": [
+            "Short-term operations",
+            "Long-term operations",
+            "Medium-term operations",
+            "Both (a) and (b)"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Working capital management is defined as the management of short term liabilities and short-term assets.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not true with regard to primary market?",
+        "options": [
+            "Is also known as the old issues market.",
+            "It facilitates the transfer of investible funds from savers to entrepreneurs.",
+            "It deals with new securities being issued for the first time.",
+            "It deals with banks, financial institutions, insurance companies, individuals, etc."
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Primary Market is also known as New Issue Market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "It is a market for short-term funds which deals in monetary assets whose period of maturity is up to one year.",
+        "options": [
+            "Primary market",
+            "Secondary market",
+            "Capital market",
+            "Money market"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The money market is a market for short term funds which deals in monetary assets whose period of maturity is up to one year. These assets are close substitutes for money.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "Which of the following participants represent capital market?",
+        "options": [
+            "Development banks",
+            "Commercial banks",
+            "Stock exchanges",
+            "All of the above"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The term capital market refers to facilities and institutional arrangements through which long- term funds, both debt and equity are raised and invested. It consists of development banks, commercial banks and stock exchanges.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "One of the common irregularities noted by the Securities and Exchange Board of India during the inspection of a stock exchange was that it was dealing with unregistered sub- brokers. Identify the related function of Securities and Exchange Board of India",
+        "options": [
+            "Regulatory function",
+            "Protective function",
+            "Developmental function",
+            "None of the above"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The Regulatory function of SEBI includes: Registration of brokers and sub brokers and other players in the market. Regulation of stock brokers, portfolio exchanges, underwriters and merchant bankers and the business in stock exchanges and any other securities market. Calling for information by undertaking inspection, conducting enquiries and audits of stock exchanges and intermediaries.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a feature of marketing process?",
+        "options": [
+            "Satisfying needs and wants of the consumers",
+            "Creating a market offering",
+            "Developing an exchange mechanism",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The feature of marketing process are: Needs and wants: Satisfaction of the needs and wants of individuals and organizations. Creating a market offering: Complete offer for a product of service. Customer value: greatest benefit or value for the money. Exchange mechanism: Exchange of products/services for money/for something of value to them.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "The word ‘Market’ has come from the Latin word",
+        "options": [
+            "Marketo",
+            "Marketio",
+            "Marcatus",
+            "Matico"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The word market has been derived from Latin word Marcatus which refers to place of trade or a place where business is carried on.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "Name the process that enables the management to foresee the fund requirements, both the quantum and the timing.",
+        "options": [
+            "Financial management",
+            "Capital budgeting decisions",
+            "Dividend decision",
+            "Financial planning"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Financial planning is the process that enables the management to foresee the fund requirements, both the quantum as well as the timing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "Consumer protection acts a barrier against",
+        "options": [
+            "Sale of adulterated goods",
+            "Sale of duplicate goods",
+            "Sale of manufacturing goods",
+            "Both a and b"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "It aims to protect consumers against poor-quality products and unfair business practices or contract terms with regards to transactions, repairs, refunds and delivery.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "Identify an important principle of management control in which only significant deviations which go beyond the permissible limit should be brought to the notice of management.",
+        "options": [
+            "Management by control",
+            "Control by exception",
+            "Critical point control",
+            "Both (a) and (b)"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Control by exception is the principle of management control in which only significant deviations, which go beyond the permissible limit, should be reported to the management so that the management may take corrective action to deal with the situation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not an organization working for consumer protection?",
+        "options": [
+            "Consumer Voice",
+            "Consumer forum",
+            "The bureau of Indian standard",
+            "Consumer utility & trust society"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "The attitude of Indian Government Machinery towards entrepreneurial development programme is",
+        "options": [
+            "Destructive",
+            "Negative",
+            "Constructive",
+            "Non-cooperative"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The attitude of Indian Government machinery towards entrepreneurial development programme is Constructive.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "50",
+        "question_type": "multiple-choice",
+        "question": "What is the function of the financial market?",
+        "options": [
+            "Mobilisation of savings",
+            "Price fixation",
+            "Provide liquidity to financial assets",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Financial market mobilise the savings a household by getting them invested in company’s assets i.e., the company which borrows their fund.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "“Management is a systematic body of knowledge with its own theory, concepts and principles.” What nature of management is highlighted here?",
+        "options": [
+            "Systematic body of knowledge",
+            "Universal validity",
+            "Principles based on experiments",
+            "None of these"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements highlights that management is a group activity?",
+        "options": [
+            "Organisation is a collection of diverse individuals with different needs.",
+            "Achievement of common goal requires teamwork and co-ordination of efforts in a common direction.",
+            "Each member of the organisation may have different individual goals but they must travel together towards common goals.",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Because all the above statements resonate with management being a group activity.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "“The purpose of management is to accomplish organisational goals by providing quality services to the society.” What nature of management is highlighted in this statement?",
+        "options": [
+            "Restricted entry",
+            "Professional association",
+            "Systematic body of knowledge",
+            "Service motive"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Principles of management are not",
+        "options": [
+            "Universal",
+            "Flexible",
+            "Absolute",
+            "Behavioural"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Principles of management are not absolute.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "Who is considered as father of Scientific Management?",
+        "options": [
+            "Harold Koontz",
+            "Henry Fayol",
+            "Gilbreth",
+            "F.W. Taylor"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Frederick Winslow Taylor (F. W. Taylor) is the father of Scientific Management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "The main objective of functional foremanship is",
+        "options": [
+            "Not to provide free time to workers",
+            "Separate planning functions from executive functions",
+            "To separate top level management from CEO",
+            "Not to divide the work."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The main objective of functional foremanship is separate planning functions from executive functions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Principles of management emphasize on logical and rational decision making rather than on the basis of bias and prejudice. The given statement highlights that the knowledge of principles of management leads to",
+        "options": [
+            "Providing managers with useful insight into reality",
+            "Scientific decisions",
+            "Meeting changing environmental requirements",
+            "All of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Principles of management are not based on rule of thumb/hit-and-trial method, but on a scientific approach.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "Environment refers to all those external forces which have a homogeneous (Same) effects on the working of business organizations across business sectors is called?",
+        "options": [
+            "Micro Environment",
+            "Macro Environment",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Macro environment (General environment) refers to all those external forces which have homogeneous (Same) effect on the working of business organisations across business sectors.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements does not pertain to middle-level management?",
+        "options": [
+            "They are responsible for all the activities of the operational managers.",
+            "They are responsible for the welfare and survival of the organisation.",
+            "The interpreter of the policies is made by top-level managers.",
+            "Cooperate with other departments for the smooth running of the organisation."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "They are responsible for the welfare and survival of the organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "A business has to offer wider choice in purchasing enhanced quality of goods and services in order to maintain an edge over its competitors. The implementation of the new economic policy with liberalisation, privatisation and globalisation has posed various challenges for the corporate sector. One of the important challenges is explained in the above lines. Identify it.",
+        "options": [
+            "Increasing competition",
+            "More demanding customers",
+            "Necessity for change",
+            "Market orientation"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Which branch of management refers to the identification of consumer’s need and supplying them the goods and services which can satisfy their wants?",
+        "options": [
+            "Production management",
+            "Financial Management",
+            "Marketing management",
+            "Personnel Management"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Even though the political conditions vary from country to country, they impact the sentiment of an investor in the business, if the instability of the political conditions cause uncertainty and make it difficult for him to predict the future. Which feature of the business environment is being highlighted in the above statement?",
+        "options": [
+            "Specific and general forces",
+            "Dynamic nature",
+            "Relativity",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Business environment includes both specific and general forces. Business environment is dynamic, i.e., it keeps on changing whether in terms of technological improvement, shifts in consumer preferences or entry of new competition in the market. Business environment is a relative concept since it differs from country to country and even region to region.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Which of the following attitudes is not generally associated with successful entrepreneurship?",
+        "options": [
+            "Investing in R&D",
+            "Live your business day-by-day",
+            "Innovate and improvise continually",
+            "Produce as per customer’s requirements"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "An entrepreneur does all the possible stuffs to make his business run in a profitable manner. Investing in R & D, Innovations and Customer preferences are attributes of successful entrepreneurship.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "To get success in business all managers need to work hard in thinking about future, in making business prediction and achieving targets. The above line describe one of the concept, name that:",
+        "options": [
+            "Planning",
+            "Coordination",
+            "Management",
+            "None of these"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Planning concept",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Planning cannot foresee everything, and thus, there may be obstacles to effective planning. Identify the related limitation of planning.",
+        "options": [
+            "Planning leads to rigidity",
+            "Planning may not work in a dynamic environment",
+            "Planning does not guarantee success",
+            "Planning reduces creativity"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "In business environment, nothing is constant as it consists of a number of dimensions: economic, political, physical, legal and social dimensions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "match-the-column",
+        "question": "Match the following",
+        "column_1": [
+            {
+                "label": "a",
+                "text": "Mental Exercise"
+            },
+            {
+                "label": "b",
+                "text": "Futuristic"
+            },
+            {
+                "label": "c",
+                "text": "Continuous"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "involves looking ahead and is regarded as a forward looking function"
+            },
+            {
+                "label": "ii",
+                "text": "an intellectual activity of thinking rather than doing"
+            },
+            {
+                "label": "iii",
+                "text": "need for a new plan on the basis of new requirements and future conditions"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(ii), (iii), (i)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(iii), (ii), (i)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(ii), (i), (iii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii), (i), (ii)"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is true with respect to the step “developing premises” under the planning process?",
+        "options": [
+            "Base material for assumption can be put in the form of forecasts, existing plans or any past information about policies",
+            "Only a few managers are required to be familiar with and use the same assumptions",
+            "As a need not necessarily be same for all",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "true-false",
+        "question": "Planning premises are the actual plans about the future organisational resources.",
+        "options": [
+            "True",
+            "False",
+            "Partially true",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Planning premises are the assumptions about future environmental scenario and organisational resources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Organising process includes one of the following",
+        "options": [
+            "Grouping of activities",
+            "Prescribing disciplinary action",
+            "Determining objectives",
+            "Prescribing work schedule"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The steps in the process of organizing are: Identifying the Work, Grouping of Work, Establish Hierarchy, Delegation of Authority, and Coordination.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "“Planning requires logical and",
+        "options": [
+            "the last function of management",
+            "the first function of management",
+            "the essence of management",
+            "a separate function of management"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Coordination is the essence of management, for achieving harmony among individual efforts towards the accomplishment of group goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

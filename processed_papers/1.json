@@ -1,0 +1,1631 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Coordination is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "the last function of management"
+            },
+            {
+                "label": "Option 2",
+                "text": "the first function of management"
+            },
+            {
+                "label": "Option 3",
+                "text": "the essence of management"
+            },
+            {
+                "label": "Option 4",
+                "text": "a separate function of management"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Coordination is the essence of management, for achieving harmony among individual efforts towards the accomplishment of group goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Scientific principles have universal application and validity. Reason (R): Management principles are not exact like scientific principles so their application and use is not universal.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)."
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, and (R) is not the correct explanation of (A)."
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Scientific principles are based on truth and they can be applied at every time and in every situation. Thus, its universal application is possible. In the field of management too, management knowledge and principles of management are considered to be based on truth and they, too, can be applied anywhere and in every situation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Management principles are not as rigid as principles of pure science.” Which of the following best describes the given statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management principles deal with human behaviour and, thus, are to be applied creatively given the demands of the situation."
+            },
+            {
+                "label": "Option 2",
+                "text": "Principles of management are formed after research in work situations, which are technical in nature."
+            },
+            {
+                "label": "Option 3",
+                "text": "Principles of management contribute towards the development of management both as a science and as an art."
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Management principles are not as rigid as principles of pure science. They deal with human behaviour, which is never static. Hence, principles of management have to keep pace with change.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Technique of “Simplification of work” eliminate superfluous varieties. Sizes and dimensions of products. Reason (R): Technique of “Simplification of work” reduced inventories, further utilisation of equipment and increased turnover to reduce to cost.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true but Reason (R) is not correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true but reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false but reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "match-the-column",
+        "question": "Match the principle of management in Column I with their respective explanation in Column II:",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Scalar chain"
+            },
+            {
+                "label": "B",
+                "text": "Subordination of individual interest to general interest"
+            },
+            {
+                "label": "C",
+                "text": "Unity of direction"
+            },
+            {
+                "label": "D",
+                "text": "Equity"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "When no division of the company has a separate plan of action."
+            },
+            {
+                "label": "ii",
+                "text": "When a manager awards contract for supply of raw material to a particular party, which happens to be owned by his relative ignoring other parties, who can supply the same at a cheaper rate."
+            },
+            {
+                "label": "iii",
+                "text": "When a subordinate habitually contacts higher authorities in the company by passing his/her immediate superior."
+            },
+            {
+                "label": "iv",
+                "text": "When the manager grants one month medical leave to a supervisor with pay and only one week medical leave to accountant."
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(i), (ii), (iii), (iv)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(ii), (i), (iii), (iv)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(iii), (ii), (i), (iv)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii), (i), (ii), (iv)"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Which principle of management suggest the concept of replacing I with we.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Order"
+            },
+            {
+                "label": "Option 2",
+                "text": "Equity"
+            },
+            {
+                "label": "Option 3",
+                "text": "Espirit De Corp"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "It is the principle of management, according to which a manager should replace 'I' with 'We' in all his conversation with workers. Literally speaking, the phrase 'esprit de corps' means the spirit of loyalty and devotion which unites the members of the group.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "The government of India proposed to encourage e-transactions by encouraging the use of plastic money (through debit, credit and gift cards) or net banking by allowing deductions in usage charges, fees and income tax exemptions. Which component of business environment does it represent?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Economic environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Political environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Legal environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "Social environment"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "match-the-column",
+        "question": "Match the following:",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Stock Market"
+            },
+            {
+                "label": "B",
+                "text": "Customs and traditions"
+            },
+            {
+                "label": "C",
+                "text": "New techniques of operating business"
+            },
+            {
+                "label": "D",
+                "text": "General stability and peace in the country"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Political environment"
+            },
+            {
+                "label": "ii",
+                "text": "Social environment"
+            },
+            {
+                "label": "iii",
+                "text": "Technological environment"
+            },
+            {
+                "label": "iv",
+                "text": "Economic environment"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "A B C D (iv) (iii) (ii) (i)"
+            },
+            {
+                "label": "Option 2",
+                "text": "A B C D (ii) (iii) (iv) (i)"
+            },
+            {
+                "label": "Option 3",
+                "text": "A B C D (iii) (iv) (ii) (i)"
+            },
+            {
+                "label": "Option 4",
+                "text": "A B C D (iv) (ii) (iii) (i)"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Demand for sarees may be fairly high in India whereas it may be almost non-existent in America. Reason (R): Business environment consists of numerous inter-related and dynamic conditions of forces which arise from different sources.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion(A) and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true but reason (R) is not the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true but Reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false but Reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is incorrect?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Business environment is a relative concept"
+            },
+            {
+                "label": "Option 2",
+                "text": "Business environment is the sum total of all things internal to business firms"
+            },
+            {
+                "label": "Option 3",
+                "text": "Opportunity is referred to the positive internal trends or changes that will help performed to improve its performance"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "In India entrepreneurial development programme is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Necessary"
+            },
+            {
+                "label": "Option 2",
+                "text": "Unnecessary"
+            },
+            {
+                "label": "Option 3",
+                "text": "Wastage of time"
+            },
+            {
+                "label": "Option 4",
+                "text": "Wastage of money"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "In India entrepreneurial development programme is necessary.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Which of the following attitudes is not generally associated with successful entrepreneurship?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Competition and co-operation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Desire to influence others"
+            },
+            {
+                "label": "Option 3",
+                "text": "Innovation and product improvement"
+            },
+            {
+                "label": "Option 4",
+                "text": "Status quo in business"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "The form which contains certain vital details about the candidate, which is authenticated and attested by him or her is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Job offer"
+            },
+            {
+                "label": "Option 2",
+                "text": "Contract of employment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Medical Test Report"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Such document is the attestation form. This form contains certain vital details about the candidate, which are authenticated and attested by him or her.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Which source of recruitment has the disadvantage of increase in labour turnover?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "External source of recruitment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Internal source of recruitment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "External source of recruitment has the disadvantage of increase in labor turnover.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "This source of recruitment selects fresh talent",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Direct recruitment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Campus interview"
+            },
+            {
+                "label": "Option 3",
+                "text": "Walk- in interviews"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Staffing is very important function these days because of",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Advancement of technology"
+            },
+            {
+                "label": "Option 2",
+                "text": "Increasing size of organisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Complicated behaviour of human beings"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The basis of staffing function is efficient management of personnel- Human resources can be efficiently managed by a system or proper procedure, that is, recruitment, selection, placement, training and development, providing remuneration, etc. Staffing helps in placing right men at the right job.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "“The management had",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Option 1"
+            },
+            {
+                "label": "Option 2",
+                "text": "Option 2"
+            },
+            {
+                "label": "Option 3",
+                "text": "Option 3"
+            },
+            {
+                "label": "Option 4",
+                "text": "Option 4"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[19]",
+        "question_type": "true-false",
+        "question": "done effective forecast and critical thinking regarding allocation of resources to reduce wastage.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "True"
+            },
+            {
+                "label": "Option 2",
+                "text": "False"
+            },
+            {
+                "label": "Option 3",
+                "text": "Partially True"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[20]",
+        "question_type": "multiple-choice",
+        "question": "“The management had taken utmost care regarding the possible outcome and timely review of the Plans to achieve the set target during that hard time.” Which is the last step of the Process mentioned here?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Implementation of plan"
+            },
+            {
+                "label": "Option 2",
+                "text": "Timely execution of projects"
+            },
+            {
+                "label": "Option 3",
+                "text": "Follow up"
+            },
+            {
+                "label": "Option 4",
+                "text": "To prepare alternative course of action"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[21]",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Monitoring of plans is very important to ensure that the plans are being implemented according to the schedule. Reason (R): Regular checks and comparisons of the results with set standards are done to ensure that objectives are achieved.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is correct explanation of (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) To see whether plans are being implemented and activities are performed according to schedules is also part of the planning process. Monitoring the plans is equally important to ensure that objectives are achieved.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[22]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not true with reference to planning?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning is a pre-requisite for controlling."
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning does not lead to rigidity"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning enables a manager to look ahead and anticipate changes."
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning facilitates co-ordination among departments and individuals in the organisation."
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "(b) Planning sometimes leads to rigidity. Once the plans are finalised it is difficult to change them whereas the environment internal /external are quite dynamic. Thus it becomes difficult at times to achieve the objectives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[23]",
+        "question_type": "match-the-column",
+        "question": "Match the Functional Area in Column I with their respective Standards set to gauge performance in Column II, as a part of the controlling function",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Marketing"
+            },
+            {
+                "label": "B",
+                "text": "Production"
+            },
+            {
+                "label": "C",
+                "text": "Human Resource Management"
+            },
+            {
+                "label": "D",
+                "text": "Finance and Accounting"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Quality"
+            },
+            {
+                "label": "ii",
+                "text": "Liquidity"
+            },
+            {
+                "label": "iii",
+                "text": "Advertising expenditures"
+            },
+            {
+                "label": "iv",
+                "text": "Labour absenteeism"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(i), (iii), (iv), (ii)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(iii), (i), (iv), (ii)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(iv), (ii), (i), (iii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii), (i), (ii), (iv)"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[24]",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Controlling ensures that resources are used in the most effective and efficient manner. Reason (R): In controlling, each activity is performed in accordance with predetermined standards and norms.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) A good control system enables management to verify whether the standards set are accurate and objective. By exercising control, a manager seeks to reduce wastage and spoilage of resources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[25]",
+        "question_type": "multiple-choice",
+        "question": "Deviations are said to be positive in nature when",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planned performance is more than the actual performance"
+            },
+            {
+                "label": "Option 2",
+                "text": "Actual performance is more than the planned performance"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both planned and actual performances are same"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "(b) When the actual performance is more than the planned performance, it becomes a positive deviation while measuring the performance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[26]",
+        "question_type": "multiple-choice",
+        "question": "Reducing the workers, absenteeism in a factory by 20% is an example of",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Quantitative standard"
+            },
+            {
+                "label": "Option 2",
+                "text": "Qualitative standard"
+            },
+            {
+                "label": "Option 3",
+                "text": "Deviation"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) Reducing the workers, absenteeism in a factory by 20% is an example of Quantitative standard.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[27]",
+        "question_type": "multiple-choice",
+        "question": "Identify the correct sequence of steps to be followed in an organising process.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Departmentalisation, Establishing reporting relationships, Assignment of duties, Identification and division of work"
+            },
+            {
+                "label": "Option 2",
+                "text": "Identification and division of work, Departmentalisation, Assignment of duties, Establishing reporting relationships"
+            },
+            {
+                "label": "Option 3",
+                "text": "Identification and division of work, Assignment of duties, Departmentalisation, Establishing reporting relationships"
+            },
+            {
+                "label": "Option 4",
+                "text": "Identification and division of work, Establishing reporting relationships, Departmentalisation, Assignment of duties"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[28]",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Organisation structure is the outcome of the planning process. Reason (R): The organising process leads to the creation of an organisation structure which includes the designing of roles to be filled by suitably skilled people and defining inter-relationship between these roles so that ambiguity in performance of duties can be eliminated.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and reason (R) are true"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and reason (R) are false"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true and reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false and reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "(d) Organisation structure is the outcome of the Organising process.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[29]",
+        "question_type": "match-the-column",
+        "question": "Match the following by choosing the correct option:",
+        "column_1": [
+            {
+                "label": "(i)",
+                "text": "Leads to specialization"
+            },
+            {
+                "label": "(ii)",
+                "text": "Functional and divisional"
+            },
+            {
+                "label": "(iii)",
+                "text": "It has narrow scope"
+            },
+            {
+                "label": "(iv)",
+                "text": "Establishing reporting relationships"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "A",
+                "text": "Delegation"
+            },
+            {
+                "label": "B",
+                "text": "Step of organising process"
+            },
+            {
+                "label": "C",
+                "text": "Importance of organization"
+            },
+            {
+                "label": "D",
+                "text": "Types of organisation structure"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(i) (ii) (iii) (iv) A B C D"
+            },
+            {
+                "label": "Option 2",
+                "text": "(i) (ii) (iii) (iv) B D A C"
+            },
+            {
+                "label": "Option 3",
+                "text": "(i) (ii) (iii) (iv) C D A B"
+            },
+            {
+                "label": "Option 4",
+                "text": "(i) (ii) (iii) (iv) D A B C"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[30]",
+        "question_type": "multiple-choice",
+        "question": "Centralisation refers to",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Retention of decision-making authority"
+            },
+            {
+                "label": "Option 2",
+                "text": "Dispersal of decision-making authority"
+            },
+            {
+                "label": "Option 3",
+                "text": "Creating divisions as profit centres"
+            },
+            {
+                "label": "Option 4",
+                "text": "Opening new centres or branches"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) Centralisation implies concentration of all decision making functions at the apex of the management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[31]",
+        "question_type": "multiple-choice",
+        "question": "‘The consumer has the right to acquire knowledge and to be a well-informed consumer throughout life’. Identify the right stated in the above lines.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Right to Seek Redressal"
+            },
+            {
+                "label": "Option 2",
+                "text": "Right to be Heard"
+            },
+            {
+                "label": "Option 3",
+                "text": "Right of Consumer Awareness"
+            },
+            {
+                "label": "Option 4",
+                "text": "Right to Choose"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "(c) A consumer, who is well informed about his rights and the relief available to him, would be in a position to raise his voice against any unfair trade practices or unscrupulous exploitation. In addition to this, an understanding of his responsibilities would also enable a consumer to safeguard his interests.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[32]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is true?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Asserting oneself to ensure that one gets a fair deal is the right of a consumer."
+            },
+            {
+                "label": "Option 2",
+                "text": "Right to seek redressal entitles the consumer to get relief in case the product or service falls short of his expectation."
+            },
+            {
+                "label": "Option 3",
+                "text": "Right to be heard empowers a consumer to have access to a variety of products and services."
+            },
+            {
+                "label": "Option 4",
+                "text": "A case decided by the District Commission, can be appealed before the Supreme Court."
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "(b) The consumers have been given the right of redressal of their grievances relating to the performance, grade, quality etc. of the goods and services. If required, the product must be repaired replaced by the seller manufacturer. The Consumer Protection Act has duly provided for fair settlement of genuine grievances of the consumers. It has also set up a proper mechanism for their redressal at district, state and national levels.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[33]",
+        "question_type": "match-the-column",
+        "question": "Match the Consumer Rights as per Consumer Protection Act in Column I with the appropriate Explanation in Column II.",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Right to be Protected"
+            },
+            {
+                "label": "B",
+                "text": "Right to Choose"
+            },
+            {
+                "label": "C",
+                "text": "Right to Seek Redressal"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Wide variety of products in terms of quality, brand, prices, size, etc. should be offered to the consumer."
+            },
+            {
+                "label": "ii",
+                "text": "Protection to consumer against goods and services which are hazardous to life and health."
+            },
+            {
+                "label": "iii",
+                "text": "Consumer"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(i) (ii) (iii)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(ii) (i) (iii)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(iii) (ii) (i)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii) (i) (ii)"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[34]",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Many enlightened business firms have set up their own consumer service and grievance cells. Reason (R): The consumer has a right to file a complaint and to be heard in case of dissatisfaction with a good or a service.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)."
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)."
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false."
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true."
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "According to the Right of the Consumer Awareness, the consumer has the right to represent him or to be heard or right to advocate his interest. In case a consumer has been exploited or has any complaint against the product or service then he has the right to be heard and be assured that his/her interest would receive due consideration. Under this right, the companies must have complaint cells to attend the complaints of customers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[35]",
+        "question_type": "multiple-choice",
+        "question": "Any firm that goes bankrupt gradually will face one or more of the following symptoms _______________.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Persistent cash loses"
+            },
+            {
+                "label": "Option 2",
+                "text": "Failure of pay taxes"
+            },
+            {
+                "label": "Option 3",
+                "text": "Cost overruns"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Persistent cash losses, failure to pay taxes, cost overruns, low capacity utilization, accumulation of finished goods, etc. are the symptoms of bankruptcy.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[36]",
+        "question_type": "multiple-choice",
+        "question": "For a weak unit which of the following should hold good _____________.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Accumulated losses greater or equal to 50% of its peak net worth during immediately preceding our accounting years"
+            },
+            {
+                "label": "Option 2",
+                "text": "A current ratio of less than 1:1"
+            },
+            {
+                "label": "Option 3",
+                "text": "Suffering losses in the previous accounting year"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "A non-small scale industrial unit is defined as weak if the accumulated losses at the end of any accounting year, resulting in the erosion of fifty percent or more of its peak net worth during the immediately preceding four accounting years.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[37]",
+        "question_type": "multiple-choice",
+        "question": "The cost of funds raised through debt in the form of_____________.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Debentures"
+            },
+            {
+                "label": "Option 2",
+                "text": "Loans from financial institutions"
+            },
+            {
+                "label": "Option 3",
+                "text": "Debentures or loan from financial institutions"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The cost of funds raised through debt will be in the debentures or loan from financial institutions. Debentures and loans are debt for the company, as they have to be repaid over a period of time and are interest bearing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[38]",
+        "question_type": "multiple-choice",
+        "question": "The optimum capital structure of a company is planned as per considerations of which of the following?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "I, II and IV only"
+            },
+            {
+                "label": "Option 2",
+                "text": "II, III and IV only"
+            },
+            {
+                "label": "Option 3",
+                "text": "I and II only"
+            },
+            {
+                "label": "Option 4",
+                "text": "III and IV only"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Capital structure refers to the pattern a firm chooses to finance its assets and investments with the combination of equity, debt, or internal funds. The optimal ratio of debt to equity reduces the risk of insolvency, and help the company continue to be successful and ultimately remain or to become profitable.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[39]",
+        "question_type": "match-the-column",
+        "question": "Match the following:",
+        "column_1": [
+            {
+                "label": "(i)",
+                "text": "National Stock Exchange"
+            },
+            {
+                "label": "(ii)",
+                "text": "National Securities Depository Limited"
+            },
+            {
+                "label": "(iii)",
+                "text": "Securities and Exchange Board of India"
+            },
+            {
+                "label": "(iv)",
+                "text": "Securities Trading Corporation of India"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "(a)",
+                "text": "Marks the beginning of the process of dematerialisation of shares of the participating companies"
+            },
+            {
+                "label": "(b)",
+                "text": "Facilitation of equal access to investors across the country"
+            },
+            {
+                "label": "(c)",
+                "text": "To foster the development of an active secondary market for Government Securities"
+            },
+            {
+                "label": "(d)",
+                "text": "Abolition of capital issues control and retaining the sale authority for new capital issues"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(i)−(b),(ii)−(a),(iii)−(d),(iv)−(c)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(i)−(a),(ii)−(b),(iii)−(c),(iv)−(d)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(i)−(a),(ii)−(b),(iii)−(d),(iv)−(c)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(i)−(d),(ii)−(c),(iii)−(b),(iv)−(a)"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "National Stock Exchange of a country facilitates equal access to investors across the nation. National Securities Depository Limited has marked the beginning of the process of dematerialisation of shares of the participating companies. Securities and Exchange Board of India stands for abolition of Capital issues control and retaining the sale authority for new capital issues Securities Trading Corporation of India fosters the development of an active secondary market for Government Securities.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[40]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is related to 'BOLT' system in the Indian Securities market?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "National Stock Exchange"
+            },
+            {
+                "label": "Option 2",
+                "text": "Bombay Stock Exchange"
+            },
+            {
+                "label": "Option 3",
+                "text": "Over the Counter Exchange of India"
+            },
+            {
+                "label": "Option 4",
+                "text": "Multi Commodity Stock Exchange"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The Bombay Online Trading System (BOLT) enabled the oldest stock exchange in India to expand trading activities to 118 cities across the country. BOLT has at present capacity to handle 5,00,000 trades in a seven hour trading session per day.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[41]",
+        "question_type": "multiple-choice",
+        "question": "What is Call Money?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Money borrowed or lent for a day or overnight."
+            },
+            {
+                "label": "Option 2",
+                "text": "Money borrowed for more than one day but up to 3 days."
+            },
+            {
+                "label": "Option 3",
+                "text": "Money borrowed for more than one day but up to 7 days."
+            },
+            {
+                "label": "Option 4",
+                "text": "Money borrowed for more than one day but up to 14 days."
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Call money is associated with the day-to-day cash requirement of banks. When banks face cash shortage, they borrow from other commercial banks for a short period of 1 - 14 days. When banks borrow for one day it is known as call-money.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[42]",
+        "question_type": "multiple-choice",
+        "question": "Everything mentioned below is required to make the endorsement complete, except _______.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The holder signs on the face or back of the instrument."
+            },
+            {
+                "label": "Option 2",
+                "text": "The instrument is delivered to the endorsee."
+            },
+            {
+                "label": "Option 3",
+                "text": "It is sighed and delivered with intention of vesting of the endorsee with the rights of the holder."
+            },
+            {
+                "label": "Option 4",
+                "text": "It is sighed and delivered with intention of vesting the endorsee with the duties of the holder."
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Everything mentioned below is required to make the endorsement complete except it is signed and delivered with intention of vesting the endorsee with the duties of the holder.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[43]",
+        "question_type": "multiple-choice",
+        "question": "Customer’s satisfaction alone can ensure success. Which marketing concept holds this view?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Production concept"
+            },
+            {
+                "label": "Option 2",
+                "text": "Product concept"
+            },
+            {
+                "label": "Option 3",
+                "text": "Marketing concept"
+            },
+            {
+                "label": "Option 4",
+                "text": "Selling concept"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[44]",
+        "question_type": "multiple-choice",
+        "question": "Persuading buyers to purchase the product is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Production concept"
+            },
+            {
+                "label": "Option 2",
+                "text": "Product concept"
+            },
+            {
+                "label": "Option 3",
+                "text": "Selling concept"
+            },
+            {
+                "label": "Option 4",
+                "text": "Marketing concept"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Persuading buyers to purchase the product is selling concept.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[45]",
+        "question_type": "multiple-choice",
+        "question": "Under which philosophy of marketing, efforts are made to bring down the cost of production to the minimum?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Production concept"
+            },
+            {
+                "label": "Option 2",
+                "text": "Product concept"
+            },
+            {
+                "label": "Option 3",
+                "text": "Marketing concept"
+            },
+            {
+                "label": "Option 4",
+                "text": "Selling concept"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[46]",
+        "question_type": "multiple-choice",
+        "question": "Nike, a shoe manufacturing company sells its product through its own showrooms and websites. The method of selling comes under which method of selling.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Zero level channel"
+            },
+            {
+                "label": "Option 2",
+                "text": "One level channel"
+            },
+            {
+                "label": "Option 3",
+                "text": "Two-level channel"
+            },
+            {
+                "label": "Option 4",
+                "text": "Three-level channel"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The method of selling comes under zero level channel.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[1]",
+        "question_type": "multiple-choice",
+        "question": "Out of the following, identify the limitation of planning stated in above paragraph.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning reduces creativity"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning involves huge cost"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning is a time-consuming process"
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning does not work in dynamic environment"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Planning is an activity which is done by the top management. Usually the rest of the members just implements these plans. As a consequence, middle management and other decision makers are neither allowed to deviate from plans nor are they permitted to act on their own. Thus, much of the initiative or creativity inherent in them also gets lost or reduced.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[48]",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): The controlling function measures progress towards the organisational goals. Reason (R): Controlling guides the organisation and keeps it on the right track so that organisational goals might be achieved.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)."
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)."
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false."
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true."
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Controlling as a function of management refers to the evaluation of actual performance of work against planned or standard performance and taking the corrective action, if necessary.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[49]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following Maslow’s needs refer to affection, sense of belongingness, acceptance and friendship?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Esteem Needs"
+            },
+            {
+                "label": "Option 2",
+                "text": "Self-Actualisation Needs"
+            },
+            {
+                "label": "Option 3",
+                "text": "Affiliation/Belonging Needs"
+            },
+            {
+                "label": "Option 4",
+                "text": "Safety/Security Needs"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Man is a social animal. He wanted to live in the society honourably. Therefore, he wants friends and relatives with whom he can share his joys and sorrows. Social needs include need for love, affection, friendship, etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[50]",
+        "question_type": "multiple-choice",
+        "question": "India is world’s third largest domestic aviation market. The government plans to make India a hub for financing aircraft purchases and leasing of planes. In order to promote this, the government has announced tax incentives, like tax deductions, for companies setting up business in IFSC for fifteen years. Identify the type of plan being described in the above lines",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Method"
+            },
+            {
+                "label": "Option 2",
+                "text": "Strategy"
+            },
+            {
+                "label": "Option 3",
+                "text": "Programme"
+            },
+            {
+                "label": "Option 4",
+                "text": "Rule"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The mentioned lines describes strategy.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

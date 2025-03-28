@@ -1,0 +1,748 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "match-the-column",
+        "question": "Match the following Characteristics Explanations",
+        "column_1": [
+            {
+                "label": "a",
+                "text": "Goal-oriented process"
+            },
+            {
+                "label": "b",
+                "text": "Group activity"
+            },
+            {
+                "label": "c",
+                "text": "Multi-dimensional"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Management is a complex activity involving management of people, work and operations."
+            },
+            {
+                "label": "ii",
+                "text": "Some aims and objectives are the basic reason for existence of an organisation."
+            },
+            {
+                "label": "iii",
+                "text": "Diverse individuals with different needs work together to fulfil the common organisational goal."
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(ii), (i), (iii)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(ii), (iii), (i)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(iii), (ii), (i)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii), (i), (ii)"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "The process by which a manager synchronises the activity of different departments is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 4",
+                "text": "Coordination"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Coordination is the integration, unification and synchronisation of the efforts of the departments to provide unity of action for pursuing a common goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "________ is one of the redressal agencies for redressing consumer grievances.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "COPRA"
+            },
+            {
+                "label": "Option 2",
+                "text": "State Commission"
+            },
+            {
+                "label": "Option 3",
+                "text": "Consumer Organisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "State Commission is one of the redressal agencies for redressing consumer grievances.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "Which of the following does not qualify as a consumer right?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Right to safety"
+            },
+            {
+                "label": "Option 2",
+                "text": "Right to seek redressal"
+            },
+            {
+                "label": "Option 3",
+                "text": "Right to get discount"
+            },
+            {
+                "label": "Option 4",
+                "text": "Right to be heard"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Right to get discount",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "Any person who buys products for personal use or hires or uses services for a fee is referred to as a",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Trader"
+            },
+            {
+                "label": "Option 2",
+                "text": "Consumer"
+            },
+            {
+                "label": "Option 3",
+                "text": "Manufacturer"
+            },
+            {
+                "label": "Option 4",
+                "text": "Service provider"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "A Consumer is a person who purchases a product or avails a service for a consideration, either for his personal use or to earn his livelihood.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Determine which consumer rights are being exercised in the situation at hand.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Right to safety"
+            },
+            {
+                "label": "Option 2",
+                "text": "Right to seek redressal"
+            },
+            {
+                "label": "Option 3",
+                "text": "Right to be heard"
+            },
+            {
+                "label": "Option 4",
+                "text": "Right to consumer education"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "The future of entrepreneurial in India is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "In dark"
+            },
+            {
+                "label": "Option 2",
+                "text": "Bright"
+            },
+            {
+                "label": "Option 3",
+                "text": "In difficulty"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The future of entrepreneurial in India is bright.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Critical evaluation points of entrepreneurial development programme are",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Organisational policies"
+            },
+            {
+                "label": "Option 2",
+                "text": "Lack of suitable selection procedure"
+            },
+            {
+                "label": "Option 3",
+                "text": "Lack quality of technical and vocational education and training"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Critical evaluation points of entrepreneurial development programme are: Organisation policies, lack of suitable selection, Procedure Low quality of technical and vocational education and training.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "Higher amount of debt means __________ interest rate in future.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Higher"
+            },
+            {
+                "label": "Option 2",
+                "text": "Lower"
+            },
+            {
+                "label": "Option 3",
+                "text": "Similar"
+            },
+            {
+                "label": "Option 4",
+                "text": "Equal"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "More the debt will increase more will be interest rate in future.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Which of the following factors affect requirement of working capital?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Scale of Operations"
+            },
+            {
+                "label": "Option 2",
+                "text": "Credit Allowed"
+            },
+            {
+                "label": "Option 3",
+                "text": "Production Cycle"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Main factors affecting the working capital are Nature of Business, Scale of Operations, Business Cycle, Seasonal Factors, Production Cycle, Credit Allowed and Operating Efficiency.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "________ plan of action prepared under financial planning reduces waste, duplication of efforts, and gaps in planning.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Detailed"
+            },
+            {
+                "label": "Option 2",
+                "text": "Short"
+            },
+            {
+                "label": "Option 3",
+                "text": "General"
+            },
+            {
+                "label": "Option 4",
+                "text": "Basic"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Financial plan is a comprehensive evaluation of an individual's current pay and future financial state by using current known variables to predict future income, asset values and withdrawal plans.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Dividend policy is a ________.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Managerial decision"
+            },
+            {
+                "label": "Option 2",
+                "text": "Financing decision"
+            },
+            {
+                "label": "Option 3",
+                "text": "Dividend decision"
+            },
+            {
+                "label": "Option 4",
+                "text": "Subjective value"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Dividend policy refers to the policy that deals with the percentage of the profit which is yield as a dividend to the shareholders of a company which is a financial decision as it includes the finance of the company which can be retained in the company or given as a dividend.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "An endorsement is said to be a Partial endorsement, if it satisfies which of the following conditions?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "If the endorser sings his name only"
+            },
+            {
+                "label": "Option 2",
+                "text": "If the endorser adds a direction to pay the amount mentioned in the instrument to the order of a specified person"
+            },
+            {
+                "label": "Option 3",
+                "text": "If the endorser restricts or excludes the right to further negotiate the instrument"
+            },
+            {
+                "label": "Option 4",
+                "text": "If the endorser purports to transfer to the endorsee only a part of the amount payable"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "An endorsement is said to be a Partial endorsement, if the endorser purports to transfer to the endorsee only a part of the amount payable. In simple terms, endorsement which allows transferring to the endorsee a part of the amount payable is known as partial endorsement.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "The relationship between the price of a share and the Sensex is measurably _____.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Alfa"
+            },
+            {
+                "label": "Option 2",
+                "text": "Beta"
+            },
+            {
+                "label": "Option 3",
+                "text": "Book value"
+            },
+            {
+                "label": "Option 4",
+                "text": "Annuity"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The relationship between the price of a share and the Sensex is measurably Alfa. It helps to measure the performance of securities. It helps in bench marking fund portfolios and launching of index funds.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "A capital market is ideal when",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Financial institutions are sufficiently developed"
+            },
+            {
+                "label": "Option 2",
+                "text": "Capital is most productively allocated"
+            },
+            {
+                "label": "Option 3",
+                "text": "Finance is available at reasonable cost"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "An ideal capital market is defined by a set of five assumptions: (1) Capital markets are friction-less. (2) All market participants share homogenous expectation, value relevant information is costlessly available to all market participants. (3) All market participants are atomistic. No single market participant can affect the market price of a security via trades. (4) The firm’s investment program is fixed and known. (5) The firms financing is fixed. Once chosen, the firm’s capital structure is fixed.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "What is the meaning of right issue?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Company offers new shares to its existing shareholders"
+            },
+            {
+                "label": "Option 2",
+                "text": "Securities are not issued to existing shareholders at all"
+            },
+            {
+                "label": "Option 3",
+                "text": "Company sells the securities to some selected institutions"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "A rights issue is a dividend of subscription rights to buy additional securities in a company made to the company's existing security holders. When the rights are for equity securities, such as shares, in a public company, it is a non-dilutive pro rata way to raise capital.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "State the element of directing which helps in implementing the principle of scalar chain?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Wireless communication"
+            },
+            {
+                "label": "Option 2",
+                "text": "Informal communication"
+            },
+            {
+                "label": "Option 3",
+                "text": "Formal communication"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Formal communication refers to the flow of official information through proper, predefined channels and routes. The flow of information is controlled and needs deliberate effort to be properly communicated.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Marketing is concerned with the creation of utilities.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "I and III are correct"
+            },
+            {
+                "label": "Option 2",
+                "text": "I, II and IV are correct"
+            },
+            {
+                "label": "Option 3",
+                "text": "I, III and IV are correct"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Marketing is concerned with the creation of utilities (Form utilities, Place utilities, Time utilities and Possession utilities).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "The new concept of 'demarketing' is coined by",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Kotler and Levy"
+            },
+            {
+                "label": "Option 2",
+                "text": "Gerald Zalfman"
+            },
+            {
+                "label": "Option 3",
+                "text": "William Lazer"
+            },
+            {
+                "label": "Option 4",
+                "text": "David Luck"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[32]",
+        "question_type": "multiple-choice",
+        "question": "“It refers to the right of an individual to command his subordinate and to take action within the scope of his position.” Which element of delegation is being referred to in the above statement?",
+        "options": [
+            "Accountability",
+            "Responsibility",
+            "Authority",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Authority is the power to complete an assigned task. Without authority a subordinate is unable to execute the task perfectly. In order to complete the task as is expected by the manager, the manager has to provide authority of executing that task to the subordinate.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[33]",
+        "question_type": "multiple-choice",
+        "question": "Identify the type of organisational structure which facilitates occupational specialisation.",
+        "options": [
+            "Functional structure",
+            "Horizontal structure",
+            "Network structure",
+            "Divisional structure"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "It emphasises on specific functions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[34]",
+        "question_type": "multiple-choice",
+        "question": "Identify the type of organisational structure which makes training of employees easier, as the focus is only on a limited range of skills.",
+        "options": [
+            "Network structure",
+            "Divisional structure",
+            "Functional structure",
+            "Matrix structure"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "As each employee is expected to gain proficiency with regard to one function only.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[35]",
+        "question_type": "multiple-choice",
+        "question": "Mr. Bhola, Finance manager of ABC Limited applied for leave to attend a family function in Mohali. The director of the company requested him to cancel his leave as there is an important meeting schedule on that date. Mr. Bhola immediately agreed and cancelled his trip as he thought attending meeting is more important for company’s benefit. Which principle of Fayol is applied by Mr. Bhola?",
+        "options": [
+            "Principle of subordination of individual interest to general interest.",
+            "Principle of equity",
+            "Principle of order",
+            "Principle of Discipline."
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Principle of subordination of individual interest to general interest.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[36]",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following statements best describes ‘Mental Revolution’ as described by F.W. Taylor?",
+        "options": [
+            "It implies change of attitude.",
+            "The management and workers should not play the game of one up man ship.",
+            "Both management and workers require each other.",
+            "Workers should be paid more wages."
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Mental revolution Mental refers to mind and revolution refers to radical change, therefore, mental revolution refers to a change of mind. According to Taylor, a scientific management, in its essence, involves a complete mental revolution on the part of both sides to industry, viz workers and management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[37]",
+        "question_type": "match-the-column",
+        "question": "Match the technique of scientific management in Column I with their respective explanation in Column II",
+        "column_1": [
+            {
+                "label": "a",
+                "text": "Method Study"
+            },
+            {
+                "label": "b",
+                "text": "Time Study"
+            },
+            {
+                "label": "c",
+                "text": "Standardisation of work"
+            },
+            {
+                "label": "d",
+                "text": "Simplification of work"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "To reduce a given line or product to fixed types, sizes and characteristic"
+            },
+            {
+                "label": "ii",
+                "text": "Devising new varieties of the existing ones"
+            },
+            {
+                "label": "iii",
+                "text": "To find out one best way of doing the job"
+            },
+            {
+                "label": "iv",
+                "text": "To determine the number of workers to be employed; frame suitable incentive schemes and determine labour costs."
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(iii), (iv), (i), (ii)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(i), (ii), (iii), (iv)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(ii), (iv), (i), (iii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii), (i), (ii), (iv)"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[38]",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Fayol suggested that employees in the organisation must be given an opportunity to take some initiative in making and execution a plan. Reason (R): It does not help to develop feeling of belongingness in the employees.",
+        "options": [
+            "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+            "Both Assertion (A) and Reason (R) are true but Reason (R) is not correct explanation of Assertion (A)",
+            "Assertion (A) is true but reason (R) is false",
+            "Assertion (A) is false but reason (R) is true"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

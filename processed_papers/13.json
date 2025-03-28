@@ -1,0 +1,1394 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "The process of converting the message into communication symbols is known as",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Media"
+            },
+            {
+                "label": "Option 2",
+                "text": "Encoding"
+            },
+            {
+                "label": "Option 3",
+                "text": "Feedback"
+            },
+            {
+                "label": "Option 4",
+                "text": "Decoding"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The process of converting message into symbol is known as Encoding.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is the appropriate order of hierarchy of needs as per Abraham Maslow?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Safety Needs – Basic Physiological Needs – Social Needs - Esteem Needs – Self Actualisation Needs"
+            },
+            {
+                "label": "Option 2",
+                "text": "Basic Physiological Needs – Safety Needs - Esteem Needs – Social Needs - Self Actualisation Needs"
+            },
+            {
+                "label": "Option 3",
+                "text": "Social Needs – Safety Needs - Basic Physiological Needs - Esteem Needs – Self Actualisation Needs"
+            },
+            {
+                "label": "Option 4",
+                "text": "Basic Physiological Needs – Safety Needs – Social Needs – Esteem Needs – Self Actualisation Needs"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Basic Physiological Needs – Safety Needs – Social Needs – Esteem Needs – Self Actualisation Needs",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "When decision-making authority is retained, an organisation is said to be",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Decentralised"
+            },
+            {
+                "label": "Option 2",
+                "text": "Centralised"
+            },
+            {
+                "label": "Option 3",
+                "text": "Fragmented"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "An organisation is centralised when decision-making authority is retained by higher management levels whereas it is decentralised when such authority is systematically delegated at all levels and in all departments of a firm.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "Organizing is the process of ______ an d ______ t he activities of an enterprise and",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Defining and grouping"
+            },
+            {
+                "label": "Option 2",
+                "text": "Allocating and defining"
+            },
+            {
+                "label": "Option 3",
+                "text": "Defining and allocating"
+            },
+            {
+                "label": "Option 4",
+                "text": "Establishing relationships and Grouping"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The process of organizing involves defining the activity followed by grouping them.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is an advantage of Functional structure?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Functional structure leads to occupational specialization"
+            },
+            {
+                "label": "Option 2",
+                "text": "Functional structure promotes better control and coordination within the department"
+            },
+            {
+                "label": "Option 3",
+                "text": "Only (a)"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both (a) and (b)"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Functional structure leads to occupational specialization and promotes better control and coordination within the department.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are Elements of Delegation?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Authority"
+            },
+            {
+                "label": "Option 2",
+                "text": "Responsibility"
+            },
+            {
+                "label": "Option 3",
+                "text": "Accountability"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Authority, Responsibility and Accountability all three are Elements of Delegation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "The form of organisation known for giving rise to rumours is called",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Centralised Organisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Decentralised Organisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Informal Organisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Formal Organisation"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The informal organisation may be defined as “a network of personal and social relationships that arise spontaneously as people associate with one another in a work environment.”",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a factor that affects the demand curve?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Number of buyers"
+            },
+            {
+                "label": "Option 2",
+                "text": "Prices of related goods"
+            },
+            {
+                "label": "Option 3",
+                "text": "Consumer taste and preference"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The number of buyers, prices of related goods and consumer tastes and preferences affect the demand curve.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a part of industrial policy?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Tariff reduction"
+            },
+            {
+                "label": "Option 2",
+                "text": "Subsidies to industry"
+            },
+            {
+                "label": "Option 3",
+                "text": "Change in the corporate tax regime"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Industrial policy is concerned with economic growth. It includes changes in tax and tariff regimes, subsidies and changes in the financial structure of an economy, such as through government-sponsored enterprises.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is not true for Mass Marketing?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Provides very little scope for customisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Deals with customers directly"
+            },
+            {
+                "label": "Option 3",
+                "text": "Normally followed in case of FMCG and SMCG Goods"
+            },
+            {
+                "label": "Option 4",
+                "text": "Relies heavily on advertising"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Mass Marketing does not deal with customers directly.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a characteristic of the business – to – business arena?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Large markets"
+            },
+            {
+                "label": "Option 2",
+                "text": "Wide geographic spread"
+            },
+            {
+                "label": "Option 3",
+                "text": "Complex buyer behaviour"
+            },
+            {
+                "label": "Option 4",
+                "text": "Low average spend per customer"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Low average spends per customer is not a characteristic of the business – to – business arena.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is the most recent stage of marketing evolution?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Marketing department era"
+            },
+            {
+                "label": "Option 2",
+                "text": "Production era"
+            },
+            {
+                "label": "Option 3",
+                "text": "Sales era"
+            },
+            {
+                "label": "Option 4",
+                "text": "Marketing company era"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Marketing company era is the most recent stage of marketing evolution.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "Marketing is the activity, set of ___________ & processes for creating, communicating, delivering & exchanging offerings that have value for customers, clients, partners & society.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Institutions"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organizations"
+            },
+            {
+                "label": "Option 3",
+                "text": "Companies"
+            },
+            {
+                "label": "Option 4",
+                "text": "Enterprises"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "As per the official definition by American Marketing Association (AMA), Marketing is the activity, set of institutions & processes for creating, communicating, delivering & exchanging offerings that have value for customers, clients, partners & society.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is the most correct statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The delivery of Goods & Services from producers to their ultimate consumers or users includes many different activities. These different activities are known as marketing."
+            },
+            {
+                "label": "Option 2",
+                "text": "Marketing is to ensure that the product is easily & effectively moved from the point of production to the target market & ensures that the product can be easily accessed by customers."
+            },
+            {
+                "label": "Option 3",
+                "text": "Marketing is the activity, set of institutions & processes for creating, communicating, delivering & exchanging offerings that have value for customers, clients, partners & society"
+            },
+            {
+                "label": "Option 4",
+                "text": "Marketing is the last step in the chain of commerce where a buyer exchanges cash for a seller’s good or service, or the activity of trying to bring this about."
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Marketing is the activity, set of institutions & processes for creating, communicating, delivering & exchanging offerings that have value for customers, clients, partners & society.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "Successful management ensures that",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Goals are achieved with least cost"
+            },
+            {
+                "label": "Option 2",
+                "text": "Timely achievement of goals"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management aims to carry out the work in a manner that is completed within the stipulated time (effectiveness) and at the least cost (efficiency).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Tarun Enterprises Limited is planning to increase its sales by 30% in the next quarter. Identify the feature of management being highlighted in the given statement.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management is all pervasive"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management is a goal oriented process"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management is a continuous process"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Management is considered to be goal oriented as an organisation is brought into existence for realisation of certain goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "Keeping in view the changes in the consumer demands and preferences ‘ABC Bakery’ has reduced the sugar and fat content in its products. This approach of business shows that management is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "An intangible force"
+            },
+            {
+                "label": "Option 2",
+                "text": "A group activity"
+            },
+            {
+                "label": "Option 3",
+                "text": "A dynamic function"
+            },
+            {
+                "label": "Option 4",
+                "text": "A multidimensional activity"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "In order to be successful, it is important that a business adapts itself to the changes in the consumer demands and preferences.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are Consumer Disputes Redressal Agencies?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Panchayat Commission"
+            },
+            {
+                "label": "Option 2",
+                "text": "Municipal Commission"
+            },
+            {
+                "label": "Option 3",
+                "text": "State Commission"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "There are quasi-judicial bodies established under the Act to provide simple, speedy and inexpensive redressal to the consumers’ grievances. These have been established at three levels: District, State and National known as • District Consumer Disputes Redressal Commission or District Commission • State Consumer Disputes Redressal Commission or State Commission • National Consumer Disputes Redressal Commission or National Commission.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "The secondary market is a platform in which",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Only earlier allotted securities are being traded among investors."
+            },
+            {
+                "label": "Option 2",
+                "text": "Investors trade in new securities"
+            },
+            {
+                "label": "Option 3",
+                "text": "Individually cannot participate"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "The secondary market is also known as the stock market in which safeties are transacted after the cooperation has sold its contribution in the primary market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "An efficient market is defined as one in which",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "All participants have the same opportunity to make the make the same returns"
+            },
+            {
+                "label": "Option 2",
+                "text": "All participants have the same legal rights and transactions costs"
+            },
+            {
+                "label": "Option 3",
+                "text": "Securities prices quickly and fully reflect all available information"
+            },
+            {
+                "label": "Option 4",
+                "text": "Securities prices are completely in line with the intrinsic value"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Market efficiency refers to the degree to which market prices reflect all available, relevant information. If markets are efficient, then all information is already incorporated into prices, and so there is no way to 'beat' the market because there are no undervalued or overvalued securities available.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "The inverse relationship between interest rates and bond prices is due to the following fact:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Market makers require a bid-ask spread to offer their services at all"
+            },
+            {
+                "label": "Option 2",
+                "text": "That maturity premiums increase with the term of a bond."
+            },
+            {
+                "label": "Option 3",
+                "text": "A bond price represents the present discounted value of the payments agreed upon at the time when the bond was issued."
+            },
+            {
+                "label": "Option 4",
+                "text": "Capital markets are not efficient for long-maturity loans"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "The relationship between interest rates and bond prices: If interest rates rise, term deposits and newly issued bonds will pay investors higher rates than existing bonds. Therefore, the price of older bonds will generally fall to compensate and sell at a discount.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "Working capital management is managing",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Short term assets and liabilities"
+            },
+            {
+                "label": "Option 2",
+                "text": "Long term assets"
+            },
+            {
+                "label": "Option 3",
+                "text": "Long term liabilities"
+            },
+            {
+                "label": "Option 4",
+                "text": "Only short term assets"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "Working capital management is managing short term assets and liabilities. The goal of working capital management is to ensure that a company can afford its day-to-day operating expenses while, at the same time, investing the company's assets in the most productive way.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "Operating incomes and the discount rate of a particular risk class are the two factors determining",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Dependence hypothesis"
+            },
+            {
+                "label": "Option 2",
+                "text": "Traditional view"
+            },
+            {
+                "label": "Option 3",
+                "text": "Modern view"
+            },
+            {
+                "label": "Option 4",
+                "text": "Independence hypothesis"
+            }
+        ],
+        "correct_answer": "d",
+        "explanation": "Operating incomes and the discount rate of a particular risk class are the 2 factors determining Independence hypothesis. The Independence hypothesis is a proposed solution to the synoptic problem. It holds that Matthew, Mark, and Luke are each original compositions formed independently of each other, with no documentary relationship.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "multiple-choice",
+        "question": "Controlling is known as a backward-looking function because",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It relates to a future course of action"
+            },
+            {
+                "label": "Option 2",
+                "text": "It is like a post-mortem of the past activities"
+            },
+            {
+                "label": "Option 3",
+                "text": "To find out deviation, it aims at improving future performance"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "The controlling function is viewed as a backward-looking capacity as it resembles the posthumous of the past activities to discover the deviations, assuming any. It isn't the last function of the executives as it takes the administration cycle back to the planning function.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "multiple-choice",
+        "question": "Identify the correct sequence of the steps involved in the controlling process.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Measurement of actual performance, Taking corrective action, Setting performance standards, Comparison of actual performance with standards, Analysing deviations"
+            },
+            {
+                "label": "Option 2",
+                "text": "Comparison of actual performance with standards, setting performance standards. Measurement of actual performance, Analysing deviations, Taking corrective action"
+            },
+            {
+                "label": "Option 3",
+                "text": "Setting performance standards, Measurement of actual performance, Comparison of actual performance with standards, Analysing deviations, Taking corrective action"
+            },
+            {
+                "label": "Option 4",
+                "text": "Taking corrective action, Measurement of actual performance, Comparison of actual performance with standards, Analysing deviations, Setting performance standards"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Setting performance standards, Measurement of actual performance, Comparison of actual performance with standards, analysing deviations, Taking corrective action.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "multiple-choice",
+        "question": "______ i s the process of guiding the efforts of employees to accomplish the desired goal.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Supervision"
+            },
+            {
+                "label": "Option 2",
+                "text": "Directing"
+            },
+            {
+                "label": "Option 3",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 4",
+                "text": "Motivating"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "Supervision is characterised as observing and overseeing the activities of subordinates. For the most part, the managers oversee the subordinates. It is significant at all degrees and levels of management. Supervision is an observation activity that assists with guaranteeing that the work is being performed by the prerequisite of the work.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "Which of the below-mentioned is not the objective of SEBI?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "To regulate the securities market"
+            },
+            {
+                "label": "Option 2",
+                "text": "To protect the interests of inventors"
+            },
+            {
+                "label": "Option 3",
+                "text": "To promote individual businesses"
+            },
+            {
+                "label": "Option 4",
+                "text": "To promote the development of the market"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "SEBI may be defined as a government organization that works on assisting in providing investments to the investors in a totally transparent environment of investment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "multiple-choice",
+        "question": "Co-ordination is considered to be the essence of management because",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It is a common thread that runs through all the activities within the organisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "It is implicit and inherent in all functions of the organisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "It is a force that binds all the functions of management"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "d",
+        "explanation": "Coordination is the capacity of the management that guarantees various groups and departments work in a state of harmony. In this manner, there is solidarity and unity of activity among the departments, employees, and groups. It additionally brings in harmony with completing the various errands and business activities to accomplish the association’s goals and objectives proficiently. The smooth operation of any business lies with coordination being an essential part of all activities and departments.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "multiple-choice",
+        "question": "“Anyone can be called a manager irrespective of the educational qualification possessed.” Identify the characteristic of the profession that management does not fulfil in the statement being discussed above",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Ethical code of conduct"
+            },
+            {
+                "label": "Option 2",
+                "text": "Professional association"
+            },
+            {
+                "label": "Option 3",
+                "text": "Restricted entry"
+            },
+            {
+                "label": "Option 4",
+                "text": "Service motive"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Management does not have the feature of restricted entry similar to profession. One can become a manager even with inheritance, like son can become a manager in the firm of his father without any particular degree or qualification but son of a CA cannot run his office until he gets the membership from the Institute of Chartered Accountants of India (ICAI).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "multiple-choice",
+        "question": "Identify the nature of management.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management is an art"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management is a science"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management both art and science"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management as profession"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "Management as art requires continuous practice and personal skills. It involves the practical application of theoretical knowledge. It is creative in nature.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "33",
+        "question_type": "multiple-choice",
+        "question": "Rahul was running a media company. He observed that the performance of the employee was not up to the mark. So, he performed a function of management which reviews the operations in a business unit:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Directing"
+            },
+            {
+                "label": "Option 4",
+                "text": "Controlling"
+            }
+        ],
+        "correct_answer": "d",
+        "explanation": "Controlling means to compare the actual performance with the standards set during planning. Thus Rahul is performing the control function so as to improve the performance of his employee.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "The function of management related to grouping of activities to be carried out in different departments and creating management hierarchy is:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 4",
+                "text": "Directing"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "The function of management related to grouping of activities to be carried out in different departments and creating management hierarchy is Organising.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statement justifies understanding of principles of management to take scientific decisions?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Adherence to these principles add to knowledge and understanding of managerial situations"
+            },
+            {
+                "label": "Option 2",
+                "text": "Principles emphasise logic rather than blind faith"
+            },
+            {
+                "label": "Option 3",
+                "text": "Principles of management are the core of the management theory"
+            },
+            {
+                "label": "Option 4",
+                "text": "Principles are guidelines that can be modified as per the changing environment"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "The principles of scientific management emphasise that each job performed should be based on scientific enquiry and not on intuition, experience and hit and miss methods.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "Principles of management can be modified by the manager when the situation demands.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Rigid"
+            },
+            {
+                "label": "Option 2",
+                "text": "Contingent"
+            },
+            {
+                "label": "Option 3",
+                "text": "Flexible"
+            },
+            {
+                "label": "Option 4",
+                "text": "Universally applicable"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Principles of management are flexible in nature because they deal with diverse situations and problems and cannot be applied as it is in all situations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "A purchase manager of a company has to purchase 500 tonnes of raw material.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Unity of command"
+            },
+            {
+                "label": "Option 2",
+                "text": "Unity of direction"
+            },
+            {
+                "label": "Option 3",
+                "text": "Equity"
+            },
+            {
+                "label": "Option 4",
+                "text": "Subordinating personal interest to general interest"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Business decisions should always be kept away from personal relations and interests.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "38",
+        "question_type": "multiple-choice",
+        "question": "Even though the political conditions vary from country to country, they impact the sentiment of an investor in the business, if the instability of the political conditions cause uncertainty and make it difficult for him to predict the future.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Specific and general forces"
+            },
+            {
+                "label": "Option 2",
+                "text": "Dynamic nature"
+            },
+            {
+                "label": "Option 3",
+                "text": "Relativity"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "d",
+        "explanation": "All the three features of business environment are included in the statement given.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "In order to boost and double India’s export of goods and services to over USD 1,000 billion by 2025, it is important to lower effective corporate tax rate, bring down cost of capital and simplify regulatory and tax framework.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Social dimension and legal dimension"
+            },
+            {
+                "label": "Option 2",
+                "text": "Technological dimension and political dimension"
+            },
+            {
+                "label": "Option 3",
+                "text": "Political dimension and social dimension"
+            },
+            {
+                "label": "Option 4",
+                "text": "Economic dimension and legal dimension"
+            }
+        ],
+        "correct_answer": "d",
+        "explanation": "The economic dimension relates to interest rates, inflation rates, tax rates, disposable income etc. and legal dimension relates to government policies and regulations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "Identify the dimension of business environment, which focuses on laws and regulations on industrial development.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Economic environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Legal environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Political environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "The legal environment includes the laws passed by the government as well as the decisions rendered by the various commissions and agencies at every level of the government.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "Macro-environment consists of which of the following?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Political system"
+            },
+            {
+                "label": "Option 2",
+                "text": "Culture of the society"
+            },
+            {
+                "label": "Option 3",
+                "text": "Demographic factors"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "d",
+        "explanation": "Macro-environment refers to the set of conditions that exist in the economy as a whole, rather than in a particular sector or region.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "Planning requires logical and systematic thinking rather than guess work or wishful thinking.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning is futuristic"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning is a mental exercise"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning establishes standards for controlling"
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning focuses on achieving objectives"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "Planning does not happen on its own. It is a creative activity which requires higher thinking and level of intelligence.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "“Due to proper organising and division of work, Lenox Ltd. goes for systematic assignment of jobs among the employees.”",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Benefits of specialisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Clarity in working relationship"
+            },
+            {
+                "label": "Option 3",
+                "text": "Adaptation to change"
+            },
+            {
+                "label": "Option 4",
+                "text": "Effective administration"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "Proper organising leads to specialisation which enhances the quality of work and output.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a part of organising process?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Assigning of duties"
+            },
+            {
+                "label": "Option 2",
+                "text": "Departmentalisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Decentralisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Establishing authority - responsibility relationship"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Organisation process includes: determining activities, grouping of activities, assigning duties, delegating authority, and co-ordinating activities.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "The various activities involved in the process of recruitment include",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Identification and assessment of different sources of recruitment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Selecting the most suitable source or sources"
+            },
+            {
+                "label": "Option 3",
+                "text": "Inviting applications from the prospective candidates"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "d",
+        "explanation": "The process of recruitment involves various activities like: Identification of different sources of labour supply, assessment of their validity, choosing the most suitable source or sources, inviting applications from candidates looking for a job.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "Punishment and stopping increments etc., are the examples of",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Negative motivation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Supervision"
+            },
+            {
+                "label": "Option 3",
+                "text": "Positive motivation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Communication"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "Negative motivation is understood as the act of forcing the staff members to work by holding out threats or punishment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "On the occasion of the founder’s day of the firm, Veena was felicitated with the certificate of best performer as a business development manager.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Career advancement opportunities"
+            },
+            {
+                "label": "Option 2",
+                "text": "Employee recognition programme"
+            },
+            {
+                "label": "Option 3",
+                "text": "Organisational climate"
+            },
+            {
+                "label": "Option 4",
+                "text": "Job security"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "The type of incentive was offered to her under Employee recognition programme.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is true about communication?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Communication is a process of passing information and understanding from one person to another"
+            },
+            {
+                "label": "Option 2",
+                "text": "Communication is an exchange of facts, ideas, opinions or emotions by two or more persons"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "Communication involves absolute authority and control"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Communication is a process of exchange of ideas, views, facts, feelings, etc. between or among people to create common understanding.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "The symptom of large inventory accumulation in anticipation of price rise in future will be indicated by",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Asset turnover ratio"
+            },
+            {
+                "label": "Option 2",
+                "text": "Working capital turnover ratio"
+            },
+            {
+                "label": "Option 3",
+                "text": "Inventory turnover ratio"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Stock turnover ratio/inventory turnover ratio indicates the number of time the stock has been turned over during the period and evaluates the efficiency with which a firm is able to manage its inventory.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "50",
+        "question_type": "multiple-choice",
+        "question": "Higher dividend per share is associated with",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "High earnings, high cash flows, unstable earnings and higher growth opportunities"
+            },
+            {
+                "label": "Option 2",
+                "text": "High earnings, high cash flows, stable earnings and higher growth opportunities"
+            },
+            {
+                "label": "Option 3",
+                "text": "High earnings, high cash flows, stable earnings and lower growth opportunities"
+            },
+            {
+                "label": "Option 4",
+                "text": "High earnings, low cash flows, stable earnings and lower growth opportunities"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Higher dividend per share is associated with high earnings, high cash flows, stable earnings and lower growth opportunities.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

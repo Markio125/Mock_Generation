@@ -1,0 +1,1493 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "match-the-column",
+        "question": "Match the following Characteristics Explanations",
+        "column_1": [
+            {
+                "label": "a",
+                "text": "Goal-oriented process"
+            },
+            {
+                "label": "b",
+                "text": "Group activity"
+            },
+            {
+                "label": "c",
+                "text": "Multi-dimensional"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Management is a complex activity involving management of people, work and operations."
+            },
+            {
+                "label": "ii",
+                "text": "Some aims and objectives are the basic reason for existence of an organisation."
+            },
+            {
+                "label": "iii",
+                "text": "Diverse individuals with different needs work together to fulfil the common organisational goal."
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(ii), (i), (iii)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(ii), (iii), (i)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(iii), (ii), (i)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii), (i), (ii)"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "The process by which a manager synchronises the activity of different departments is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 4",
+                "text": "Coordination"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Coordination is the integration, unification and synchronisation of the efforts of the departments to provide unity of action for pursuing a common goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "________ is one of the redressal agencies for redressing consumer grievances.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "COPRA"
+            },
+            {
+                "label": "Option 2",
+                "text": "State Commission"
+            },
+            {
+                "label": "Option 3",
+                "text": "Consumer Organisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "State Commission is one of the redressal agencies for redressing consumer grievances.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "Which of the following does not qualify as a consumer right?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Right to safety"
+            },
+            {
+                "label": "Option 2",
+                "text": "Right to seek redressal"
+            },
+            {
+                "label": "Option 3",
+                "text": "Right to get discount"
+            },
+            {
+                "label": "Option 4",
+                "text": "Right to be heard"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Right to get discount",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "Any person who buys products for personal use or hires or uses services for a fee is referred to as a",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Trader"
+            },
+            {
+                "label": "Option 2",
+                "text": "Consumer"
+            },
+            {
+                "label": "Option 3",
+                "text": "Manufacturer"
+            },
+            {
+                "label": "Option 4",
+                "text": "Service provider"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "A Consumer is a person who purchases a product or avails a service for a consideration, either for his personal use or to earn his livelihood.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Determine which consumer rights are being exercised in the situation at hand.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Right to safety"
+            },
+            {
+                "label": "Option 2",
+                "text": "Right to seek redressal"
+            },
+            {
+                "label": "Option 3",
+                "text": "Right to be heard"
+            },
+            {
+                "label": "Option 4",
+                "text": "Right to consumer education"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "The future of entrepreneurial in India is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "In dark"
+            },
+            {
+                "label": "Option 2",
+                "text": "Bright"
+            },
+            {
+                "label": "Option 3",
+                "text": "In difficulty"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The future of entrepreneurial in India is bright.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Critical evaluation points of entrepreneurial development programme are",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Organisational policies"
+            },
+            {
+                "label": "Option 2",
+                "text": "Lack of suitable selection procedure"
+            },
+            {
+                "label": "Option 3",
+                "text": "Lack quality of technical and vocational education and training"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Critical evaluation points of entrepreneurial development programme are: Organisation policies, lack of suitable selection, Procedure Low quality of technical and vocational education and training.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "Higher amount of debt means __________ interest rate in future.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Higher"
+            },
+            {
+                "label": "Option 2",
+                "text": "Lower"
+            },
+            {
+                "label": "Option 3",
+                "text": "Similar"
+            },
+            {
+                "label": "Option 4",
+                "text": "Equal"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "More the debt will increase more will be interest rate in future.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Which of the following factors affect requirement of working capital?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Scale of Operations"
+            },
+            {
+                "label": "Option 2",
+                "text": "Credit Allowed"
+            },
+            {
+                "label": "Option 3",
+                "text": "Production Cycle"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Main factors affecting the working capital are Nature of Business, Scale of Operations, Business Cycle, Seasonal Factors, Production Cycle, Credit Allowed and Operating Efficiency.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "_________ plan of action prepared under financial planning reduces waste, duplication of efforts, and gaps in planning.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Detailed"
+            },
+            {
+                "label": "Option 2",
+                "text": "Short"
+            },
+            {
+                "label": "Option 3",
+                "text": "General"
+            },
+            {
+                "label": "Option 4",
+                "text": "Basic"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Financial plan is a comprehensive evaluation of an individual's current pay and future financial state by using current known variables to predict future income, asset values and withdrawal plans. Therefore detailed plan of action is prepared under financial planning reduce waste, duplication of efforts, and gaps in planning.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Dividend policy is a ________.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Managerial decision"
+            },
+            {
+                "label": "Option 2",
+                "text": "Financing decision"
+            },
+            {
+                "label": "Option 3",
+                "text": "Dividend decision"
+            },
+            {
+                "label": "Option 4",
+                "text": "Subjective value"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Dividend policy refers to the policy that deals with the percentage of the profit which is yield as a dividend to the shareholders of a company which is a financial decision as it includes the finance of the company which can be retained in the company or given as a dividend.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "An endorsement is said to be a Partial endorsement, if it satisfies which of the following conditions?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "If the endorser sings his name only"
+            },
+            {
+                "label": "Option 2",
+                "text": "If the endorser adds a direction to pay the amount mentioned in the instrument to the order of a specified person"
+            },
+            {
+                "label": "Option 3",
+                "text": "If the endorser restricts or excludes the right to further negotiate the instrument"
+            },
+            {
+                "label": "Option 4",
+                "text": "If the endorser purports to transfer to the endorsee only a part of the amount payable"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "An endorsement is said to be a Partial endorsement, if the endorser purports to transfer to the endorsee only a part of the amount payable. In simple terms, endorsement which allows transferring to the endorsee a part of the amount payable is known as partial endorsement.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "The relationship between the price of a share and the Sensex is measurably _____.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Alfa"
+            },
+            {
+                "label": "Option 2",
+                "text": "Beta"
+            },
+            {
+                "label": "Option 3",
+                "text": "Book value"
+            },
+            {
+                "label": "Option 4",
+                "text": "Annuity"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The relationship between the price of a share and the Sensex is measurably Alfa. It helps to measure the performance of securities. It helps in bench marking fund portfolios and launching of index funds.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "A capital market is ideal when",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Financial institutions are sufficiently developed"
+            },
+            {
+                "label": "Option 2",
+                "text": "Capital is most productively allocated"
+            },
+            {
+                "label": "Option 3",
+                "text": "Finance is available at reasonable cost"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "An ideal capital market is defined by a set of five assumptions: (1) Capital markets are friction- less. (2) All market participants share homogenous expectation, value relevant information is costlessly available to all market participants. (3) All market participants are atomistic. No single market participant can affect the market price of a security via trades. (4) The firm’s investment program is fixed and known. (5) The firms financing is fixed. Once chosen, the firm’s capital structure is fixed.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "What is the meaning of right issue?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Company offers new shares to its existing shareholders"
+            },
+            {
+                "label": "Option 2",
+                "text": "Securities are not issued to existing shareholders at all"
+            },
+            {
+                "label": "Option 3",
+                "text": "Company sells the securities to some selected institutions"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "A rights issue is a dividend of subscription rights to buy additional securities in a company made to the company's existing security holders. When the rights are for equity securities, such as shares, in a public company, it is a non-dilutive pro rata way to raise capital.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "State the element of directing which helps in implementing the principle of scalar chain?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Wireless communication"
+            },
+            {
+                "label": "Option 2",
+                "text": "Informal communication"
+            },
+            {
+                "label": "Option 3",
+                "text": "Formal communication"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Formal communication refers to the flow of official information through proper, predefined channels and routes. The flow of information is controlled and needs deliberate effort to be properly communicated.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Marketing is concerned with the creation of utilities.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "I and III are correct"
+            },
+            {
+                "label": "Option 2",
+                "text": "I, II and IV are correct"
+            },
+            {
+                "label": "Option 3",
+                "text": "I, III and IV are correct"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Marketing is concerned with the creation of utilities (Form utilities, Place utilities, Time utilities and Possession utilities).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "The new concept of 'demarketing' is coined by",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Kotler and Levy"
+            },
+            {
+                "label": "Option 2",
+                "text": "Gerald Zalfman"
+            },
+            {
+                "label": "Option 3",
+                "text": "William Lazer"
+            },
+            {
+                "label": "Option 4",
+                "text": "David Luck"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "The first stage in the evolution of marketing is?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Self-sufficient stage"
+            },
+            {
+                "label": "Option 2",
+                "text": "Exchange-oriented stage"
+            },
+            {
+                "label": "Option 3",
+                "text": "Production oriented stage"
+            },
+            {
+                "label": "Option 4",
+                "text": "Sales-oriented stage"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The first stage in the evolution of marketing is the Production-oriented stage, because the primary focus back then was on production & not on sales. the product was first produced & then any effort on sales was made.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "XYZ Limited is a company dealing in cosmetics. Whenever the company is in need of daily wage workers, a notice is placed on the factory gate for the same. Identify the source of recruitment being used by the company.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Placement agencies and management consultants"
+            },
+            {
+                "label": "Option 2",
+                "text": "Direct recruitment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Labour contractors"
+            },
+            {
+                "label": "Option 4",
+                "text": "Advertising"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Direct recruitment",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "Identify the type of selection test described below: This test is an indicator of a person's learning ability or the ability to make decisions and judgments.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Intelligence test"
+            },
+            {
+                "label": "Option 2",
+                "text": "Aptitude test"
+            },
+            {
+                "label": "Option 3",
+                "text": "Trade test"
+            },
+            {
+                "label": "Option 4",
+                "text": "Interest test"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "Name the step in the staffing process which involves determining the sources of potential candidates.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Estimating manpower requirement"
+            },
+            {
+                "label": "Option 2",
+                "text": "Recruitment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Selection"
+            },
+            {
+                "label": "Option 4",
+                "text": "Training and development"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Recruitment is the process which involves determining the sources of potential candidates.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "multiple-choice",
+        "question": "Imparting skill necessary to perform a job is called",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Training"
+            },
+            {
+                "label": "Option 2",
+                "text": "Development"
+            },
+            {
+                "label": "Option 3",
+                "text": "Recruitment"
+            },
+            {
+                "label": "Option 4",
+                "text": "Selection"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Imparting skill necessary to perform a job is called training.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "multiple-choice",
+        "question": "To see whether plans are being implemented and activities are being performed according to the schedule, is a step of planning process. Identify the step.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Selecting the best alternative"
+            },
+            {
+                "label": "Option 2",
+                "text": "Implementing the plan"
+            },
+            {
+                "label": "Option 3",
+                "text": "Follow up action"
+            },
+            {
+                "label": "Option 4",
+                "text": "Valuating alternative courses of action"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "To see whether plans are being implemented and activities are performed according to schedule is also part of the planning process. Monitoring the plans is equally important to ensure that objectives are achieved.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Planning is a primary function of management. Reason (R): Planning is required at all levels of management as well as in all departments of the organisation.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Planning lays down the base for other functions of management. All other managerial functions are performed within the framework of the plans drawn. Thus, planning precedes other functions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "A strategy is derived from",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Policy"
+            },
+            {
+                "label": "Option 2",
+                "text": "Objective"
+            },
+            {
+                "label": "Option 3",
+                "text": "Method"
+            },
+            {
+                "label": "Option 4",
+                "text": "Rule"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "A strategy is a comprehensive plan devised for attaining organisational objectives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is a single-use plan?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Strategy"
+            },
+            {
+                "label": "Option 2",
+                "text": "Rule"
+            },
+            {
+                "label": "Option 3",
+                "text": "Budget"
+            },
+            {
+                "label": "Option 4",
+                "text": "Method"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Single-use plans are developed for unique situations or problems and are usually replaced after one use. Managers generally use three types of single-use plans: programs, projects, and budgets.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "match-the-column",
+        "question": "Match the following",
+        "column_1": [
+            {
+                "label": "1",
+                "text": "Authority"
+            },
+            {
+                "label": "2",
+                "text": "Responsibility"
+            },
+            {
+                "label": "3",
+                "text": "Accountability"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Being answerable for the final outcome"
+            },
+            {
+                "label": "ii",
+                "text": "Right to take decisions inherent in a managerial position"
+            },
+            {
+                "label": "iii",
+                "text": "Obligation of a subordinate to perform the assigned duty properly"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(ii), (iii), (i)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(iii), (ii), (i)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(iii), (i), (ii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(ii), (i), (iii)"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "multiple-choice",
+        "question": "“It refers to the right of an individual to command his subordinate and to take action within the scope of his position.” Which element of delegation is being referred to in the above statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Accountability"
+            },
+            {
+                "label": "Option 2",
+                "text": "Responsibility"
+            },
+            {
+                "label": "Option 3",
+                "text": "Authority"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Authority is the power to complete an assigned task. Without authority a subordinate is unable to execute the task perfectly. In order to complete the task as is expected by the manager, the manager has to provide authority of executing that task to the subordinate.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "33",
+        "question_type": "multiple-choice",
+        "question": "Identify the type of organisational structure which facilitates occupational specialisation.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Functional structure"
+            },
+            {
+                "label": "Option 2",
+                "text": "Horizontal structure"
+            },
+            {
+                "label": "Option 3",
+                "text": "Network structure"
+            },
+            {
+                "label": "Option 4",
+                "text": "Divisional structure"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "It emphasises on specific functions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "Identify the type of organisational structure which makes training of employees easier, as the focus is only on a limited range of skills.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Network structure"
+            },
+            {
+                "label": "Option 2",
+                "text": "Divisional structure"
+            },
+            {
+                "label": "Option 3",
+                "text": "Functional structure"
+            },
+            {
+                "label": "Option 4",
+                "text": "Matrix structure"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "As each employee is expected to gain proficiency with regard to one function only.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "Mr. Bhola, Finance manager of ABC Limited applied for leave to attend a family function in Mohali. The director of the company requested him to cancel his leave as there is an important meeting schedule on that date. Mr. Bhola immediately agreed and cancelled his trip as he thought attending meeting is more important for company’s benefit. Which principle of Fayol is applied by Mr. Bhola?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Principle of subordination of individual interest to general interest."
+            },
+            {
+                "label": "Option 2",
+                "text": "Principle of equity"
+            },
+            {
+                "label": "Option 3",
+                "text": "Principle of order"
+            },
+            {
+                "label": "Option 4",
+                "text": "Principle of Discipline."
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Principle of subordination of individual interest to general interest.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following statements best describes ‘Mental Revolution’ as described by F.W. Taylor?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It implies change of attitude."
+            },
+            {
+                "label": "Option 2",
+                "text": "The management and workers should not play the game of one up man ship."
+            },
+            {
+                "label": "Option 3",
+                "text": "Both management and workers require each other."
+            },
+            {
+                "label": "Option 4",
+                "text": "Workers should be paid more wages."
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Mental revolution Mental refers to mind and revolution refers to radical change, therefore, mental revolution refers to a change of mind. According to Taylor, a scientific management, in its essence, involves a complete mental revolution on the part of both sides to industry, viz workers and management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "match-the-column",
+        "question": "Match the technique of scientific management in Column I with their respective explanation in Column II",
+        "column_1": [
+            {
+                "label": "a",
+                "text": "Method Study"
+            },
+            {
+                "label": "b",
+                "text": "Time Study"
+            },
+            {
+                "label": "c",
+                "text": "Standardisation of work"
+            },
+            {
+                "label": "d",
+                "text": "Simplification of work"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "To reduce a given line or product to fixed types, sizes and characteristic"
+            },
+            {
+                "label": "ii",
+                "text": "Devising new varieties of the existing ones"
+            },
+            {
+                "label": "iii",
+                "text": "To find out one best way of doing the job"
+            },
+            {
+                "label": "iv",
+                "text": "To determine the number of workers to be employed; frame suitable incentive schemes and determine labour costs."
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(iii), (iv), (i), (ii)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(i), (ii), (iii), (iv)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(ii), (iv), (i), (iii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii), (i), (ii), (iv)"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "assertion-reason",
+        "question": "The court issued the order that for vehicles to be smokeless was most essential and that any one violating this order shall have to pay a heavy fine. Identify the dimension of Business environment?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Economic environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Political environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Legal environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "Social environment"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Manufacturers have now flexible manufacturing systems. Reason (R): Agricultural and industrial production trends are the economic dimensions of the environment which affect the business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion(A) and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true but reason (R) is not the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true but Reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false but Reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "Non-discriminatory employment practices is the part of which dimension of business environment?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Political"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social"
+            },
+            {
+                "label": "Option 3",
+                "text": "Economical"
+            },
+            {
+                "label": "Option 4",
+                "text": "Legal"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "The various activities involved in the process of recruitment include:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Identification and assessment of different sources of recruitment."
+            },
+            {
+                "label": "Option 2",
+                "text": "Selecting the most suitable source or sources."
+            },
+            {
+                "label": "Option 3",
+                "text": "Inviting applications from the prospective candidates."
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "Which of the following Maslow’s needs include factors such as self-respect, autonomy status, recognition and attention?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Esteem needs"
+            },
+            {
+                "label": "Option 2",
+                "text": "Self-Actualisation needs"
+            },
+            {
+                "label": "Option 3",
+                "text": "Affiliation / belonging needs"
+            },
+            {
+                "label": "Option 4",
+                "text": "Safety / security needs"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "Mr Anil Goel, the Ex-Chairman of India Pesticides Limited, built up his successor before retiring. Following the norms set up by himself, he handed over the reins of the company to the co-founder Mr. Alok Jain, who had the potential to bring about change in the behaviour of others. Name the concept of management which was the reason, why Mr. Anil Goel choose Mr. Alok Jain to be his successor.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Motivation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Leadership"
+            },
+            {
+                "label": "Option 3",
+                "text": "Communication"
+            },
+            {
+                "label": "Option 4",
+                "text": "Staffing"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "Which of the following qualities of a leader states that he should have the capacity to clearly explain his ideas and make the people understand his ideas?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Knowledge"
+            },
+            {
+                "label": "Option 2",
+                "text": "Motivation Skills"
+            },
+            {
+                "label": "Option 3",
+                "text": "Initiative"
+            },
+            {
+                "label": "Option 4",
+                "text": "Communication Skills"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "match-the-column",
+        "question": "Match the qualities of a good leader in Column I with their correct explanations in Column II:",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Initiative"
+            },
+            {
+                "label": "B",
+                "text": "Social skills"
+            },
+            {
+                "label": "C",
+                "text": "Decisiveness"
+            },
+            {
+                "label": "D",
+                "text": "Communication skills"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Being firm and not changing options frequently"
+            },
+            {
+                "label": "ii",
+                "text": "Not waiting for opportunities to come but rather grabbing the opportunity and using it to the advantage of the organisation"
+            },
+            {
+                "label": "iii",
+                "text": "Capacity to clearly explain the ideas and make the people understand them"
+            },
+            {
+                "label": "iv",
+                "text": "Being friendly with his colleagues and followers"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(i), (iii), (iv), (ii)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(iv), (iii), (ii), (i)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(iv), (ii), (i), (iii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(ii), (iv), (i), (iii)"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "Which management function proved helpful in creating an atmosphere of order and discipline in the organisation and helped in minimising dishonest behaviour on the part of the employees?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Directing"
+            },
+            {
+                "label": "Option 4",
+                "text": "Controlling"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "What did the measurement of performance reveal?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The company was earning enough profits."
+            },
+            {
+                "label": "Option 2",
+                "text": "Declining revenues despite getting big orders which were being fulfilled on time"
+            },
+            {
+                "label": "Option 3",
+                "text": "The company was running successfully"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "What did the analysis by Anil reveal?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Nothing was wrong"
+            },
+            {
+                "label": "Option 2",
+                "text": "The computer operator was deleting the entries from the computers and pocketing the revenues."
+            },
+            {
+                "label": "Option 3",
+                "text": "Anil was not able to find out where the problem was"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "",
+        "question_type": "multiple-choice",
+        "question": "What corrective action did Anil take?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "He did not take any action as no major damage was done"
+            },
+            {
+                "label": "Option 2",
+                "text": "Computer operator was caught and handed over to the police"
+            },
+            {
+                "label": "Option 3",
+                "text": "Computer operator was warned with dire consequences"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

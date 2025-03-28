@@ -13,15 +13,15 @@ COLLECTION_NAME = "business_studies"
 
 # Default Topics (used as fallback)
 DEFAULT_TOPICS = {
-    "Nature and Significance of Management": 8,
-    "Principles of Management": 8,
-    "Business Environment": 7,
-    "Planning": 7,
-    "Organising": 7,
-    "Staffing": 7,
-    "Directing": 8,
-    "Controlling": 8,
-    "Financial Management": 8,
-    "Marketing": 12,
-    "Consumer Protection": 8
+    "Nature and Significance of Management": 4,  # 8%
+    "Principles of Management": 4,  # 8%
+    "Business Environment": 4,  # 8%
+    "Planning": 6,  # 12%
+    "Organising": 5,  # 10%
+    "Staffing": 5,  # 10%
+    "Directing": 3,  # 6%
+    "Controlling": 3,  # 6%
+    "Financial Management": 9,  # 18%
+    "Marketing": 5,  # 10%
+    "Consumer Protection": 3,  # 6% 
 }

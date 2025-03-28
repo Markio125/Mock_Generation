@@ -1,0 +1,900 @@
+[
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Successful organizations do not achieve goals by chance but by following a deliberate process known as",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Co-ordination"
+            },
+            {
+                "label": "Option 3",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management is considered to be a deliberate process as it involves creating an environment which is conducive to efficient and effective performance (achieving goals).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Management is considered to be an art because",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The principles of management have universal validity"
+            },
+            {
+                "label": "Option 2",
+                "text": "The principles of management have universal application"
+            },
+            {
+                "label": "Option 3",
+                "text": "Different principles of management are brought into effect differently by different managers"
+            },
+            {
+                "label": "Option 4",
+                "text": "It is not important for the practicing managers to be a member of a professional association"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Art is considered as application of acquired knowledge by using personalized skills.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "“Doing the task with minimum cost” Name the term associated with management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Efficiency"
+            },
+            {
+                "label": "Option 2",
+                "text": "Effective"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) & (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The term associated is efficiency, which means doing the task with minimum cost.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Which of the following feature of management states that management function cannot be performed in isolation?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management is a goal oriented process"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management is all pervasive"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management is a continuous process"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management is a group activity"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management means a group of people involved in managerial activities. Management functions cannot be performed in an isolation. Even if the results of management affect every individual and every department of the organisation, it always refers to a group effort and not the individual effort of a single person.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Successful management ensures that:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Goals are achieved with least cost"
+            },
+            {
+                "label": "Option 2",
+                "text": "Timely achievement of goals"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Good management leads to timely and economical achievement of goals by avoiding wastages of resources and time.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "match-the-column",
+        "question": "Match the concept of management in Column I with their respective meaning in II",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Effectiveness"
+            },
+            {
+                "label": "B",
+                "text": "Efficiency"
+            },
+            {
+                "label": "C",
+                "text": "Process"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Doing the task correctly with minimum cost."
+            },
+            {
+                "label": "ii",
+                "text": "Finishing the task on time."
+            },
+            {
+                "label": "iii",
+                "text": "The primary functions or activities that management performs to get."
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "A-i, B-ii, C-iii"
+            },
+            {
+                "label": "Option 2",
+                "text": "A-ii, B-i, C-iii"
+            },
+            {
+                "label": "Option 3",
+                "text": "A-ii, B-iii, C-i"
+            },
+            {
+                "label": "Option 4",
+                "text": "A-i, B-iii, C-ii"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements highlights that management is a group activity?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Organisation is a collection of diverse individuals with different needs."
+            },
+            {
+                "label": "Option 2",
+                "text": "Achievement of common goal requires teamwork and coordination of efforts in a common direction."
+            },
+            {
+                "label": "Option 3",
+                "text": "Each member of the organisation may have different individual goals but they must work to achieve common goals."
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above."
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management is concerned with group efforts because it creates effective co-operation among people working together in a group for attainment of common goals. Each member of the organisation has formally assigned roles and all need to work as a team to fulfil the overall goals of the organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "National Alpha Ltd. has grown in size. It was a market leader but with changes in business environment and with the entry of MNCs, its market share is declining. To cope up with the situation, the CEO starts delegating some of his authority to the General Manager, who also felt himself overburdened and with the approval of CEO disperses some of his authority to various levels throughout the organisation. Identify the concept of management discussed above",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Delegation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Decentralisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Decentralisation is the process of delegating the authority systematically and consistently to various levels of management, where work is performed.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not true regarding the objective of management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Growth of an organisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Earning projects"
+            },
+            {
+                "label": "Option 3",
+                "text": "Policy making"
+            },
+            {
+                "label": "Option 4",
+                "text": "Providing employment"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Earning projects is not the objectives of the management. It is neither organisational objective, nor social objective, nor individual objective.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Pure science principles are rigid, whereas management principles are relatively",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Contingent"
+            },
+            {
+                "label": "Option 2",
+                "text": "Dependent"
+            },
+            {
+                "label": "Option 3",
+                "text": "Flexible"
+            },
+            {
+                "label": "Option 4",
+                "text": "Absolute"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management principles are said to be flexible since they may be changed by the management as circumstances dictate.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Who is referred to be the “Father of Scientific Management?”",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Henry Fayol"
+            },
+            {
+                "label": "Option 2",
+                "text": "Robert Owen"
+            },
+            {
+                "label": "Option 3",
+                "text": "Fredrick W. Taylor"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Frederick Taylor is known as the \"Father of Scientific Management\" because he proposed that plant managers utilise scientific methods to complete tasks to obtain the greatest results.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Name the process which coordinates human efforts, assembles resources, and integrates both into a unified whole to be utilised for achieving specified objectives.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 3",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 4",
+                "text": "Directing"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Organising includes appointing assignments, gathering tasks into offices, designating authority, and distributing assets across the association. During the organising process, administrators coordinate employees, assets, procedures, and policies to work with the objectives distinguished in the plan.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a feature of functional structure?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It promotes functional specialisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Managerial development is difficult"
+            },
+            {
+                "label": "Option 3",
+                "text": "It is easy to fix responsibility for the performance"
+            },
+            {
+                "label": "Option 4",
+                "text": "It is an economical structure to maintain"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "It is easy to fix responsibility for the performance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Organisational structure is a",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Framework within which managerial and operating tasks are performed"
+            },
+            {
+                "label": "Option 2",
+                "text": "Only managerial task are performed"
+            },
+            {
+                "label": "Option 3",
+                "text": "Only operating tasks are performed"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The correct answer is option (a) as Organisational structure is a framework within which managerial and operating tasks are performed.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Which one is a type of Organizational structures?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Functional structure"
+            },
+            {
+                "label": "Option 2",
+                "text": "Responsibility structure"
+            },
+            {
+                "label": "Option 3",
+                "text": "Behavioural structure"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The correct answer is option (a), Functional structure is a type of Organizational structure.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Which of the following do management functions include?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Directing"
+            },
+            {
+                "label": "Option 2",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning and Organising"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The core management duties of planning, organising, staffing, directing, and controlling are all considered ongoing activities in management. To accomplish the intended corporate goals, managers must execute all of these duties.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Management is the art of getting things done through and with an informally organized",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Harold Koontz"
+            },
+            {
+                "label": "Option 2",
+                "text": "Terry"
+            },
+            {
+                "label": "Option 3",
+                "text": "Louis Allan"
+            },
+            {
+                "label": "Option 4",
+                "text": "Henry Fayol"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "According to Harold Koontz, “Management is an art of getting things done through and with the people in formally organized groups. It is an art of creating an environment in which people can perform and individuals and can co-operate towards attainment of group goals\".",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Under which type of organisational structure manpower is grouped on the basis of different products manufactured?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Divisional structure"
+            },
+            {
+                "label": "Option 2",
+                "text": "Functional structure"
+            },
+            {
+                "label": "Option 3",
+                "text": "Network structure"
+            },
+            {
+                "label": "Option 4",
+                "text": "Matrix structure"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "n a divisional structure, the organisation structure comprises of separate business units or divisions. Each unit has a divisional manager responsible for performance and who has authority over the unit. Generally, manpower is grouped on the basis of different products manufactured.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a demerit of divisional structure?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It is an expensive structure to maintain since there may be a duplication of activities across products"
+            },
+            {
+                "label": "Option 2",
+                "text": "All functions related to a particular product are integrated with one department"
+            },
+            {
+                "label": "Option 3",
+                "text": "Conflict may arise among different divisional heads due to different interests"
+            },
+            {
+                "label": "Option 4",
+                "text": "Authority provided to the managers to supervise all activities related to a particular division may lead to undesirable consequences"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "All functions related to a particular product are integrated with one department.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Successful organisations do not achieve goals by chance but by following a deliberate process known as",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Co-ordination"
+            },
+            {
+                "label": "Option 3",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management is considered to be a deliberate process as it involves creating an environment which is conducive to efficient and effective performance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is true with reference to principles of management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The principles of management have evolved"
+            },
+            {
+                "label": "Option 2",
+                "text": "The principles of management are yet to be evolved"
+            },
+            {
+                "label": "Option 3",
+                "text": "The principles of management are in the continuous process of evolution"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Principles of Management are said to be evolutionary in nature as these principles have evolved over a long period of time with continuous practice and experimentation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Management contains a series of interrelated functions that include",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Directing"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management as a process contains a series of functions namely planning, organising, staffing, directing and controlling.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is not an importance of management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Integrating various interest groups"
+            },
+            {
+                "label": "Option 2",
+                "text": "Developing society"
+            },
+            {
+                "label": "Option 3",
+                "text": "Disciplining employees"
+            },
+            {
+                "label": "Option 4",
+                "text": "Inculcating creativity"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Disciplining employees is not important factor of management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are the ways and means of consumer protection?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Self-regulation by the business"
+            },
+            {
+                "label": "Option 2",
+                "text": "Business associations"
+            },
+            {
+                "label": "Option 3",
+                "text": "Government"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "What year did the Consumer Protection Act become law?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "1991"
+            },
+            {
+                "label": "Option 2",
+                "text": "1986"
+            },
+            {
+                "label": "Option 3",
+                "text": "1961"
+            },
+            {
+                "label": "Option 4",
+                "text": "1987"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "This Act may be called the Consumer Protection Act, 1986.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Co-ordination is considered to be the essence of management because",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It is a common thread that runs through all the activities within the organisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "It is implicit and inherent in all functions of the organisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "It is a force that binds all the functions of management"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Coordination, thus, helps to coordinate the work of different departments and within each department, it integrates all the functions of management. Coordination is, therefore, rightly called the essence of management. It helps each managerial function and each departmental activity contribute to organisational goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Which of the following sentence is not a characteristic of entrepreneurship?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Risk taking"
+            },
+            {
+                "label": "Option 2",
+                "text": "Innovation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Creative activity"
+            },
+            {
+                "label": "Option 4",
+                "text": "Managerial training"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "No explanation is available.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Entrepreneurial Development Institute of India was established by",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Maharashtra Government"
+            },
+            {
+                "label": "Option 2",
+                "text": "Gujarat Government"
+            },
+            {
+                "label": "Option 3",
+                "text": "Madhya Pradesh Government"
+            },
+            {
+                "label": "Option 4",
+                "text": "Tamil Nadu Government"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "EDII was established in 1983 with the active support of the Government of Gujarat, IDBI Bank, IFCI Ltd, ICICI Bank and State Bank of India. The 23 acres of land occupied by the institute was pledged by the Government of Gujarat.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Identify the feature of co-ordination being highlighted in the given statement: “Coordination is not a onetime function, it begins at the planning stage and continue till controlling.\"",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Coordination ensures unity of action"
+            },
+            {
+                "label": "Option 2",
+                "text": "Coordination is an all pervasive function"
+            },
+            {
+                "label": "Option 3",
+                "text": "Coordination is a continuous process"
+            },
+            {
+                "label": "Option 4",
+                "text": "Coordination is a deliberate function"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Name the process of working with and through others to effectively achieve organisational objectives by efficiently using limited resources in a changing environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 3",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 4",
+                "text": "Controlling"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Management means a process that is carried out to do primary functions or activities that the management does to get things done. These functions are planning, organising, staffing, directing and controlling.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

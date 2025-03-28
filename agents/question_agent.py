@@ -6,6 +6,8 @@ import config
 from utils.token_tracker import TokenTracker
 from knowledge_base.chunk_selector import ChunkSelector
 import json
+import random
+import os
 
 logger = logging.getLogger(__name__)
 
@@ -39,14 +41,23 @@ class QuestionAgent:
         # 1. Include questions only of Multiple Choice Questions type
         # 2. Match the difficulty level of previous examples
         # 3. For each question, provide:
-        #    - Clear question text
+        #    - Cleaor question text
         #    - Answer options (for multiple choice)
         #    - Correct answer
         #    - Brief explanation justifying the answer
         # 4. Format consistently with the examples provided
-        # """
-
-        NCERT_text = str(ChunkSelector.n_chunking(current_topic, target_count))
+        # """knowledge_base\business_studies.json
+        def n_chunking(name, n):
+            with open('knowledge_base/business_studies.json', "r", encoding="utf-8") as file:
+                data = json.load(file)
+            for chapter in data["Chapter"]:
+                if chapter["Name"] == name:
+                    texts = chapter["text"]
+                    selected_texts = random.sample(texts, min(n, len(texts)))  # Ensure N does not exceed available texts
+                    NCERT_text = "\n\n".join([item["content"] for item in selected_texts])
+                    return NCERT_text
+            return None
+        NCERT_text = str(n_chunking(current_topic, target_count))
 
         prompt = f"""
         Generate Business Studies exam questions about the topic/subject asked for by the user.

@@ -1,0 +1,926 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "When a single consumer fails to get his rights protected, he seeks the help of",
+        "options": [
+            "Trade Union",
+            "Consumer Forum",
+            "Labour Union",
+            "None of the above"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "When a consumer feels to get his eyes protected species the help of the Consumer Forum. There are various rights like right to safety the right to be informed the right to choose and the right to be heard.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "Consumers should use ISI marked electrical appliance is an example of",
+        "options": [
+            "Right to safety",
+            "Right to be informed",
+            "Right to choose",
+            "Right to be heard"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Section 131 of Negotiable Instruments Act extends protection to the",
+        "options": [
+            "Collecting banker",
+            "Paying banker",
+            "Advising banker",
+            "Confirming banker"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Under this Section, a collecting bank has protection only if the collecting bank, in good faith and without negligence, receives payment of the customer by a cheque, i.e. if there is negligence in receiving of a cheque on behalf of the customer, the collecting bank would be liable for negligence.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "The process of holding shares in electronic form is known as",
+        "options": [
+            "Speculation",
+            "Demutualisation",
+            "Dematerialisation",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The process of holding securities in an electronic form is called dematerialisation. For this, the investor has to open a demat account with an organisation called a depository. This is mainly done to eliminate problems associated with share certificates or debentures held in physical form.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "Secondary market is in the form of",
+        "options": [
+            "Stock exchange",
+            "Money market",
+            "New issue market",
+            "Commercial exchange"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The secondary market is where investors buy and sell securities they already own. It is what most people typically think of as the stock market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not true with regard to Commercial paper?",
+        "options": [
+            "It is a long-term unsecured promissory note with a fixed maturity period",
+            "It usually has a maturity period of 15 days to one year",
+            "It is sold at a discount and redeemed at par",
+            "Companies use this instrument for bridge financing"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "Marketing is called a ___ process because it involves interaction of buyers and sellers.",
+        "options": [
+            "Economic",
+            "Social",
+            "Legal",
+            "Political"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Marketing is called a social process because it involves the interaction of buyers and sellers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Packaging is important not only for protection of the product but also serves as",
+        "options": [
+            "Quality product",
+            "Complex graphics",
+            "Promotional tool",
+            "Promotion budget"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Packaging is important not only for protection of the products but also serves as a promotional tool.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "SEBI was setup to regulate the",
+        "options": [
+            "Insurance Market",
+            "Security Market",
+            "Money Market",
+            "Capital Market"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Securities and Exchange Board of India (SEBI) was first established in 1988 as a non-statutory body for regulating the securities market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Higher working capital usually results in:",
+        "options": [
+            "Higher equity, lower risk, and lower profits",
+            "Lower current ratio, higher risk, and profits",
+            "Lower equity, lower risk, and higher profits",
+            "Higher current ratio, higher risk, and higher profits"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "If a company has high working capital, it has more than enough liquid funds to meet its short- term obligations. Working capital, also called net working capital, is a liquidity metric used in corporate finance to assess the operational efficiency of a business.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Capital gearing refers to",
+        "options": [
+            "The proportion between net interest and non-fixed interest or dividend bearing funds in the capital employed",
+            "The proportion between fixed interest or dividend bearing funds and non-fixed interest or dividend bearing funds in the total capital employed in the business",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Capital gearing is a British word refers to the quantity of debt a corporation has about its equity. In the United States, resources gearing is known as a monetary influence. Companies with high levels of capital gearing will have a generously proportioned amount of debt relative to their equity value.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "assertion-reason",
+        "question": "Assertion: Cost of capital is an important concept in formulating firm’s capital structure. Reason: Its practical utility is an acceptance – rejection decision criterion.",
+        "options": [
+            "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+            "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion.",
+            "Assertion is correct but Reason is incorrect",
+            "Assertion is incorrect but reason is correct."
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The cost of capital refers to the cost incurred by a company in raising and maintaining a certain amount of money that is capital for the business. These includes the out-off rate as it is the cost of raising capital, target rate as it is the rate at which stockholders are target and it is the minimum required rate of return in order to main the capital for a certain period of time.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "Which of the following affects the Dividend Decision of a company?",
+        "options": [
+            "Taxation Policy",
+            "Cash Flow Position",
+            "Earnings",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Factors Affecting Dividend Decision: The finance manager analyses the following factors before dividing the net earnings between dividend and retained earnings: Taxation policy, Earnings, Stability of Earnings, Cash Flow Position, Growth Opportunities, Shareholder’s preference etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "According to sociological approach, entrepreneurship deals",
+        "options": [
+            "Process of sensitivity",
+            "Process of role performance",
+            "Process of economic change",
+            "All of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The sociological approach to the study of entrepreneurship deals with social and cultural factors responsible for the nature and growth of entrepreneurship development in a society. It attempts to understand as to why a social structure and culture facilitates or inhibits entrepreneurial development.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "Planning requires logical and systematic thinking rather than guess work or wishful thinking. Identify the related feature of planning.",
+        "options": [
+            "Planning is futuristic.",
+            "Planning is a mental exercise.",
+            "Planning establishes standards for controlling.",
+            "Planning focuses on achieving objectives."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Planning does not happen on its own. It is a creative activity which requires higher thinking and level of intelligence. Therefore, it is a mental exercise.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "An efficient control system helps to",
+        "options": [
+            "Accomplish organisational objectives",
+            "Boost employee morale",
+            "Judge accuracy of standards",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "An effective control system will disclose where failures are occurring and who is/are responsible for the failures and it will ensure that some corrective action is taken. Efficient control system helps to accomplish objectives, boosts employee morals, judge's accuracy of standards, analyse deviations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "belief that if you try to control everything, you may end up controlling nothing",
+        "options": [
+            "Critical point control",
+            "Key result areas",
+            "Management by exception",
+            "Deviations"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management by exception, which is often referred to as control by exception, is an important principle of management control based on the belief that an attempt to control everything results in controlling nothing",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "is the focus point for a manager while controlling, as controlling at every step is not possible",
+        "options": [
+            "Controlling",
+            "Coordinating",
+            "Critical point control",
+            "Both (a) and (b)"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "As controlling is not possible at each and every step, the focus point for a manager while controlling would be to find the deviations in the Key Result Areas (KRAs)",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "The need for the controlling function is felt in",
+        "options": [
+            "Business organisations",
+            "Political organisations",
+            "Social organisations",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The need of control is felt both at the beginning and end of the process of management",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "What type of nature the control has",
+        "options": [
+            "Positive Approach",
+            "Negative Approach",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a type of personal barrier",
+        "options": [
+            "Fear of challenge to authority",
+            "Unwillingness to communicate",
+            "Loss by transmission and poor retention",
+            "Lack of proper incentive"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "It is a type of psychological barrier",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "The process of giving instructions and guiding people to doing work is known as-",
+        "options": [
+            "Staffing",
+            "Controlling",
+            "Directing",
+            "Coordination"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Directing refers to the process of instructing, guiding, counselling, motivating and leading people in the organisation to achieve its objectives",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "Directing function is performed along with which of the following functions-",
+        "options": [
+            "Planning",
+            "Organising",
+            "Controlling",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "A directing function is performed by the managers along with planning, staffing, organizing, representation and controlling in order to discharge their duties in the organization",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "multiple-choice",
+        "question": "Which among the following is not an element of directing",
+        "options": [
+            "Motivation",
+            "Communication",
+            "Control",
+            "Supervision"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The process of directing involves guiding, coaching, instructing, motivating, leading the people in an organisation to achieve organisational objectives",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "multiple-choice",
+        "question": "A manager directing his immediate subordinate and taking instructions from his immediate boss is an example of which characteristic of directing",
+        "options": [
+            "Directing flows from top to bottom",
+            "Directing in a continuous process",
+            "Directing initiates action",
+            "Both b and c"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Directing flows from top to bottom: It means that every manager can direct his immediate subordinate and take instructions from his immediate boss",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a non-financial incentive",
+        "options": [
+            "Job Security",
+            "Salary",
+            "Incentives",
+            "All"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following sources is most relevant to recruiting managerial personnel?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Direct recruitment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Employment exchange"
+            },
+            {
+                "label": "Option 3",
+                "text": "Advertisement"
+            },
+            {
+                "label": "Option 4",
+                "text": "Casual callers"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Advertisement is most relevant source for recruiting managerial personnel.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "multiple-choice",
+        "question": "After planning and selection of the organization structure, what is the next step in the management process?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Directing"
+            },
+            {
+                "label": "Option 2",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 3",
+                "text": "Staffing"
+            },
+            {
+                "label": "Option 4",
+                "text": "Coordination"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Steps of management includes: planning, organizing, staffing, directing and controlling. Next step in the management process after organizing is staffing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "multiple-choice",
+        "question": "Which among the following is not a benefit of staffing to the organisation-",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Improves job satisfaction and morale of employees through objective assessment and fair reward for their contribution"
+            },
+            {
+                "label": "Option 2",
+                "text": "Providing for social security and welfare of the employees"
+            },
+            {
+                "label": "Option 3",
+                "text": "Ensures the continuous survival and growth of the enterprise"
+            },
+            {
+                "label": "Option 4",
+                "text": "Helps to ensure optimum utilization of human resources"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Providing for social security and welfare of the employees.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "multiple-choice",
+        "question": "Organisation establishes a relationship between",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "People, work, and resources"
+            },
+            {
+                "label": "Option 2",
+                "text": "Customer, work, and resources"
+            },
+            {
+                "label": "Option 3",
+                "text": "People, work, and management"
+            },
+            {
+                "label": "Option 4",
+                "text": "Customer, work, and management"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Organisation establishes a relationship between people, work and resources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "33",
+        "question_type": "multiple-choice",
+        "question": "Organising process includes one of the following:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Grouping of activities"
+            },
+            {
+                "label": "Option 2",
+                "text": "Prescribing disciplinary action"
+            },
+            {
+                "label": "Option 3",
+                "text": "Determining objectives"
+            },
+            {
+                "label": "Option 4",
+                "text": "Prescribing work schedule"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Organising process includes grouping of activities, identifying the work, establish hierarchy, delegation of authority and coordination.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "Which of the following importance of organising simulates creativity among the manager?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Development of personnel"
+            },
+            {
+                "label": "Option 2",
+                "text": "Expansion and growth"
+            },
+            {
+                "label": "Option 3",
+                "text": "Optimum utilisation of resources"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Organising simulates creativity among the managers. Effective delegation allows the managers to reduce the workload by assigning routine jobs to the subordinate.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "In which respect does formal organisation differ from informal organisation?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Production process"
+            },
+            {
+                "label": "Option 2",
+                "text": "Structuring"
+            },
+            {
+                "label": "Option 3",
+                "text": "Financial procedure"
+            },
+            {
+                "label": "Option 4",
+                "text": "Purchasing"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Formal organizations are more structured and rely on authority based upon chains of command. Informal organizations do not require hierarchies of authority or structured internal processes.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a benefit of planning?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Helps in avoiding confusion and misunderstanding"
+            },
+            {
+                "label": "Option 2",
+                "text": "Ensures clarity in thought and action"
+            },
+            {
+                "label": "Option 3",
+                "text": "Useless and redundant activities are minimised or eliminated"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Benefits of planning are: Gives an organization a sense of direction, Focuses attention on objectives and results, Establishes a basis for teamwork, Helps anticipate problems and cope with change, Provides guidelines for decision making, Serves as a prerequisite to employing all other management functions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "The first step in planning process is:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Setting objectives"
+            },
+            {
+                "label": "Option 2",
+                "text": "Evaluating alternatives"
+            },
+            {
+                "label": "Option 3",
+                "text": "Determining strengths and weaknesses"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The first step in the process of planning is to set the objective for the plan.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Planning is",
+        "options": [
+            "Planning is futuristic",
+            "Planning is a mental exercise",
+            "Planning establishes standards for controlling",
+            "Planning focuses on achieving objectives"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "A strategy is a comprehensive plan which will not include this dimension",
+        "options": [
+            "Determining long term objectives",
+            "Adopting a particular course of action",
+            "The ends which the management seeks to achieve by its operations",
+            "Allocating resources necessary to achieve the objective"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a feature of leadership?",
+        "options": [
+            "It shows ability of an individual to influence others.",
+            "It leads to achievement of organisational goals.",
+            "Leadership is one-time process.",
+            "It leads to desired change in the organisation."
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Leadership is not a one-time process. It is a continuous process",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "The shift of demand from soft drinks to juices is an opportunity for juice companies and threat for soft drink companies.",
+        "options": [
+            "Relatively",
+            "Complexity",
+            "Uncertainty",
+            "Dynamic"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Business environment is dynamic, therefore it keeps on changing whether in terms of technological improvements, ships and consumer preferences are entry of new competition in the market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "The Reserve Bank of India reduces CRR (Cash Reserve Ratio) by 0.5% to control recession.",
+        "options": [
+            "Political Environment",
+            "Economic Environment",
+            "Social Environment",
+            "Legal Environment"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "Transaction cost of trading of financial instruments in centralised market is classified as:",
+        "options": [
+            "Flexible costs",
+            "Low transaction costs",
+            "High transaction costs",
+            "Constant costs"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Transaction costs are expenses incurred when buying or selling a good or service. In a financial sense, transaction costs include brokers’ commissions and spreads, which are the differences between the price the dealer paid for a security and the price the buyer pays.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "Harmony Not discord principle is concerned with",
+        "options": [
+            "Management should share the gain of the company with workers",
+            "Investigation of task",
+            "Scientific inquiry",
+            "Observation and analysis"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Harmony, Not Discord principle is concerned with management should share the profit with workers. According to Taylor there should not be any conflict between the managers and the workers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "Which of the following methods of floating new issues in the primary market is prohibited currently?",
+        "options": [
+            "Private Placement",
+            "Right Issue",
+            "Offer for sale",
+            "Preferential allotment"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Preferential allotment is a process in which shares are allotted to a specific group of people or companies which are interested in it.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "According to Taylor, “even a small production activity like loading figures of iron into boxes can be scientifically planned and managed.",
+        "options": [
+            "Harmony, not discord",
+            "Science, not rule of thumb",
+            "Development of each and every person to get his/her greatest efficiency and prosperity",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Taylor believes that there was only one method to maximize efficiency which can be developed to study and analysis.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "Management is essential for the organisations which are",
+        "options": [
+            "Non-profit organisations",
+            "Service organisations",
+            "Social organisations",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management is essential for all types of organisations irrespective of their size or type.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "Management is said to be poor if it is",
+        "options": [
+            "Efficient but ineffective",
+            "Effective but inefficient",
+            "Both inefficient and ineffective",
+            "All of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The management is supposed to be poor in the event that it doesn't follow compelling methods for correspondence and decision-making. Helpless administration is the point at which the administrators don't design and put together their work adequately.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "As a universal phenomenon, Management",
+        "options": [
+            "Depends on whether the organisation is a partnership, company",
+            "Depends on whether the organisation is a for-profit firm or any non-profit charitable organisation",
+            "Does not depend on nature or type of organisation",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "As a universal phenomenon, Management does not depend on nature or type of organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "50",
+        "question_type": "multiple-choice",
+        "question": "Management is multidimensional because it has ___ dimension(s).",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management is multidimensional because it has three dimensions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

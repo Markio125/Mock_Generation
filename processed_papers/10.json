@@ -1,0 +1,1380 @@
+[
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Management is equally important to run a political organisation as it is to run an economic organisation. Which feature of management is being highlighted here?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management is goal-oriented"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management is multidimensional"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management is all pervasive"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management is a group activity"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management is done in every type of organization, whether it is profit-making. Non-profit making, social, political, or any other type of organisation because every organisation comprises of human, physical, financial resources which need to be managed properly.",
+        "marks": {
+            "positive": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Management is essential for the organisations which are:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Non-profit organisations"
+            },
+            {
+                "label": "Option 2",
+                "text": "Service organisations"
+            },
+            {
+                "label": "Option 3",
+                "text": "Social organisations"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Every organisation, whatever its nature may be, needs proper management for efficient and effective working.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Satisfaction of personnel objectives is very important in an organisation. Reason (R): Employees are one of the most valuable resources for an organization.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A)."
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true, but Reason (R) is false."
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false, but Reason (R) is true."
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "As human resource is the only active source of production.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "What is the latest development in scientific management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Motion study"
+            },
+            {
+                "label": "Option 2",
+                "text": "Time study"
+            },
+            {
+                "label": "Option 3",
+                "text": "Fatigue study"
+            },
+            {
+                "label": "Option 4",
+                "text": "Lean manufacturing"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The latest development of scientific management is lean manufacturing which is a method that focuses on minimizing waste within manufacturing systems while simultaneously maximizing productivity.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "“Management principles are not as rigid as principles of pure science.” Which of the following best describes the given statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management principles deal with human behaviour and, thus, are to be applied creatively given the demands of the situation."
+            },
+            {
+                "label": "Option 2",
+                "text": "Principles of management are formed after research in work situations, which are technical in nature."
+            },
+            {
+                "label": "Option 3",
+                "text": "Principles of management contribute towards the development of management both as a science and as an art."
+            },
+            {
+                "label": "Option 4",
+                "text": "None of the above."
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "match-the-column",
+        "question": "Match the technique of scientific management in Column I with their respective explanation in Column II:",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Standardisation of work"
+            },
+            {
+                "label": "B",
+                "text": "Simplification of work"
+            },
+            {
+                "label": "C",
+                "text": "Method study"
+            },
+            {
+                "label": "D",
+                "text": "Functional foremanship"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Separation of planning and execution functions"
+            },
+            {
+                "label": "ii",
+                "text": "Setting benchmarks for every business activity which must be adhered to during production."
+            },
+            {
+                "label": "iii",
+                "text": "Eliminating superfluous varieties, sizes and dimensions."
+            },
+            {
+                "label": "iv",
+                "text": "Minimising the cost of production and maximise the quality and satisfaction of the customer"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "A-i, B-ii, C-iii, D-iv"
+            },
+            {
+                "label": "Option 2",
+                "text": "A-ii, B-iii, C-iv, D-i"
+            },
+            {
+                "label": "Option 3",
+                "text": "A-ii, B-iv, C-i, D-iii"
+            },
+            {
+                "label": "Option 4",
+                "text": "A-i, B-iii, C-ii, D-iv"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Technique of “Simplification of Work” eliminate superfluous verities. Sizes and dimensions of products. Reason (R): Technique of “Simplification of work” reduced inventories, fuller utilisation of equipment and increased turnover to reduce cost.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true but Reason (R) is not correct explanation of Assertion (A)."
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true but reason (R) is false."
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false but reason (R) is true."
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "The principle of division of work is applicable to government office where there is a diary/dispatch clerk whose job is to receive and send mail, a data entry operator whose task is to input data on the computer. Division of work is also applicable to limited companies where there are separate departments like production, finance research and development etc. Which character of the principles is highlighted here?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "General guidelines"
+            },
+            {
+                "label": "Option 2",
+                "text": "Universal applicability"
+            },
+            {
+                "label": "Option 3",
+                "text": "Flexible"
+            },
+            {
+                "label": "Option 4",
+                "text": "Contingent"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The principles of management have universal applicability. They can be applied to all types of organisations, departments, and functions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Neeraj started a saree showroom in Delhi, India. He wants to sell sarees in Germany but he understands that conditions are different in different countries. Identify the features of business environment highlighted here.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Relativity"
+            },
+            {
+                "label": "Option 2",
+                "text": "Uncertainty"
+            },
+            {
+                "label": "Option 3",
+                "text": "Dynamic nature"
+            },
+            {
+                "label": "Option 4",
+                "text": "Complexity"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Business environment is a relative concept since it differs from country to country and even region to region.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "The Economic Survey, 2019 suggests that the psychological biases can be used for the tax compliance. It is in favour of using religious slogan such as “dying in debt is a sin” to improve tax compliance. Identify the related dimensions of business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Legal dimension and social dimension"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social dimension and economic dimension"
+            },
+            {
+                "label": "Option 3",
+                "text": "Technological dimension and political dimension"
+            },
+            {
+                "label": "Option 4",
+                "text": "Political dimension and economic dimension"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The religious slogan is related to the social dimension which includes forces like traditions, values, social trends etc. and tax rates relate to economic dimension.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Banking sector reform has led to many attractive schemes of deposits and lending money. The banks are offering loans at very nominal rate of interest and with minimum formalities to be completed. Identify the dimension of Business environment highlighted here?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Political"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social"
+            },
+            {
+                "label": "Option 3",
+                "text": "Economical"
+            },
+            {
+                "label": "Option 4",
+                "text": "Technical"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Which among the following is a part of micro environment?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Customers"
+            },
+            {
+                "label": "Option 2",
+                "text": "Competitors"
+            },
+            {
+                "label": "Option 3",
+                "text": "Suppliers"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Micro-environment include the elements in a firm’s immediate environment which affect its performance and decision making. These elements include firm’s suppliers, competitors, marketing intermediaries, customers and public.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Reservation of jobs for backward classes as per the constitution of India affects the business environment. Reason (R): Various elements of legal dimensions affect the business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion(A) and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true but reason (R) is not the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true but Reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false but Reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "Changes and events cannot be eliminated but they can be anticipated and managerial response to them can be developed which importance of planning is highlighted in the above statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning provides direction"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning reduces overlapping and wasteful activities"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning reduces the risk of uncertainty"
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning facilitates decision making"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Planning forces the managers to look ahead, anticipate change, consider the impact of change, and develop appropriate responses. Thus planning reduces uncertainty.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "“Planning cannot foresee everything in future, and thus, there may be obstacles to effective planning.” Identify the limitation of planning.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning leads to rigidity."
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning may not work in a dynamic environment."
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning does not guarantee success."
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning reduces creativity."
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "Sanjay decided to start a chocolates manufacturing business. He set the target of earning 10% profit on sales in the first year. As a good businessman, he was concerned about the future of the business, which was uncertain. He gathered information that the demand for chocolates is increasing day by day. He used this information as the base for future planning and shared it with his team. On the basis of the gathered information, he scheduled a meeting in the following week to find innovative ways to achieve the objectives. Identify one out of the two steps, which have been followed by Sanjay that are related to the process of one of the functions of management.",
+        "options": [
+            "Follow up action",
+            "Selecting an alternative",
+            "Developing Premises",
+            "Evaluating alternative courses"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "“In 2005, with the aim to accelerate growth the company had gone through several rounds of Meetings and discussions.” What is the objective mentioned here according to the process stated here?",
+        "options": [
+            "Developing Premises",
+            "Growth & development",
+            "Launching IT enabled system",
+            "Cost cutting"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "“In 2008, the company suffered loss in many projects due to the great recession despite taking many cost cutting measures.” Which limitation of the management process is indicated here?",
+        "options": [
+            "It fails to cope with sudden changes",
+            "It involves huge cost",
+            "It requires critical thinking",
+            "Economic Environment"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "“The management had taken utmost care regarding the possible outcome and timely review of the Plans to achieve the set target during that hard time.” Which is the last step of the Process mentioned here?",
+        "options": [
+            "Implementation of plan",
+            "Timely execution of projects",
+            "Follow up",
+            "To prepare alternative course of action"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "“Due to organisational structure, it becomes easy to expand operations, new divisions, departments, and products.” Identify the importance of organisation function from the following given points.",
+        "options": [
+            "Effective administration",
+            "Development of personal",
+            "Expansion and growth",
+            "None of the above"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "(c) Proper organisational structure provides the organisation with the benefit of growth of the enterprise.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "Identify the function of management involved in the above mentioned paragraph.",
+        "options": [
+            "Planning",
+            "Organising",
+            "Directing",
+            "Controlling"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "Which concept/process is used by the Production Manager?",
+        "options": [
+            "Decentralisation",
+            "Delegation",
+            "Training",
+            "Coordination"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "The concept identified in question 23, is an extension to one of the principles of management. Name that principle.",
+        "options": [
+            "Authority and responsibility",
+            "Division of work",
+            "Centralisation and decentralization",
+            "Unity of direction"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "Ajay decided to start a business of manufacturing toys. He identified the following main activities which he has to perform:",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[26]",
+        "question_type": "multiple-choice",
+        "question": "Who will be accountable finally if the subordinate is unable to complete the task accordingly within time?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The Manager"
+            },
+            {
+                "label": "Option 2",
+                "text": "The Subordinate"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[27]",
+        "question_type": "multiple-choice",
+        "question": "Ayaan got selected as a sales officer in one of the leading sales companies. He was given a brief introduction about the company and its policies and regulations. Identify the step in the process of staffing which Ayaan is going through.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Selection"
+            },
+            {
+                "label": "Option 2",
+                "text": "Employment interview"
+            },
+            {
+                "label": "Option 3",
+                "text": "Orientation or induction"
+            },
+            {
+                "label": "Option 4",
+                "text": "Training and development"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Once the right candidates are selected, the organisation makes the employees familiar with the working units and working environments through various orientation programs.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[28]",
+        "question_type": "multiple-choice",
+        "question": "This analysis tells about the number and type of people available within the organisation.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Workload analysis"
+            },
+            {
+                "label": "Option 2",
+                "text": "Breakeven analysis"
+            },
+            {
+                "label": "Option 3",
+                "text": "Workforce analysis"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Workforce analysis would reveal the number and type of people available in the organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[29]",
+        "question_type": "multiple-choice",
+        "question": "Choose the correct options given below:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Statement I is correct and II is incorrect"
+            },
+            {
+                "label": "Option 2",
+                "text": "Statement I is incorrect and II is correct"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both are correct"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both are incorrect"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Individuals differ in many respects including job-related abilities and skills. In order to select a right person for the job, individual differences in terms of abilities and skills need to be adequately and accurately measured for comparison. This is done through a device called ‘selection test’, while training is a job or career oriented process.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[29]",
+        "question_type": "multiple-choice",
+        "question": "Many big organisations maintain a close liaison with the universities, vocational schools and management institutes to recruit qualified personnel for various jobs. This is known as:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Placement agencies and management consultants"
+            },
+            {
+                "label": "Option 2",
+                "text": "Direct recruitment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Labour contractors"
+            },
+            {
+                "label": "Option 4",
+                "text": "Campus recruitment"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Campus recruitment is quite popular particularly for recruiting fresh MBAs and Engineers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[30]",
+        "question_type": "multiple-choice",
+        "question": "Abha works as a project co-ordinator in an export house. Whenever the workload is high, she is able to convince her team by explaining to them the purpose, providing training and motivating them with additional rewards so as to be able to win their wholehearted co- operation. Identify the element of directing being described in the above lines.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Supervision"
+            },
+            {
+                "label": "Option 2",
+                "text": "Communication"
+            },
+            {
+                "label": "Option 3",
+                "text": "Leadership"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The element of directing being described in the question is Leadership.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[31]",
+        "question_type": "multiple-choice",
+        "question": "Identify the correct sequence of steps involved in the motivation process.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Tension, drives, search behaviour, unsatisfied need, satisfied behaviour, reduction of tension"
+            },
+            {
+                "label": "Option 2",
+                "text": "Unsatisfied need, tension, drives, search behaviour, satisfied behaviour, reduction of tension"
+            },
+            {
+                "label": "Option 3",
+                "text": "Drives, search behaviour, unsatisfied need, tension, satisfied behaviour, reduction of tension"
+            },
+            {
+                "label": "Option 4",
+                "text": "Search behaviour, reduction of tension, unsatisfied need, tension, drives, satisfied behaviour"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Motivation process includes an unsatisfied need of an individual that creates tension, which stimulates his drives. These drives generate a search behaviour to satisfy such need. When the need is satisfied, the individual is relieved of tension and hence feel motivated.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[32]",
+        "question_type": "multiple-choice",
+        "question": "These needs are most basic in the hierarchy of motivation theory and correspond to primary needs.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Self-actualisation needs"
+            },
+            {
+                "label": "Option 2",
+                "text": "Basic physiological needs"
+            },
+            {
+                "label": "Option 3",
+                "text": "Security needs"
+            },
+            {
+                "label": "Option 4",
+                "text": "Belonging needs"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The first needs on Maslow’s hierarchy are physiological needs.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[33]",
+        "question_type": "multiple-choice",
+        "question": "On joining Foster Public School as a physical education teacher, Vikram realised that he did not have any freedom to introduce any changes in the sports activities being carried out in the school. Identify the incentive which was being ignored by the school.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Organisational climate"
+            },
+            {
+                "label": "Option 2",
+                "text": "Job security"
+            },
+            {
+                "label": "Option 3",
+                "text": "Career advancement opportunities"
+            },
+            {
+                "label": "Option 4",
+                "text": "Employee recognition programme"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The type of incentive being described in the above question is ‘Organisational climate.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[34]",
+        "question_type": "multiple-choice",
+        "question": "The common needs like shelter, food, education, etc. constitute which type of needs, according to Maslow’s Theory?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Physiological needs"
+            },
+            {
+                "label": "Option 2",
+                "text": "Esteem needs"
+            },
+            {
+                "label": "Option 3",
+                "text": "Security needs"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Basic physiological needs are concerned with food, shelter and clothing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[35]",
+        "question_type": "multiple-choice",
+        "question": "“Managerial control implies the measurement of accomplishment against the standard and the correction of deviations to assure attainment of objectives according to plan.” This definition has been given by:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Koontz and O’Donnell"
+            },
+            {
+                "label": "Option 2",
+                "text": "Peter Drucker"
+            },
+            {
+                "label": "Option 3",
+                "text": "Henry Fayol"
+            },
+            {
+                "label": "Option 4",
+                "text": "F.W. Taylor"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The definition in the above question is given by Koontz and O’Donnell.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[36]",
+        "question_type": "multiple-choice",
+        "question": "“Taking corrective actions” is the final step in the process of controlling, in which the managers take corrective measures to bring back everything on track. Sometimes even after best efforts, if deviations cannot be corrected then what should be done?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Revise the standards"
+            },
+            {
+                "label": "Option 2",
+                "text": "Delegate the authorities"
+            },
+            {
+                "label": "Option 3",
+                "text": "Shut the company"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of the above"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "After detecting the deviations, managers ensure that deviations do not occur again. The problem may lie in initiative to work or standards may have to be revised because they are sub-optimal or over-optimal.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[37]",
+        "question_type": "multiple-choice",
+        "question": "................ is a segment of an organisation which is primarily responsible for generating revenue?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Revenue centre"
+            },
+            {
+                "label": "Option 2",
+                "text": "Profit centre"
+            },
+            {
+                "label": "Option 3",
+                "text": "Investment centre"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Revenue centre is a segment of an organisation which is primarily responsible for generating revenue.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[38]",
+        "question_type": "multiple-choice",
+        "question": "Current assets of a business firm should be financed through:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "current liability only"
+            },
+            {
+                "label": "Option 2",
+                "text": "long-term liability only"
+            },
+            {
+                "label": "Option 3",
+                "text": "both types (i.e., long-term and short-term liabilities)"
+            },
+            {
+                "label": "Option 4",
+                "text": "none of the above"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Current assets of enterprises may be financed either by short-term sources or long-term sources or by combination of both.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[39]",
+        "question_type": "multiple-choice",
+        "question": "In financial management, the procurement of funds is done for:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "long-term needs"
+            },
+            {
+                "label": "Option 2",
+                "text": "short-term needs"
+            },
+            {
+                "label": "Option 3",
+                "text": "both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "none of the above"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "Dividend is that portion of profit, which is distributed to the shareholders and undistributed profit which remains in the business is known as:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "revenue"
+            },
+            {
+                "label": "Option 2",
+                "text": "equity"
+            },
+            {
+                "label": "Option 3",
+                "text": "retained earnings"
+            },
+            {
+                "label": "Option 4",
+                "text": "interest"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The portion of profits of a business that are not distributed as dividends to shareholders but are reserved for reinvestment back into business is called Retained Earnings.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "A businessman should lay emphasis on the protection of consumers and their interests:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "For long-term profit maximisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "For fulfilling social responsibility"
+            },
+            {
+                "label": "Option 3",
+                "text": "To avoid government intervention"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "It is important for a businessman to emphasise on the protection on consumer interests as it protects them from litigation and maintains their good will.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is not a reason for the importance of consumer protection from the point of view of consumers?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Consumer ignorance"
+            },
+            {
+                "label": "Option 2",
+                "text": "Consumer apathy"
+            },
+            {
+                "label": "Option 3",
+                "text": "Consumer exploitation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Unorganised consumers"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The importance of consumer protection from the point of view of consumers are: Consumer ignorance, Consumer exploitation, unorganised consumers. Consumer apathy is the tendency of consumers to resist changing from one brand to other.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "Consumer Protection Acts as a barrier against:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Sale of adulterated goods"
+            },
+            {
+                "label": "Option 2",
+                "text": "Sale of duplicate goods"
+            },
+            {
+                "label": "Option 3",
+                "text": "Sale of manufacturing goods"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both (a) and (b)"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Consumer Protection acts as a barrier against the sale of adulterated goods, sale of duplicate goods and any other practices which is harmful to consumers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "As per Consumer Protection Act, 2019, who is not a consumer?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "A person who obtains goods free of charge"
+            },
+            {
+                "label": "Option 2",
+                "text": "Who avails services free of charge"
+            },
+            {
+                "label": "Option 3",
+                "text": "Who obtains goods for resale or for any commercial purposes"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "As per the provisions of the new act, commercial purpose does not include use of goods bought by a person exclusively for the purposes of earning his livelihood by means of self-employment. A person who obtains goods free of charge, who avails services free of charge, who obtains goods for resale or for any commercial purposes, and who avails services under contract of service are not identified as consumers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "Customers will prefer creative and innovative products that are new or improved versions of existing products along with quality and performance. Which philosophy of management is this?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Product concept"
+            },
+            {
+                "label": "Option 2",
+                "text": "Marketing concept"
+            },
+            {
+                "label": "Option 3",
+                "text": "Societal concept"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of the above"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The firms following product concept believe that by producing superior products and improving their features over time would attract more customers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "How customer support services helps in bringing repeat sales from the customers?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "By developing brand loyalty"
+            },
+            {
+                "label": "Option 2",
+                "text": "By providing after sales services"
+            },
+            {
+                "label": "Option 3",
+                "text": "By handling customers complaints"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Customer support provides a range of customer services to assist customers in making correct and cost effective use of a product.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "“They don’t sell what they can make, but they make what they can sell “. Name the marketing philosophy to which this statement is related.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Societal marketing concept"
+            },
+            {
+                "label": "Option 2",
+                "text": "Marketing concept"
+            },
+            {
+                "label": "Option 3",
+                "text": "Product concept"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of the above"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The marketing concept is consumer oriented marketing. This concept emphasizes on the determination of the requirements of potential consumers and develop strategies that not any satisfy the needs of the customers but also accomplish the goals of the organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "What type of trading refers to the process of buying or selling securities online?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Screen-based"
+            },
+            {
+                "label": "Option 2",
+                "text": "Mobile-based"
+            },
+            {
+                "label": "Option 3",
+                "text": "Electronic"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Screen-based trading refers to the process of buying or selling securities online.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not true about the stock exchange?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It provides a platform for buying and selling new securities."
+            },
+            {
+                "label": "Option 2",
+                "text": "It curbs the marketability of the securities."
+            },
+            {
+                "label": "Option 3",
+                "text": "By providing a ready market, it extends liquidity to the securities."
+            },
+            {
+                "label": "Option 4",
+                "text": "It provides a platform for buying and selling old securities"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "It rather promotes the marketability of shares.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "50",
+        "question_type": "multiple-choice",
+        "question": "Name the method of floatation in primary market. It is a pre-emptive right given only to the existing shareholders to subscribe to the securities of the company as per its terms and conditions.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Offer through prospectus"
+            },
+            {
+                "label": "Option 2",
+                "text": "Offer for sale"
+            },
+            {
+                "label": "Option 3",
+                "text": "Private placement"
+            },
+            {
+                "label": "Option 4",
+                "text": "Rights issue"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "A rights issue is an invitation to existing shareholders to purchase additional new shares in the company.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

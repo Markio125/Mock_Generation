@@ -1,0 +1,1169 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not relevant to the concept of “Management as an inexact science”?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The principles of management lack universal validity"
+            },
+            {
+                "label": "Option 2",
+                "text": "The principles of management lack universal applicability"
+            },
+            {
+                "label": "Option 3",
+                "text": "The principles of management have to be modified according to the given situation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management involves dealing with human behaviour and outcomes cannot be predicted with utmost accuracy"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Management is related to human being so the results of its principles cannot be accurately predicted. Hence management is inexact science which lacks universal applicability.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Management is an exact science. Reason (R): It is based on human behaviour.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A)."
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true, but Reason (R) is false."
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is False, but Reason (R) is true."
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Because management is considered as social science and doesn’t have exact result always. It is affected by prevailing scenario.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statement justifies understanding of principles of management to take scientific decisions?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Adherence to these principles add to knowledge and understanding of managerial situations"
+            },
+            {
+                "label": "Option 2",
+                "text": "Principles emphasise logic rather than blind faith"
+            },
+            {
+                "label": "Option 3",
+                "text": "Principles of management are the core of the management theory"
+            },
+            {
+                "label": "Option 4",
+                "text": "Principles are guidelines that can be modified as per the changing environment"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The principles of scientific management emphasise that each job performed should be based on scientific enquiry and not on intuition, experience and hit and miss methods.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "Management should find ‘one best way’ to perform a task. Which technique of scientific management is defined in this sentence?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Time Study"
+            },
+            {
+                "label": "Option 2",
+                "text": "Method Study"
+            },
+            {
+                "label": "Option 3",
+                "text": "Fatigue Study"
+            },
+            {
+                "label": "Option 4",
+                "text": "Motion Study"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "match-the-column",
+        "question": "Match the technique of scientific management in Column I with their respective explanation in Column II:",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Time study"
+            },
+            {
+                "label": "B",
+                "text": "Method Study"
+            },
+            {
+                "label": "C",
+                "text": "Functional foremanship"
+            },
+            {
+                "label": "D",
+                "text": "Standardisation and simplification of work"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Each specialist is to be assigned work according to her/his qualities."
+            },
+            {
+                "label": "ii",
+                "text": "Devising new varieties instead of the existing ones and eliminating unnecessary diversity of products."
+            },
+            {
+                "label": "iii",
+                "text": "Fixing the standard time taken to perform a well-defined job so as to determine the number of workers to be employed; frame suitable incentive schemes and determine labour costs."
+            },
+            {
+                "label": "iv",
+                "text": "Finding out one best way of doing the job to minimise the cost of production and maximize the quality and satisfaction of the customer."
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "A-iii, B-ii, C-i, D-iv"
+            },
+            {
+                "label": "Option 2",
+                "text": "A-ii, B-i, C-iii, D-iv"
+            },
+            {
+                "label": "Option 3",
+                "text": "A-iii, B-iv, C-i, D-ii"
+            },
+            {
+                "label": "Option 4",
+                "text": "A-i, B-iii, C-ii, D-iv"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Management principal cannot be applied differently under different conditions Reason (R): Some changes can be made in application of principles according to the requirement of the company.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)."
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true but Reason (R) is not correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true but reason (R) is false."
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false but reason (R) is true."
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "“Principles help managers to take decisions while performing functions of management.” In your opinion above statement is:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "True, principles are guidelines to take actions"
+            },
+            {
+                "label": "Option 2",
+                "text": "False, functions of management are not related with principles of management"
+            },
+            {
+                "label": "Option 3",
+                "text": "Partly true, principles denotes cause and effect relationship which may help functions"
+            },
+            {
+                "label": "Option 4",
+                "text": "False, functions of management are just actions"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The statement is true because principles are statement of fundamental truth which provides guidelines for managerial decision making and action.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Any kind of external devices, like compact discs (CD’s) for computer, have become obsolete. Google, with its Google Drive service, Apple with its I Cloud offering, enables the users store documents, photos, music and movies on web-based servers. Identify the feature of business environment being described in the above lines.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Relativity"
+            },
+            {
+                "label": "Option 2",
+                "text": "Dynamic nature"
+            },
+            {
+                "label": "Option 3",
+                "text": "Uncertainty"
+            },
+            {
+                "label": "Option 4",
+                "text": "Interrelatedness"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Business environment is largely uncertain as it is difficult to predict future especially when environment changes frequently as in the case of information technology or fashion industries.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "In order to boost and double India’s export of goods and services to over USD 1,000 billion by 2025, it is important to lower effective corporate tax rate, bring down cost of capital and simplify regulatory and tax framework. Identify the related dimension of business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Social dimension and legal dimension"
+            },
+            {
+                "label": "Option 2",
+                "text": "Technological dimension and political dimension"
+            },
+            {
+                "label": "Option 3",
+                "text": "Political dimension and social dimension"
+            },
+            {
+                "label": "Option 4",
+                "text": "Economic dimension and legal dimension"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The economic dimension relates to interest rates, inflation rates, tax rates, disposable income etc. and legal dimension relates to government policies and regulations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Which of the following dimensions of business environment includes legislations passed by the government administrative orders issued by government authorities.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Technological environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Political environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Legal environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "Social environment"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Macro-environment consists of which of the following?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Political system"
+            },
+            {
+                "label": "Option 2",
+                "text": "Culture of the society"
+            },
+            {
+                "label": "Option 3",
+                "text": "Demographic factors"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Macro-environment refers to the set of conditions that exist in the economy as a whole, rather than in a particular sector or region. The macro- environment includes economic, political, legal and social factors.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Manufacturers have now flexible manufacturing systems. Reason (R): Agricultural and industrial production trends are the economic dimensions of the environment which affect the business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion(A) and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true but reason (R) is not the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true but Reason (R) is false."
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false but Reason (R) is true."
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "Pervasiveness of planning indicates that planning:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "is a top management function"
+            },
+            {
+                "label": "Option 2",
+                "text": "extends throughout the organisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "is a future-oriented activity"
+            },
+            {
+                "label": "Option 4",
+                "text": "is the first element of management process"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Planning is pervasive. This means that it is required at all levels within the firm.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "Which particular stage of the ‘Planning Process’ in the above event is being completed by the managers?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Setting objectives"
+            },
+            {
+                "label": "Option 2",
+                "text": "Developing premises"
+            },
+            {
+                "label": "Option 3",
+                "text": "Identifying alternative courses of action"
+            },
+            {
+                "label": "Option 4",
+                "text": "Evaluating alternative courses"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Identify points highlighting the importance of planning mentioned in the above paragraph.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Reduces the risk of uncertainty"
+            },
+            {
+                "label": "Option 2",
+                "text": "Avoiding overlapping and wasteful activities"
+            },
+            {
+                "label": "Option 3",
+                "text": "(a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "The limitation of planning which adversely affects Jaya’s business is:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning may not work in a dynamic environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning may not guarantee success"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning involves huge costs"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "The above statement is related to a feature of planning, identify it.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning is continuous"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning is futuristic"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning involves decision making"
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning is pervasive"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "“The entire work is divided in such a manner that each activity is properly managed.” Identify the statement and choose the correct answer.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Assignment of duties"
+            },
+            {
+                "label": "Option 2",
+                "text": "Establishing reporting relationships"
+            },
+            {
+                "label": "Option 3",
+                "text": "Departmentalisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Identification and division of work"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "To identify the activities and then grouping them properly is called division of work.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "“After identification of different activities the work was allocated to different members.” Which step does this represent in the process of organising?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Identification and division of work"
+            },
+            {
+                "label": "Option 2",
+                "text": "Departmentalisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assignment of duties"
+            },
+            {
+                "label": "Option 4",
+                "text": "Establishing reporting relationships"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "“Thus, an organisational design was chosen which grouped similar activities together in order to minimise duplication of effort.” Which step under the process of organising is being referred to in this line?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Identification and division of work"
+            },
+            {
+                "label": "Option 2",
+                "text": "Departmentalisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assignment of duties"
+            },
+            {
+                "label": "Option 4",
+                "text": "Establishing reporting relationships"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "“Thus, an organisational design was chosen which grouped similar activities together in order to minimize duplication of effort.” Which organisational design is being referred to in this line?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Functional"
+            },
+            {
+                "label": "Option 2",
+                "text": "Formal"
+            },
+            {
+                "label": "Option 3",
+                "text": "Divisional"
+            },
+            {
+                "label": "Option 4",
+                "text": "Informal"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Authority determines the superior subordinate relationship wherein the superior communicates his decision to the subordinate, expecting compliance from him and the subordinate executes the decision as per the guidelines of the superior. Reason (R): Accountability is the obligation of a subordinate to properly perform the assigned duty.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true but (R) is not the correct explanation of A"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "multiple-choice",
+        "question": "If an employee of the bank has given a target to open 100 accounts in his branch during the year, then his performance will be evaluated on the basis of which step of the staffing process?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Promotion and career planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Performance appraisal"
+            },
+            {
+                "label": "Option 3",
+                "text": "Training and development"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of the above"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "The term performance appraisal refers to the regular review of an employee’s job performance and overall contribution to company’s goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "multiple-choice",
+        "question": "The analysis which helps in an assessment of the number and types of human resources necessary for the performance of various jobs and accomplishment of organisational objectives.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Break-even analysis"
+            },
+            {
+                "label": "Option 2",
+                "text": "Workload analysis"
+            },
+            {
+                "label": "Option 3",
+                "text": "Workforce analysis"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of the above"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "Workload analysis would enable an assessment of the number and types of human resources necessary for the performance of various jobs and accomplishment of organisational objectives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "multiple-choice",
+        "question": "A successful and effective recruitment programme necessitates a well-defined:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "recruitment policy"
+            },
+            {
+                "label": "Option 2",
+                "text": "a proper organisational structure"
+            },
+            {
+                "label": "Option 3",
+                "text": "procedures for locating sources of manpower resources"
+            },
+            {
+                "label": "Option 4",
+                "text": "all of the above"
+            }
+        ],
+        "correct_answer": "d",
+        "explanation": "For effective recruitment, the recruitment policy, the sources of recruitment; internal/external and their match with organisational structures should be proper.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a merit of internal recruitment?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Economical way of recruitment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Motivates the employees"
+            },
+            {
+                "label": "Option 3",
+                "text": "Reliable source of recruitment"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "d",
+        "explanation": "Internal recruitment is considered good as it economical and reliable, way of recruitment and also motivates the existing employees for better performance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "multiple-choice",
+        "question": "ABC Ltd., is an organisation manufacturing generators. The marketing manager delegates the task to five sales representatives working under him. Among them the three representatives were able to achieve their respective targets. As a result the marketing manager talks to the CEO of the company to recognise the performance of the three sales representatives. The company decide to upgrade their cadre and their salary package also. Name the element of directing function which the company assures the three representatives to achieve their targets.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Supervision"
+            },
+            {
+                "label": "Option 2",
+                "text": "Leadership"
+            },
+            {
+                "label": "Option 3",
+                "text": "Motivation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Communication"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "The element of directing mentioned in the above case in motivation. The company decided to upgrade the cadre of three representatives who achieved their targets. This element motivates other employees also to achieve their targets on time.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "multiple-choice",
+        "question": "It is defined as the process of guiding the efforts of employees and other resources to accomplish the desired objectives.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Supervision"
+            },
+            {
+                "label": "Option 2",
+                "text": "Communication"
+            },
+            {
+                "label": "Option 3",
+                "text": "Leadership"
+            },
+            {
+                "label": "Option 4",
+                "text": "Inspection"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "Supervision is guiding the efforts of employees and other resources to accomplish the desired objectives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "multiple-choice",
+        "question": "Which need in the hierarchy theory of motivation refers to affection, acceptance and friendship?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Self-actualisation needs"
+            },
+            {
+                "label": "Option 2",
+                "text": "Basic human needs"
+            },
+            {
+                "label": "Option 3",
+                "text": "Belongingness needs"
+            },
+            {
+                "label": "Option 4",
+                "text": "Physiological needs"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Belongingness needs include affection, acceptance and friendship. In the organisational context, belongingness, cordial relations and colleagues etc., help to satisfy these needs.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "33",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not an assumption of Maslow’s theory?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "People’s behaviour is not based on their needs"
+            },
+            {
+                "label": "Option 2",
+                "text": "Satisfaction of such needs influences their behaviour"
+            },
+            {
+                "label": "Option 3",
+                "text": "A satisfied need can no longer motivate a person; only next higher level need can motivate him"
+            },
+            {
+                "label": "Option 4",
+                "text": "A person moves to the next higher level of the hierarchy only when the lower need is satisfied"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "Abraham Maslow theory is based on certain assumptions i.e., He believed that human behaviour is based on their needs. Satisfaction of such needs influences their behaviour. When one need is satisfied, they will move to strive for other needs. A satisfied need can no longer motivate a person to work; only next higher level need can motivate him. A person moves to the next higher level of the hierarchy only when the lower need is satisfied.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "In which kind of communication network, a subordinate is allowed to communicate his immediate superior as well as his superior’s superior?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Downward"
+            },
+            {
+                "label": "Option 2",
+                "text": "Upward"
+            },
+            {
+                "label": "Option 3",
+                "text": "Inverted V"
+            },
+            {
+                "label": "Option 4",
+                "text": "Lateral"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "The inverted “V” communication is a formal network wherein the subordinate is allowed to communicate with his immediate superior as well as with the superior’s superior, i.e. the boss of the immediate boss.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "Critical point control’ technique refers to",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "controlling significant deviations"
+            },
+            {
+                "label": "Option 2",
+                "text": "controlling crucial activities"
+            },
+            {
+                "label": "Option 3",
+                "text": "taking corrective actions for all deviations"
+            },
+            {
+                "label": "Option 4",
+                "text": "controlling through personal judgement"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "It means keeping focus on some key areas (KRAs) or control crucial activities and if there is any deviation in these key areas, and then it must be attended urgently.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "Under controlling of HR area, corrective action must be taken for:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "high labour turnover rate"
+            },
+            {
+                "label": "Option 2",
+                "text": "low labour turnover rate"
+            },
+            {
+                "label": "Option 3",
+                "text": "zero labour turnover rate"
+            },
+            {
+                "label": "Option 4",
+                "text": "low labour absenteeism"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "Managers must determine why standards were not met. Corrective action should be taken immediately, without any loss of time. In the above example, for controlling HR area corrective action must be taken for high labour turnover rate.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "........................ is a segment of an organisation in which managers are held responsible for the cost incurred in the centre but not for the revenues?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Cost centre"
+            },
+            {
+                "label": "Option 2",
+                "text": "Revenue centre"
+            },
+            {
+                "label": "Option 3",
+                "text": "Profit centre"
+            },
+            {
+                "label": "Option 4",
+                "text": "Investment centre"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "A cost or expense centre is a segment of an organisation in which managers are held responsible for the cost incurred in the centre but not for the revenues. For e.g., production department.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "38",
+        "question_type": "multiple-choice",
+        "question": "The formula used to calculate current ratio is:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "current assets / current liabilities"
+            },
+            {
+                "label": "Option 2",
+                "text": "current liabilities / current assets"
+            },
+            {
+                "label": "Option 3",
+                "text": "inventory / current liabilities"
+            },
+            {
+                "label": "Option 4",
+                "text": "current liabilities / inventory"
+            }
+        ],
+        "correct_answer": "a",
+        "explanation": "Formula for Current ratio = Current Assets/Current Liabilities.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "For a healthy business the current ratio lies between:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "0 to 1.5"
+            },
+            {
+                "label": "Option 2",
+                "text": "1.5 to 3"
+            },
+            {
+                "label": "Option 3",
+                "text": "3 to 4.5"
+            },
+            {
+                "label": "Option 4",
+                "text": "4.5 to 6"
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "Acceptable current ratios vary from industry to industry and are generally between 1.5% and 3% for healthy businesses. If a company’s current ratio is in this range, then it generally indicates good short-term financial strength.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "Higher dividend per share is associated with:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "high earnings, high cash flows, unstable earnings and higher growth opportunities"
+            },
+            {
+                "label": "Option 2",
+                "text": "high earnings, high cash flows, stable earnings and higher growth opportunities"
+            },
+            {
+                "label": "Option 3",
+                "text": "high earnings, high cash flows, stable earnings and lower growth opportunities"
+            },
+            {
+                "label": "Option 4",
+                "text": "high earnings, low cash flows, stable earnings and lower growth opportunities"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "Higher dividend per share is associated with high earnings, high cash flows, stable earnings and lower growth opportunities.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "The Consumer Protection Act provides _____ rights to consumers.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Four"
+            },
+            {
+                "label": "Option 2",
+                "text": "Five"
+            },
+            {
+                "label": "Option 3",
+                "text": "Six"
+            },
+            {
+                "label": "Option 4",
+                "text": "Seven"
+            }
+        ],
+        "correct_answer": "c",
+        "explanation": "The Consumer Protection Act provides for six consumer rights and helps consumers in getting their grievances redressed for any shortcoming in the goods purchased or services availed. 1) Right to safety 2) Right to information 3) Right to choice 4) Right to be heard 5) Right to seek redressal 6) Right to consumer education.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "Under Consumer Protection Act, Consumer is a person who:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Buys any goods for a consideration, which has been paid."
+            },
+            {
+                "label": "Option 2",
+                "text": "Who hires or avails of any service, for a consideration which has been paid."
+            },
+            {
+                "label": "Option 3",
+                "text": "Uses the goods for commercial purpose."
+            },
+            {
+                "label": "Option 4",
+                "text": "Uses the goods for personal purpose."
+            }
+        ],
+        "correct_answer": "b",
+        "explanation": "Explanation if available",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

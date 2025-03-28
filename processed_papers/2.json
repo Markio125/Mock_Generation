@@ -1,0 +1,1551 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "match-the-column",
+        "question": "Match the Redressal Agency as per Consumer Protection Act in Column I with the Compensation Claimed in Column II.",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "District Commission"
+            },
+            {
+                "label": "B",
+                "text": "National Commission"
+            },
+            {
+                "label": "C",
+                "text": "State Commission"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Exceeds ₹10 crores"
+            },
+            {
+                "label": "ii",
+                "text": "Exceeds ₹ 1 crore but does not exceed ₹10 crores"
+            },
+            {
+                "label": "iii",
+                "text": "Does not exceed ₹ 1 crore"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(ii), (iii), (i)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(iii), (ii), (i)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(ii), (i), (iii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(iii), (i), (ii)"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "Mohan went to a shop to buy a Pant. The shopkeeper forced him to buy a particular colour of pant out of various colours, irrespective of his willingness. Which right of Mohan, as a consumer, has been violated?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Right to choose"
+            },
+            {
+                "label": "Option 2",
+                "text": "Right to heard"
+            },
+            {
+                "label": "Option 3",
+                "text": "Right to seek redressal"
+            },
+            {
+                "label": "Option 4",
+                "text": "Right to be informed"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "______ commission has territorial jurisdiction over the whole country",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "State commission"
+            },
+            {
+                "label": "Option 2",
+                "text": "Central commission"
+            },
+            {
+                "label": "Option 3",
+                "text": "National commission"
+            },
+            {
+                "label": "Option 4",
+                "text": "District commission"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): The Consumer Protection Act, 2019 has not defined the criteria of Consumer Disputes Redressal Commission (CDRCs). Reason (R): Under the Consumer Protection Act, 2019 the National CDRC will hear complaints worth more than ₹ 10 crores.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "(d) The Act has defined the criteria of Consumer Disputes Redressal Commission (CDRCs). The National CDRC will hear complaints worth more than ₹ 10 crores. The State CDRC will hear complaints when the value is more than ₹ 1 crore but less than ₹ 10 crore. While the District CDRC will entertain complaints when the value of goods or service is up to ₹ 1 crore.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "According to the modern marketing concept, which of the following statements is true?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It refers to the group of people who do not have the ability but willingness to buy a particular product."
+            },
+            {
+                "label": "Option 2",
+                "text": "It refers to only the set of people who have the purchasing power to buy a particular product."
+            },
+            {
+                "label": "Option 3",
+                "text": "It refers to the set of actual and potential buyers for a product."
+            },
+            {
+                "label": "Option 4",
+                "text": "It refers only to the people who show interest in a particular product."
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "(c) In the modern marketing sense, the term market has a broader meaning. It refers to a set of actual and potential buyers of a product or service.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "What is the other name of network marketing?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Multilevel marketing"
+            },
+            {
+                "label": "Option 2",
+                "text": "Zero level marketing"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) Network marketing, also known as Multi-Level Marketing (MLM), is a business model where independent contractors buy into a company and earn a commission on the products they sell.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "The main factors in global marketing are",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Social and technical changes"
+            },
+            {
+                "label": "Option 2",
+                "text": "Government policy and legislation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Marketing activities and plans"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "(c) The business environment in the world is very dynamic as it keeps on changing. The emergence of the global marketing is mainly due to the marketing activities and plans by the organizations to tap the people that are in a different country or part of the world.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "The NEAT system provides an order driven market, wherein orders match on the basis of ________________.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "First come bases"
+            },
+            {
+                "label": "Option 2",
+                "text": "Highest price bases"
+            },
+            {
+                "label": "Option 3",
+                "text": "Time and price priority"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "(c) The NEAT system provides an order driven market, wherein orders match on the basis of time and price priority.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "________ is the institution which provides a platform for trading of existing securities having long-term maturity.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "SEBI"
+            },
+            {
+                "label": "Option 2",
+                "text": "WTO"
+            },
+            {
+                "label": "Option 3",
+                "text": "Stock exchange"
+            },
+            {
+                "label": "Option 4",
+                "text": "RBI"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "(c) Stock exchange is the institution which provides a platform for trading of existing securities having long-term maturity.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is false regarding financial market?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Financial markets complicate the purchase and sale of financial assets"
+            },
+            {
+                "label": "Option 2",
+                "text": "Financial markets provide valuable information about securities being traded in the market"
+            },
+            {
+                "label": "Option 3",
+                "text": "They provide liquidity to financial assets"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) Financial markets facilitate easy purchase and sale of financial assets. In doing so they provide liquidity to financial assets, so that they can be easily converted into cash whenever required.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a function of the stock exchange?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Providing liquidity and marketability to existing securities"
+            },
+            {
+                "label": "Option 2",
+                "text": "Spreading of equity cult"
+            },
+            {
+                "label": "Option 3",
+                "text": "Contributing to economic growth"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "(d) Stock Exchange provides both liquidity and easy marketability to already existing securities in the market. In stock exchange securities of various companies are bought and sold. This process of disinvestment and reinvestment helps to invest in most productive investment proposal and this leads to capital formation and economic growth.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "match-the-column",
+        "question": "Match the following:",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Credit Control"
+            },
+            {
+                "label": "B",
+                "text": "Corporate Control"
+            },
+            {
+                "label": "C",
+                "text": "IPO Control"
+            },
+            {
+                "label": "D",
+                "text": "ULIP Control"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "MCA"
+            },
+            {
+                "label": "ii",
+                "text": "SEBI"
+            },
+            {
+                "label": "iii",
+                "text": "IRDA"
+            },
+            {
+                "label": "iv",
+                "text": "RBI"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(A) − (iv),(B) − (i),(C) − (ii),(D) − (iii)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(A) − (iv),(B) − (i),(C) − (iii),(D) − (ii)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) − (ii),(B) − (iii),(C) − (iv),(D) − (i)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) − (iv),(B) − (i), (C) − (iii),(D) − (ii)"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "(b) Credit control is an important tool used by Reserve Bank of India. Credit control in the economy is required for the smooth functioning of the economy. Corporate governance guidelines are laid down by several committees appointed by the Ministry of Corporate Affairs (MCA), for the smooth running of the organisations. SEBI regulates the stock markets operations and the IPOs in India. ULIP are regulated under the guidelines of IRDA.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "The cost of capital is related to the firm’s objective of",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Worth maximisation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Sales maximisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Output maximisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Cost reduction"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) The cost of capital is related to the firm's objective of Worth Maximisation because the capital structure of a company is a combination of owners' fund (equity) and borrowed funds (debt). The cost of capital of business affects both the profitability and financial risk of the business.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a component of specific forces of business environment?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Technological conditions"
+            },
+            {
+                "label": "Option 2",
+                "text": "Customers"
+            },
+            {
+                "label": "Option 3",
+                "text": "Employees"
+            },
+            {
+                "label": "Option 4",
+                "text": "Investors"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) Technological conditions are a part of general forces of business environment. Specific forces include investors, customers, etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "multiple-choice",
+        "question": "Directing guides employees to fully realise their potential and capabilities by motivating and providing effective leadership.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Directing"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 3",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 4",
+                "text": "Organizing"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not an element of communication?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Channel"
+            },
+            {
+                "label": "Option 2",
+                "text": "Decoding"
+            },
+            {
+                "label": "Option 3",
+                "text": "Receiver"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "There are 7 major elements when we talk about the communication process. These are: sender, ideas, encoding, communication channel, receiver, decoding and feedback.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "Participation theory is associated with the name of",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Vroom"
+            },
+            {
+                "label": "Option 2",
+                "text": "McGregor"
+            },
+            {
+                "label": "Option 3",
+                "text": "Maslow"
+            },
+            {
+                "label": "Option 4",
+                "text": "Taylor"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Douglas McGregor formulated the participation theory. He gave two distinct views of human being based on participation of workers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "match-the-column",
+        "question": "Match the Elements of Directing in Column I with their correct Explanation in Column II",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Supervision"
+            },
+            {
+                "label": "B",
+                "text": "Motivation"
+            },
+            {
+                "label": "C",
+                "text": "Leadership"
+            },
+            {
+                "label": "D",
+                "text": "Communication"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Friendship"
+            },
+            {
+                "label": "ii",
+                "text": "Recognition"
+            },
+            {
+                "label": "iii",
+                "text": "Achievement of goals"
+            },
+            {
+                "label": "iv",
+                "text": "Stability of income"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(i), (iii), (iv), (ii)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(ii), (iii), (i), (iv)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(iv), (ii), (i), (iii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(ii), (i), (iii), (iv)"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "Name the function of management which helps in the formulation of future plans, in the light of the problems that were identified and thus, helps in better planning in the future period.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Directing"
+            },
+            {
+                "label": "Option 4",
+                "text": "Controlling"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Controlling means ensuring that activities in an organisation are performed as per the planning.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "Controlling means ensuring that activities in an organisation are performed as per the",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Plans"
+            },
+            {
+                "label": "Option 2",
+                "text": "Goals"
+            },
+            {
+                "label": "Option 3",
+                "text": "Resources"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Controlling ensures that the activities in an organisation are performed as per the plans.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "What should be the ‘focus point’ for a manager while controlling, as controlling at each and every step is not possible?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Analysing deviations"
+            },
+            {
+                "label": "Option 2",
+                "text": "Measurement of actual performance"
+            },
+            {
+                "label": "Option 3",
+                "text": "Comparing actual performance with standards"
+            },
+            {
+                "label": "Option 4",
+                "text": "Setting performance standards"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Some degree of deviation in performance can be expected in all activities.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "Which of the following feature of management states that the management functions cannot be performed in isolation?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management is a goal-oriented process"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management is all pervasive"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management is a continuous process"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management is a group activity"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management always refers to a group of people involved in managerial activities.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "“Anyone can be called a manager irrespective of the educational qualification possessed.” Identify the characteristic of the profession that management does not fulfil in the statement being discussed above.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Ethical code of conduct"
+            },
+            {
+                "label": "Option 2",
+                "text": "Professional Association"
+            },
+            {
+                "label": "Option 3",
+                "text": "Restricted Entry"
+            },
+            {
+                "label": "Option 4",
+                "text": "Service Motive"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The entry to a profession is restricted through an examination or through acquiring an educational degree.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "multiple-choice",
+        "question": "Coordination is needed when",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "An individual is working independently"
+            },
+            {
+                "label": "Option 2",
+                "text": "A group is working"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both when an individual is working independently and a group is working"
+            },
+            {
+                "label": "Option 4",
+                "text": "Neither when an individual is working independently nor when a group is working"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The need for coordination is felt when group effort is needed for the accomplishment of an objective.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Management is a dynamic function and has to adapt itself to the changing environment. Reason (R): The effect of management is noticeable in an organisation where targets are met according to the plans.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, and (R) is not the correct explanation of (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "An organisation interacts with its external environment which consists of various social, economic and political factors.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "multiple-choice",
+        "question": "Which of the following does not apply to Principles of Management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Applicable in large firms"
+            },
+            {
+                "label": "Option 2",
+                "text": "Flexible"
+            },
+            {
+                "label": "Option 3",
+                "text": "Contingent"
+            },
+            {
+                "label": "Option 4",
+                "text": "Formed by practice and experience of managers"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The principles of management are intended to apply to all types of organisations, business as well as non-business, small, large, public sector, private sector and the service sectors.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "Why accurate cause and effect relationship cannot be established by principles of management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Because they mainly apply to human behaviour"
+            },
+            {
+                "label": "Option 2",
+                "text": "Because real life, situations are not identical"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "Neither (a) nor (b)"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The principles of management are less than perfect since they mainly apply to human behaviour. In real life, situations are not identical.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is an objective of standardisation?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "To reduce a given line or product to fixed types, sizes and characteristics."
+            },
+            {
+                "label": "Option 2",
+                "text": "To establish interchange ability of manufactured parts and products."
+            },
+            {
+                "label": "Option 3",
+                "text": "To establish standards of excellence and quality in materials and of performance of men and machines"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "In order to ensure uniformity in work operations, work should be standardised.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Managerial principles help the management to come out with the methods that help in reducing wastages. Reason (R): Principles of management cannot be modified.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, and (R) is not the correct explanation of (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "As the principles of management can be modified, they help the managers to meet the changing environment requirements.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "match-the-column",
+        "question": "Match the features of Business Environment in Column I with the appropriate explanations in Column II",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Complexity"
+            },
+            {
+                "label": "B",
+                "text": "Specific forces"
+            },
+            {
+                "label": "C",
+                "text": "Uncertainty"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Very difficult to predict future happenings"
+            },
+            {
+                "label": "ii",
+                "text": "Easier to understand in parts but difficult to grasp in its totality"
+            },
+            {
+                "label": "iii",
+                "text": "Affect individual enterprises directly and immediately"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(ii), (iii), (i)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(iii), (ii), (i)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(i), (ii), (iii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(i), (iii), (ii)"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[33]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not an element of social environment?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Birth and death rate"
+            },
+            {
+                "label": "Option 2",
+                "text": "Constitution of the country"
+            },
+            {
+                "label": "Option 3",
+                "text": "Population shifts"
+            },
+            {
+                "label": "Option 4",
+                "text": "Life expectancy"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "(b) Constitution of the country is an element of legal environment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[34]",
+        "question_type": "multiple-choice",
+        "question": "Even though the political condition vary from country to country, they impact the sentiment of an investor in the business, if there in stability of the political condition cause uncertainty and make it difficult for him to predict the future. Which feature of the business environment is being highlighted in the above statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "specific and general forces"
+            },
+            {
+                "label": "Option 2",
+                "text": "dynamic nature"
+            },
+            {
+                "label": "Option 3",
+                "text": "relativity"
+            },
+            {
+                "label": "Option 4",
+                "text": "all of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Business environment includes both specific and general forces. Business environment is dynamic, i.e., it keeps on changing whether in terms of technological improvement, shifts in consumer preferences or entry of new competition in the market. Business environment is a relative concept since it differs from country to country and even region to region.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[35]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is true with respect to political environment?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It include the social forces like customs and traditions values, social trends, society’s expectations from business etc."
+            },
+            {
+                "label": "Option 2",
+                "text": "It includes forces relating to scientific improvement and innovations"
+            },
+            {
+                "label": "Option 3",
+                "text": "It includes political condition such as General stability and peace in the country"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "(c) Political environment is the outcome of a combination of various ideologies advocated by different political parties. It includes political condition such as General stability and peace in the country and political attitude of elected government towards business.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[36]",
+        "question_type": "multiple-choice",
+        "question": "Principles of management emphasize on logical and rational decision making rather than on the basis of bias and prejudice. The given statement highlights that the knowledge of principles of management leads to",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Providing managers with useful insight into reality"
+            },
+            {
+                "label": "Option 2",
+                "text": "Scientific decisions"
+            },
+            {
+                "label": "Option 3",
+                "text": "Meeting changing environmental requirements"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "(b) Principles of management are not based on rule of thumb/hit-and-trial method, but on a scientific approach.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[37]",
+        "question_type": "multiple-choice",
+        "question": "Globalisation means",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Reduced role of public sector"
+            },
+            {
+                "label": "Option 2",
+                "text": "Integration of economies"
+            },
+            {
+                "label": "Option 3",
+                "text": "Lowering interest rates"
+            },
+            {
+                "label": "Option 4",
+                "text": "Control of inflation"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "(b) Globalization is the word used to describe the growing interdependence of the world's economies, cultures, and populations, brought about by cross-border trade in goods and services, technology, and flows of investment, people, and information.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[38]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not concerned with the Long term investment decision?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management of fixed capital"
+            },
+            {
+                "label": "Option 2",
+                "text": "Inventory management"
+            },
+            {
+                "label": "Option 3",
+                "text": "Research and Development Programme"
+            },
+            {
+                "label": "Option 4",
+                "text": "Opening a new branch"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[39]",
+        "question_type": "multiple-choice",
+        "question": "A decision to acquire a new and modern plant to upgrade an old one is a",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Financing decision"
+            },
+            {
+                "label": "Option 2",
+                "text": "Working capital decision"
+            },
+            {
+                "label": "Option 3",
+                "text": "Investment decision"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "(c) A decision to acquire a new and modern plant to upgrade an old one is an investment decision for the reason that new machinery brings in improvements in production thereby increasing efficiency.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[40]",
+        "question_type": "multiple-choice",
+        "question": "The concept of valuation is affected by __________.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Opinion"
+            },
+            {
+                "label": "Option 2",
+                "text": "Judgement"
+            },
+            {
+                "label": "Option 3",
+                "text": "Bargaining power"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "(d) The concept of valuation is affected by opinion, judgment and bargaining power. Valuation is the process of determining the current worth of an asset or a company.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[41]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following quality a manager must possess to succeed in planning?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Reflective Thinking"
+            },
+            {
+                "label": "Option 2",
+                "text": "Imagination"
+            },
+            {
+                "label": "Option 3",
+                "text": "Farsightedness"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[42]",
+        "question_type": "multiple-choice",
+        "question": "Making assumption for future is called",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Making derivative plans"
+            },
+            {
+                "label": "Option 2",
+                "text": "Making policy"
+            },
+            {
+                "label": "Option 3",
+                "text": "Setting planning premises"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "(c) The assumptions about future derived from forecasting and used in planning are known as planning premises.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[43]",
+        "question_type": "multiple-choice",
+        "question": "It is not always true that just because a plan has worked before it will work again. Identify the related limitation of planning.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning leads to rigidity"
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning reduces creativity"
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning may not work in a dynamic environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning does not guarantee success"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "(d) There are so many other unknown factors to be considered.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[44]",
+        "question_type": "multiple-choice",
+        "question": "Name the process of searching for prospective employees and stimulating them to apply for jobs in the organisation.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Recruitment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Selection"
+            },
+            {
+                "label": "Option 3",
+                "text": "Training"
+            },
+            {
+                "label": "Option 4",
+                "text": "Staffing"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) Recruitment is a process of searching for prospective employees and stimulating them to apply for more jobs in the organization.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[45]",
+        "question_type": "multiple-choice",
+        "question": "This managerial function involves manning the organisational structure to fill the roles designed into the structure.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Staffing"
+            },
+            {
+                "label": "Option 4",
+                "text": "Directing"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "(c) According to Kootz & O’Donnell, “Managerial function of staffing involves manning the organization structure through proper and effective selection, appraisal & development of personnel to fill the roles designed into the structure”.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[46]",
+        "question_type": "multiple-choice",
+        "question": "“Employee know well in advance what they are expected to do and what are the standards of performance on the basis of which they will be appraised, which in turn help them to give better performance.” Which importance of controlling is highlighted above?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Facilitating coordination in action"
+            },
+            {
+                "label": "Option 2",
+                "text": "Making efficient use of resources"
+            },
+            {
+                "label": "Option 3",
+                "text": "Accomplishing organisational goals"
+            },
+            {
+                "label": "Option 4",
+                "text": "Improves employee motivation"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "(d) Controlling sets up some standard of employees and employees knows the standards against which their performance will be measured. It thus, increases employee motivation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[47]",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): A small enterprise cannot afford to install an expensive control system. Reason (R): Control system loses some of its effectiveness when standards cannot be defined in quantitative terms.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "(b) Control is a costly affair as it involves a lot of expenditure, time and effort. A small enterprise cannot afford to install an expensive control system.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[48]",
+        "question_type": "multiple-choice",
+        "question": "…………… is an inner state that energises, activates or moves and directs behaviour towards goals.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Motivation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Motive"
+            },
+            {
+                "label": "Option 3",
+                "text": "Motivators"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "(b) A motive is an inner state that energises, activates or moves and directs behaviour towards goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[49]",
+        "question_type": "multiple-choice",
+        "question": "It is the obligation of a subordinate to properly perform the assigned duty.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Responsibility"
+            },
+            {
+                "label": "Option 2",
+                "text": "Authority"
+            },
+            {
+                "label": "Option 3",
+                "text": "Accountability"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "(a) Responsibility is the commitment of a subordinate to perform the appointed duty appropriately.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[50]",
+        "question_type": "multiple-choice",
+        "question": "Assertion (A): Decentralisation should be applied with",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "caution"
+            },
+            {
+                "label": "Option 2",
+                "text": "care"
+            },
+            {
+                "label": "Option 3",
+                "text": "prudence"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "1",
+        "question_type": "assertion-reason",
+        "question": "Decentralisation must always be balanced with centralisation in areas of major policy decisions.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and reason (R) are true."
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and reason (R) are false"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true and reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false and reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Decentralisation must always be balanced with centralisation in areas of major policy decisions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

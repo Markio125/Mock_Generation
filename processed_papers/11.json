@@ -1,0 +1,1423 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not relevant to the concept of “Management as an inexact science”?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The principles of management lack universal validity"
+            },
+            {
+                "label": "Option 2",
+                "text": "The principles of management lack universal applicability"
+            },
+            {
+                "label": "Option 3",
+                "text": "The principles of management have to be modified according to the given situation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management involves dealing with human behaviour and outcomes cannot be predicted with utmost accuracy"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Management like science is a systematised body of knowledge, its principles are derived through observation. Management is related to human being so the results of its principles cannot be accurately predicted. Hence management is inexact science which lacks universal applicability.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "A manager applies various theories of management in his/her unique personalised way. What aspect of nature of management does this statement indicate?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management as a science"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management as an art"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management for amateurs"
+            },
+            {
+                "label": "Option 4",
+                "text": "Management as an authority"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The aspect of nature of management considered here is ‘Management as an art’, which involves skills and knowledge to attain the desired results.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Management is said to be poor if it is:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Efficient but ineffective"
+            },
+            {
+                "label": "Option 2",
+                "text": "Effective but inefficient"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both inefficient and ineffective"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of the above"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Inefficient and ineffective management will lead to chaos, confusions and conflicts in the organisation. Thus it is called as poor management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "How are principles of management formed?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "By rule of thumb"
+            },
+            {
+                "label": "Option 2",
+                "text": "By observation and experimentation"
+            },
+            {
+                "label": "Option 3",
+                "text": "By experiences of customers"
+            },
+            {
+                "label": "Option 4",
+                "text": "By experiments in science laboratory"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The principles of management act as guide for the practice of management. They are not developed overnight. They are formed by continuous observation of events in actual practice and after repeatedly observed, they are tested in different organisations, thereafter the principles are formed.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "The principles of management enhance the understanding of relationship between human and material resources for the achievement of organisational goals. Identify the feature of the principles of management being described in the given statement.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Cause and effect relationships"
+            },
+            {
+                "label": "Option 2",
+                "text": "Optimum utilisation of resources and effective administration"
+            },
+            {
+                "label": "Option 3",
+                "text": "Formed by practice and experimentation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Mainly behavioural"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The principles of management emphasise on planned activities and systematic organisation of men and material in the organisation to get maximum benefit from them to fulfil organisational goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "“Principles of management emphasize on logical and rational decision making rather than on the basis of bias and prejudice.” The given statement highlights that the knowledge of principles of management leads to:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Providing managers with useful insight into reality"
+            },
+            {
+                "label": "Option 2",
+                "text": "Scientific decisions"
+            },
+            {
+                "label": "Option 3",
+                "text": "Meeting changing environmental requirements"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Proper knowledge and implementation of management principles help in taking scientific and logical decisions free from any biases.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "According to this principle of general management, “an organisation should safeguard against abuse of managerial power, but at the same time a manager should have the necessary authority to carry out his responsibility.” Name the principle of management being described in the given statement.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Discipline"
+            },
+            {
+                "label": "Option 2",
+                "text": "Authority and responsibility"
+            },
+            {
+                "label": "Option 3",
+                "text": "Unity of command"
+            },
+            {
+                "label": "Option 4",
+                "text": "Unity of direction"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Authority and responsibility are two sides of the same coin. More authority with less/no responsibility leads to misuse of authority and more responsibility without equal level of authority proves a hindrance in getting the work done from subordinates.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "The principle of division of work is applicable to government office where there is a diary / dispatch clerk whose job is to receive and send mail, a data entry operator whose task is to input data on the computer. Division of work is also applicable to limited companies where there are separate departments like production, finance research and development etc. Which character of the principles is highlighted here?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "General guidelines"
+            },
+            {
+                "label": "Option 2",
+                "text": "Universal applicability"
+            },
+            {
+                "label": "Option 3",
+                "text": "Flexible"
+            },
+            {
+                "label": "Option 4",
+                "text": "Contingent"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The principles of management have universal applicability. They can be applied to all types of organisations, departments, and functions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "India continues to be a lower-middle-income country along with 46 others, while Sri Lanka has climbed to the upper middle- income group for the fiscal year (FY) 2020, according to the World Bank’s classification of countries by income levels, released on July 1, 2019. Identify the related dimensions of business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Social dimension"
+            },
+            {
+                "label": "Option 2",
+                "text": "Technological dimension"
+            },
+            {
+                "label": "Option 3",
+                "text": "Economic dimension"
+            },
+            {
+                "label": "Option 4",
+                "text": "Political dimension"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "This relates to the economic dimension of the environment. The economic dimension consists of economic system, economic policies and economic conditions prevailing in a country.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "As per the directions issued by the Supreme Court, the government passed an order to ban the sale of tobacco products within the area of 200 meters of all educational institutions. Identify the dimension of business environment highlighted in this statement.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Legal environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Political environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of the above"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Banning of tobacco products within a prescribed area by the Supreme court shows the legal dimension of the environment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "“The increase in the demand for many Ayurvedic medicines, health products and services in the past few months, is related to the need for building immunity and an increased awareness for health care due to the spread of Corona Virus.” Identify the feature of business environment being described above.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Specific and general forces"
+            },
+            {
+                "label": "Option 2",
+                "text": "Inter-relatedness"
+            },
+            {
+                "label": "Option 3",
+                "text": "Relativity"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of the above"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The spread of corona virus influenced the demand of people and changed their life styles. People became more health conscious and demand for immunity booster products increased. It is an example of inter-relatedness.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "‘Mohan village’ is a well-known resort for organising parties, especially for children. However, in past 6 months its popularity has reduced considerably as a new resort with better ambience and facilities has opened within its vicinity. Name the related feature of business environment which has influenced the business of ‘Mohan village’ adversely.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Totality of external force"
+            },
+            {
+                "label": "Option 2",
+                "text": "Dynamic nature"
+            },
+            {
+                "label": "Option 3",
+                "text": "Interrelatedness"
+            },
+            {
+                "label": "Option 4",
+                "text": "Uncertainty"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Business environment is dynamic in nature. That is it keeps on changing whether in terms of technological improvement, shifts in consumer preferences or entry of new competitions in the market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "According to the United Nations Environmental Agency, the world produces around 400 million tons of plastic each year, half of which constitutes single-use items. Maruti is recycling over one billion plastic bottles every year to develop elements of the car’s interior, reducing the amount of plastic ending up in a landfill. The Japanese car maker has revealed that their Romanian-built Eco Sport SUVs’ carpets are made using 470 recycled single-use plastic bottles. The process for making Ford Eco Sport carpets involves shredding bottles and their caps into tiny flakes and then heating them to 260°C. Identify the related dimension of business environment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Economic dimension"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social dimension"
+            },
+            {
+                "label": "Option 3",
+                "text": "Technological dimension"
+            },
+            {
+                "label": "Option 4",
+                "text": "Political dimension"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The given statement depicts the technological dimension of the environment. Technological environment includes forces relating to scientific improvements and innovations which provide new ways and new techniques of operating.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Pradeep has given a detailed statement of expected results in numerical terms. This plan is conveyed to the subordinates by him in a special meeting. State the type of plan mentioned here",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Objective"
+            },
+            {
+                "label": "Option 2",
+                "text": "Rule"
+            },
+            {
+                "label": "Option 3",
+                "text": "Budget"
+            },
+            {
+                "label": "Option 4",
+                "text": "Method"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Budget is planning in numerical terms. It can be expressed in financial terms, labour hours, machine hours etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "Name the type of plan which provides the broad contours of an organisation’s business.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Programme"
+            },
+            {
+                "label": "Option 2",
+                "text": "Strategy"
+            },
+            {
+                "label": "Option 3",
+                "text": "Rule"
+            },
+            {
+                "label": "Option 4",
+                "text": "Policy"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Programmes are the combination of goals, policies, procedures and rules and thus provide a broad framework of an organisations’ business.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "A strategy is a comprehensive plan which will not include this dimension:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "determining long term objectives"
+            },
+            {
+                "label": "Option 2",
+                "text": "adopting a particular course of action"
+            },
+            {
+                "label": "Option 3",
+                "text": "the ends which the management seeks to achieve by its operations"
+            },
+            {
+                "label": "Option 4",
+                "text": "allocating resources necessary to achieve the"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Strategy is a comprehensive plan which includes determining long term objectives, adopting a particular course of action and the ends which the management seeks to achieve by its operations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[19]",
+        "question_type": "multiple-choice",
+        "question": "“In this step of planning process the pros and cons, positives, and negatives of all these alternatives should be properly considered.” Identify the step of planning process.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Setting objectives"
+            },
+            {
+                "label": "Option 2",
+                "text": "Developing premises"
+            },
+            {
+                "label": "Option 3",
+                "text": "Identifying alternative courses of action"
+            },
+            {
+                "label": "Option 4",
+                "text": "Evaluating alternative courses"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "After listing the various alternative for achieving objectives, these alternatives have to be evaluated i.e.; the positive and negative aspects of alternatives have to be studied so as to choose the best one.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[20]",
+        "question_type": "multiple-choice",
+        "question": "Amar was the first content manager in his company. He gains experience of all the related functions like HR, Marketing, Finance, etc. Identify the type of organisation.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Divisional structure"
+            },
+            {
+                "label": "Option 2",
+                "text": "Functional structure"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "Neither (a) nor (b)"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Amar’s company has divisional structure that is why he got experience of different units.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[21]",
+        "question_type": "multiple-choice",
+        "question": "Charan runs a company in Gurgaon. The company is known for its product specialisation and has a lot of reputation in the market. Identify the type of organisation structure:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Divisional structure"
+            },
+            {
+                "label": "Option 2",
+                "text": "Functional structure"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of the above"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "In divisional structure, departments may be organised on the basis of products, markets or territories. Charan’s company has product based divisional structure.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[22]",
+        "question_type": "multiple-choice",
+        "question": "“An organisational structure is not subject to change even if people are leaving or transferred.” Identify the statement and choose the correct answer.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Development of personnel"
+            },
+            {
+                "label": "Option 2",
+                "text": "Adaptation to change"
+            },
+            {
+                "label": "Option 3",
+                "text": "Clarity in working relationships"
+            },
+            {
+                "label": "Option 4",
+                "text": "Benefits of specialisation"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The formal organisational structure focuses on jobs, not employees. So when the employees change it adapts to it easily.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[23]",
+        "question_type": "multiple-choice",
+        "question": "“There is concentration of decision-making authority at higher or top levels of management. It refers to a situation where all decisions on all matters are taken by one or a few managers at relatively higher levels.” Identify the concept of organising.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Delegation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Centralisation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Authority"
+            },
+            {
+                "label": "Option 4",
+                "text": "Responsibility"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Centralisation means the decision making authority is concentrated at top level and all the decisions are taken at that level only. The lower level management has just to follow their instructions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[24]",
+        "question_type": "multiple-choice",
+        "question": "Ajay got selected as a sales officer in one of the leading sales companies. He was given a brief introduction about the company and its policies and regulations. Identify the step in the process of staffing which Ayaan is going through.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Selection"
+            },
+            {
+                "label": "Option 2",
+                "text": "Employment interview"
+            },
+            {
+                "label": "Option 3",
+                "text": "Orientation or induction"
+            },
+            {
+                "label": "Option 4",
+                "text": "Training and development"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Once the right candidates are selected, the organisation makes the employees familiar with the working units and working environments through various orientation programs. So Ajay has to go through orientation or induction process.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[25]",
+        "question_type": "multiple-choice",
+        "question": "him/her with thIt is the process of introducing the selected employee, to other employees and familiarisinge rules and policies of the organisation.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Orientation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Selection"
+            },
+            {
+                "label": "Option 3",
+                "text": "Training"
+            },
+            {
+                "label": "Option 4",
+                "text": "Recruitment"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Employee orientation is the process of introducing new hires to their jobs, co-workers, responsibilities, and workplace.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[26]",
+        "question_type": "multiple-choice",
+        "question": "The various activities involved in the process of recruitment include:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Identification and assessment of different sources of recruitment."
+            },
+            {
+                "label": "Option 2",
+                "text": "Selecting the most suitable source or sources."
+            },
+            {
+                "label": "Option 3",
+                "text": "Inviting applications from the prospective candidates."
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The process of recruitment involves various activities like: Identification of different sources of labour supply, assessment of their validity, choosing the most suitable source or sources, inviting applications from candidates looking for a job.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[27]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a merit of internal recruitment?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Economical way of recruitment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Motivates the employees"
+            },
+            {
+                "label": "Option 3",
+                "text": "Reliable source of recruitment"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Internal recruitment is considered good as it economical and reliable, way of recruitment and also motivates the existing employees for better performance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[28]",
+        "question_type": "multiple-choice",
+        "question": "This method is suitable for filling casual vacancies when work load is more or when permanent workers are unavailable due to certain reason.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Labour contractors"
+            },
+            {
+                "label": "Option 2",
+                "text": "Direct recruitment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Employment exchange"
+            },
+            {
+                "label": "Option 4",
+                "text": "Recommendations of employees"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Under the direct recruitment, a notice is placed on the notice board of the enterprise specifying the details of the jobs available and it is one of the best methods for filling casual vacancies when workers are unavailable.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[29]",
+        "question_type": "multiple-choice",
+        "question": "Pankaj has always been fascinated by the hand woven textile designs. Therefore, he decided to become a weaver. He was told that in order to understand and learn this workmanship, he will have to work under the guidance of a master worker for a certain number of years. Identify the type of training being described in the given lines.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Vestibule training"
+            },
+            {
+                "label": "Option 2",
+                "text": "Apprenticeship training"
+            },
+            {
+                "label": "Option 3",
+                "text": "Internship training"
+            },
+            {
+                "label": "Option 4",
+                "text": "Induction training"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The type of training mentioned in the above case is apprenticeship training. Under this, a master worker as a trainer is appointed, who guides the workers regarding the skill of job.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[30]",
+        "question_type": "multiple-choice",
+        "question": "Punishment and stopping increments etc., are the examples of",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Negative motivation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Supervision"
+            },
+            {
+                "label": "Option 3",
+                "text": "Positive motivation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Communication"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Negative motivation is understood as the act of forcing the staff members to work by holding out threats or punishment such as reprimands, disciplinary actions, demotion, loss of a job, dismissal from the post, deduction of salary, group rejection etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[31]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not the part of directing?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Leadership"
+            },
+            {
+                "label": "Option 2",
+                "text": "Motivation"
+            },
+            {
+                "label": "Option 3",
+                "text": "Communication"
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Leadership, motivation and communication are the elements of directing. Planning is the primary function of management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[32]",
+        "question_type": "multiple-choice",
+        "question": "Effective motivation in the organisation does not contribute towards:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Developing performance levels of employees"
+            },
+            {
+                "label": "Option 2",
+                "text": "Helping to reduce employee turnover"
+            },
+            {
+                "label": "Option 3",
+                "text": "Resistance to changes in the organisation"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Motivated employees don’t resist changes. They rather adopt to the changes.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[33]",
+        "question_type": "multiple-choice",
+        "question": "As an employee of an automobile company, Sanjay has always been very lazy and evasive. In order to change his behaviour, his boss decided to give him an incentive. Identify the feature of motivation being described in the above lines.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Motivation is an internal feeling."
+            },
+            {
+                "label": "Option 2",
+                "text": "Motivation produces goal-directed behaviour."
+            },
+            {
+                "label": "Option 3",
+                "text": "Motivation is a complex process."
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The feature of motivation being described in the above lines is motivation produces goal-oriented behaviour. Motivation is a power which leads the employees to the achievement of their goals.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[34]",
+        "question_type": "multiple-choice",
+        "question": "Manoj who is the owner of a company has decided to focus only on a few activities of his business. He considers that the rest of all activities are not critical to the performance of his company. One such area he finds is of labour. The labour cost recently went up by 4% sending signals of coming danger. Now he will put his efforts to control this variation by arranging labour at a cheaper rate. Identify the step of controlling.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Taking corrective action"
+            },
+            {
+                "label": "Option 2",
+                "text": "Analysing deviations"
+            },
+            {
+                "label": "Option 3",
+                "text": "Comparing actual with standard performance"
+            },
+            {
+                "label": "Option 4",
+                "text": "Setting organisational goal"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The step which is taken by Manoj is analysing deviations. This step helps in finding out the reason behind the deviation. Some deviation in performance can be expected in all activities. It is therefore, important to determine the acceptable range of deviations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[35]",
+        "question_type": "multiple-choice",
+        "question": "The comparison of actual performance with the planned performance becomes easier if the standards",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "are clear and specific"
+            },
+            {
+                "label": "Option 2",
+                "text": "are flexible"
+            },
+            {
+                "label": "Option 3",
+                "text": "are measurable"
+            },
+            {
+                "label": "Option 4",
+                "text": "are not available"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Not available",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[35]",
+        "question_type": "multiple-choice",
+        "question": "Control system loses its effectiveness when standards cannot be defined in",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Qualitative terms"
+            },
+            {
+                "label": "Option 2",
+                "text": "Quantitative terms"
+            },
+            {
+                "label": "Option 3",
+                "text": "Either of the above"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Control system loses its effectiveness when standards cannot be defined in quantitative terms. This makes measurement of performance and their comparison with standards a difficult task.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[36]",
+        "question_type": "multiple-choice",
+        "question": "When the deviations between the actual performance and the planned performance are within the limits?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "A limited corrective action is required"
+            },
+            {
+                "label": "Option 2",
+                "text": "No corrective action is required"
+            },
+            {
+                "label": "Option 3",
+                "text": "A major corrective action is required"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "When the deviations between the actual performance and the planned performance are within the limits then there is no need for any corrective action.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[37]",
+        "question_type": "multiple-choice",
+        "question": "an increase of 3% in the marketing cost as compared to a 15% increase in the courier expenses. Identify the concept being used by the manager.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management by exception"
+            },
+            {
+                "label": "Option 2",
+                "text": "Critical point control"
+            },
+            {
+                "label": "Option 3",
+                "text": "Corrective action"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The concept identified here is critical point control. This is an ideal control technique, therefore should focus on the Key result areas. In the above example, the finance manager pays more attention towards the increase in marketing cost rather than increase in courier expenses because increase in marketing cost is a bigger concern for the organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[38]",
+        "question_type": "multiple-choice",
+        "question": "Current assets of a business firm should be financed through:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Current liability only"
+            },
+            {
+                "label": "Option 2",
+                "text": "Long-term liability only"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both types (i.e., long-term and short-term liabilities)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Current assets of enterprises may be financed either by short-term sources or long-term sources or by combination of both. The main sources constituting long-term financing are shares, debentures, and debts form banks and financial institutions. Short-term financing of current assets includes sources of short-term credit, which a firm is mostly required to arrange in advance. Short-term bank loans, commercial papers etc. are a few of its components.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[39]",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statement is incorrect?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Current assets are usually more liquid than fixed assets."
+            },
+            {
+                "label": "Option 2",
+                "text": "Current assets contribute less to the profits than fixed assets."
+            },
+            {
+                "label": "Option 3",
+                "text": "B/R, debtors, stock, etc., are fixed assets."
+            },
+            {
+                "label": "Option 4",
+                "text": "Fixed assets are financed through long-term liabilities."
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "B/R, debtors, stock are the examples of current assets.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[40]",
+        "question_type": "multiple-choice",
+        "question": "The comparison of financial data of same time period of different organisations engaged in similar business.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Time series analysis"
+            },
+            {
+                "label": "Option 2",
+                "text": "Cross-sectional analysis"
+            },
+            {
+                "label": "Option 3",
+                "text": "Spatial data analysis"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "It is the comparison of one business to another i.e., comparing one company to another engaged in similar business.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[41]",
+        "question_type": "multiple-choice",
+        "question": "Financial management helps in:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Reducing the cost of funds"
+            },
+            {
+                "label": "Option 2",
+                "text": "Keeping the risks under control"
+            },
+            {
+                "label": "Option 3",
+                "text": "Achieving effective deployment of funds"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Importance of financial management:- It reduces cost of fund, ensures proper use of fund, provides information through financial reporting and it keeps risks under control.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[42]",
+        "question_type": "multiple-choice",
+        "question": "If, in a particular situation, the earnings per share (EPS) falls with the increased use of debt, it indicates that:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The rate of return on investment (ROI) is less than the cost of debt."
+            },
+            {
+                "label": "Option 2",
+                "text": "The rate of return on investment (ROI) is more than the cost of debt."
+            },
+            {
+                "label": "Option 3",
+                "text": "The cost of debt is less than the rate of return on investment (ROI)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The earnings per share (EPS) falls with the increased use of debt, indicating that the return on investment (ROI) is less than the cost of debt.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[43]",
+        "question_type": "multiple-choice",
+        "question": "The settlement cycle in NSE is:",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "T + 5"
+            },
+            {
+                "label": "Option 2",
+                "text": "T + 3"
+            },
+            {
+                "label": "Option 3",
+                "text": "T + 2"
+            },
+            {
+                "label": "Option 4",
+                "text": "T + 1"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "NSE Clearing follows a T + 2 rolling settlement cycle. For all trades executed on the T day, NSE Clearing determines the cumulative obligations of each member on the T + 1 day and electronically transfers the data to Clearing Members (CMs).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[44]",
+        "question_type": "multiple-choice",
+        "question": "Under which of the following market efficiency regimes would technical analysis not generate abnormal returns?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Weak market efficiency"
+            },
+            {
+                "label": "Option 2",
+                "text": "Semi-strong market efficiency"
+            },
+            {
+                "label": "Option 3",
+                "text": "Strong form market efficiency"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Under weak form market efficiency, it is not possible to use predictions based on past price data to make abnormal returns. Therefore, technical analysis would not work under this or either of the other two stronger market efficiency regimes. Therefore ‘all three’ is the correct answer.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[45]",
+        "question_type": "multiple-choice",
+        "question": "Name the method of floatation in primary market. It is a pre-emptive right given only to the existing shareholders to subscribe to the securities of the company as per its terms and conditions.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Offer through prospectus"
+            },
+            {
+                "label": "Option 2",
+                "text": "Offer for sale"
+            },
+            {
+                "label": "Option 3",
+                "text": "Private placement"
+            },
+            {
+                "label": "Option 4",
+                "text": "Rights issue"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "A rights issue is an invitation to existing shareholders to purchase additional new shares in the company. This type of issue gives existing shareholders securities called rights.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[46]",
+        "question_type": "multiple-choice",
+        "question": "Financial markets are the other financial intermediary that helps in the process of the savings of the households into the most productive use.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Channelizing"
+            },
+            {
+                "label": "Option 2",
+                "text": "Securitising"
+            },
+            {
+                "label": "Option 3",
+                "text": "Simplifying"
+            },
+            {
+                "label": "Option 4",
+                "text": "Financing"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Financial markets are the other financial intermediary that helps in channelizing the savings of the households into the most productive use.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[47]",
+        "question_type": "multiple-choice",
+        "question": "Where can the aggrieved party appeal further in case he is not satisfied with the order of the District Forum?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "National Commission"
+            },
+            {
+                "label": "Option 2",
+                "text": "State Commission"
+            },
+            {
+                "label": "Option 3",
+                "text": "Supreme Court of India"
+            },
+            {
+                "label": "Option 4",
+                "text": "Nowhere"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The aggrieved party can appeal further in State Commission, if in case he is not satisfied with the order of the District Forum",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[48]",
+        "question_type": "multiple-choice",
+        "question": "Which act aims to check adulteration of food articles and ensure their purity so as to maintain public health?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Consumer Protection Act, 1986"
+            },
+            {
+                "label": "Option 2",
+                "text": "The Prevention of Food Adulteration Act, 1954"
+            },
+            {
+                "label": "Option 3",
+                "text": "The Competition Act, 2002"
+            },
+            {
+                "label": "Option 4",
+                "text": "The Trademark Act, 1999"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The Prevention of Food Adulteration Act, 1954 checks adulteration of food articles and ensure their purity so as to maintain public health.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[49]",
+        "question_type": "multiple-choice",
+        "question": "To attract customers, many companies provide short term incentives to encourage them to make immediate purchase of the product or service. One of the commonly used scheme is “SCRATCH A CARD AND WIN THE CAR”.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Quantity gift"
+            },
+            {
+                "label": "Option 2",
+                "text": "Container premium"
+            },
+            {
+                "label": "Option 3",
+                "text": "Instant draw"
+            },
+            {
+                "label": "Option 4",
+                "text": "Rebate"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Under this method a customer is asked to scratch a card in the purchase or a product and the name of the product is inscribed in the scratch card is immediately offered to the customer as a gift.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "[50]",
+        "question_type": "multiple-choice",
+        "question": "Advertisements of a protein supplement must inform the potential buyer that the product if taken beyond a given dose can be harmful to the diabetics.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Technological environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Socio-cultural environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Legal environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "It is a legal requirement for the companies to warn the consumers about the precautions to be taken while using the product. It is mandatory.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

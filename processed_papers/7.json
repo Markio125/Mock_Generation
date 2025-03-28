@@ -1,0 +1,1258 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Name the type of plan which provides the broad contours of an organisation’s business",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Programme"
+            },
+            {
+                "label": "Option 2",
+                "text": "Strategy"
+            },
+            {
+                "label": "Option 3",
+                "text": "Rule"
+            },
+            {
+                "label": "Option 4",
+                "text": "Policy"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Strategies exactly define the 'HOW' of the objective",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): There is a kind of cost-benefit analysis involved and the relationship between inputs and outputs. Reason (R): If by using less resources (i.e., the inputs) more benefits are derived (i.e., the outputs) then effectiveness has increased",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are false"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true and Reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false and Reason(R) is true"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Using less resources leads to efficiency and not effectiveness as specified",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is an example of Non-financial incentives?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Recognition"
+            },
+            {
+                "label": "Option 2",
+                "text": "Job Security"
+            },
+            {
+                "label": "Option 3",
+                "text": "Status"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "“The principles of management are not rigid prescriptions, which have to be followed absolutely.” Which of the following best describes the given statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Management principles aim at influencing behaviour of human beings"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management principles enable a better understanding of the relationship between human and material resources in accomplishing organisational purposes"
+            },
+            {
+                "label": "Option 3",
+                "text": "Management principles are flexible and can be modified by the manager when the situation so demands"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management principles are flexible and can be modified by the manager when the situation demands so",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "match-the-column",
+        "question": "Match the technique of scientific management in Column I with their respective explanation in Column II",
+        "column_1": [
+            {
+                "label": "A",
+                "text": "Time study"
+            },
+            {
+                "label": "B",
+                "text": "Method study"
+            },
+            {
+                "label": "C",
+                "text": "Functional foremanship"
+            },
+            {
+                "label": "D",
+                "text": "Standardisation and simplification of work"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "i",
+                "text": "Each specialist is to be assigned work according to her/his qualities"
+            },
+            {
+                "label": "ii",
+                "text": "Devising new varieties instead of the existing ones and eliminating unnecessary diversity of products"
+            },
+            {
+                "label": "iii",
+                "text": "Fixing the standard time taken to perform a well-defined job so as to determine the number of workers to be employed; frame suitable incentive schemes and determine labour costs"
+            },
+            {
+                "label": "iv",
+                "text": "Finding out one best way of doing the job to minimise the cost of production and maximize the quality and satisfaction of the customer"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(iii), (ii),(i), (iv)"
+            },
+            {
+                "label": "Option 2",
+                "text": "(ii), (i), (iii), (iv)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(iii), (iv), (i), (ii)"
+            },
+            {
+                "label": "Option 4",
+                "text": "(i), (iii), (ii), (iv)"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): A principal refers to a statement which reflects the fundamental truth about some phenomenon based on cause and effect relationship Reason (R): Management principles are broad and general guidelines for decision marking and behaviour of managers",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true but Reason (R) is not correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true but reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false but reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Both Assertion (A) and Reason (R) are true but Reason (R) is not correct explanation of Assertion (A)",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "“There is a great demand for reservation in jobs for economically weaker sections of the society.” Identify the type of dimension of business environment mentioned",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Technological environment"
+            },
+            {
+                "label": "Option 2",
+                "text": "Political environment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Legal environment"
+            },
+            {
+                "label": "Option 4",
+                "text": "Social environment"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "It is very difficult to predict the changes of Business environment. No one can predict business environment 100% accurately. Which of the following feature of the business environment is highlighted by this point?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Uncertainty"
+            },
+            {
+                "label": "Option 2",
+                "text": "Dynamic"
+            },
+            {
+                "label": "Option 3",
+                "text": ""
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Turbulent market conditions, less brand loyalty, Kodivision and subdivision of market are just a few of the images to describe business environment. Reason (R): Business environment is getting dynamic where changes are taking place at a slow pace.",
+        "options": [
+            "Both Assertion(A) and Reason (R) is the correct explanation of Assertion (A)",
+            "Both Assertion (A) and Reason (R) are true but reason (R) is not the correct explanation of Assertion (A)",
+            "Assertion (A) is true but Reason (R) is false",
+            "Assertion (A) is false but Reason (R) is true"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "“Service sector contributes to almost half of India’s GDP but employees only one-third of its workforce.” Which of the following dimension of business environment is stated in the above line?",
+        "options": [
+            "Economic",
+            "Social",
+            "political",
+            "Legal"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Economic environment consists of economic factors that influence the business in a country.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Name the function of management which involves setting objectives and developing appropriate courses of action to achieve these objectives",
+        "options": [
+            "Directing",
+            "Organising",
+            "Planning",
+            "Staffing"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Planning refers to deciding in advance what to do, how to do it and who is to do it.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Mona Gupta is the C.E.O. of ‘Gupta Sales Pvt. Limited’. Besides other managerial activities, she is an expert in planning. While planning for her company, she noticed that at first several options are gathered, then their evaluation is done and finally the most suitable option is selected. Once she was confronted with such a problem as had only one option available for its solution. To select this very option was her compulsion. Now, for the first time she realized that the necessity of planning is there only when several options are available. Identify the feature of planning in the event stated above.",
+        "options": [
+            "Planning is continuous",
+            "Planning is futuristic",
+            "Planning involves decision making",
+            "Planning is pervasive"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "They represent the end point of planning",
+        "options": [
+            "Rules",
+            "Methods",
+            "Objectives",
+            "Policies"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "All other managerial activities are also directed towards achieving these objectives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "While ‘selecting an alternative’ under the planning process, which of the following are considered?",
+        "options": [
+            "Combination of plans may be selected instead of one best course.",
+            "Subjectivity and manager’s experience or judgment plays a role.",
+            "The most feasible, profitable plan with least negative consequences is chosen.",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The best plan, which is the most profitable plan and with minimum negative effects, is adopted and implemented.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): A large sized organisation can be totally decentralised. Reason (R): As an organisation grows in size and complexity, there is a tendency to move towards decentralised decision-making. Complete centralisation would imply concentration of all decision making functions at the apex of the management hierarchy",
+        "options": [
+            "Both Assertion (A) and reason (R) are true.",
+            "Both Assertion (A) and reason (R) are false",
+            "Assertion (A) is true and reason (R) is false",
+            "Assertion (A) is false and reason (R) is true"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "match-the-column",
+        "question": "Match the steps in the process of organising in Column I with the appropriate explanation in Column II",
+        "column_1": [
+            {
+                "label": "(i)",
+                "text": "Identification and division of work activities"
+            },
+            {
+                "label": "(ii)",
+                "text": "Departmentalisation"
+            },
+            {
+                "label": "(iii)",
+                "text": "Assignment of duties"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "A",
+                "text": "Dividing work into manageable"
+            },
+            {
+                "label": "B",
+                "text": "Establishing a hierarchal structure"
+            },
+            {
+                "label": "C",
+                "text": "Grouping"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "(i)-A, (ii)-B, (iii)-C"
+            },
+            {
+                "label": "Option 2",
+                "text": "(i)-B, (ii)-A, (iii)-C"
+            },
+            {
+                "label": "Option 3",
+                "text": "(i)-C, (ii)-B, (iii)-A"
+            },
+            {
+                "label": "Option 4",
+                "text": "(i)-C, (ii)-A, (iii)-B"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "Which of the following gives shape to the organisational structure?",
+        "options": [
+            "Extent of delegation",
+            "Employee strength",
+            "Span of management",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The span of management, to a large extent gives shape to the organisational structure. Span of management refers to the number of subordinates that can be effectively managed by a superior. This determines the level of management in the structure.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not applicable to the concept of ‘accountability’?",
+        "options": [
+            "It implies being answerable for the final outcome",
+            "It cannot be denied once authorities has been delegated and possibility has been accepted",
+            "It cannot be delegated",
+            "It flows downward"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Accountability elements of delegation refers to the answer the ability of a subordinate to superior for the job or task that is assigned. Accountability flows in an upward direction, which means the subordinate is accountable to the superior.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "With which element is exchange mechanism related?",
+        "options": [
+            "Publicity",
+            "Marketing",
+            "Advertising",
+            "Branding"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Exchange is known as essence of marketing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "Sudha purchased a pack of crayons for her daughter from a nearby stationery shop. She noticed that the crayons were packed in a portable transparent plastic bag. Identify the level of packaging being described in the above lines.",
+        "options": [
+            "Primary package",
+            "Secondary packaging",
+            "Transportation packaging",
+            "None of these"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "It is initial layer of packaging.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): The purpose of marketing is to generate customer value at a profit Reasoning (R): Marketing is the process of satisfying needs and wants of customers through the process of exchange",
+        "options": [
+            "Both are correct and (R) is the correct explanation of (A)",
+            "Both are correct but (R) is not the correct explanation of (A)",
+            "Both statements are incorrect",
+            "(A) is correct but (R) is incorrect"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Reason is not correct explanation. Marketing generate customer value at profit because customer satisfaction is the main objective of marketing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "match-the-column",
+        "question": "Match the following: StatementMarketing Mix",
+        "column_1": [
+            {
+                "label": "1",
+                "text": "Combination of tangible and intangible attributes of products"
+            },
+            {
+                "label": "2",
+                "text": "It is related to deciding about pricing of product"
+            },
+            {
+                "label": "3",
+                "text": "It is related to providing information and persuading customer"
+            },
+            {
+                "label": "4",
+                "text": "Providing product to customer at the right time, at the right quantity and at the right place"
+            }
+        ],
+        "column_2": [
+            {
+                "label": "A",
+                "text": "Product mix"
+            },
+            {
+                "label": "B",
+                "text": "Promotion mix"
+            },
+            {
+                "label": "C",
+                "text": "Price mix"
+            },
+            {
+                "label": "D",
+                "text": "Place mix"
+            }
+        ],
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "1-A, 2-C, 3-D, 4-B"
+            },
+            {
+                "label": "Option 2",
+                "text": "1-D, 2-C, 3-B, 4-A"
+            },
+            {
+                "label": "Option 3",
+                "text": "1-C, 2-D, 3-B, 4-A"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Product mix is combination of tangible and intangible attributes of products. Price mix is related to deciding about pricing of product. Place mix refers to provide products to customers at the right time, at the right place at the right quantity. Promotion mix refers to provide information to customers about product.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "Social and economic development of a Nation is the result of",
+        "options": [
+            "Entrepreneur",
+            "Planning",
+            "Operation",
+            "Government"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Social and economic development of a Nation is the result of an Entrepreneur.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "multiple-choice",
+        "question": "Entrepreneurship is ensured by",
+        "options": [
+            "Subsidiaries",
+            "Not available"
+        ],
+        "correct_answer": "Not available",
+        "explanation": "Not available",
+        "marks": {
+            "positive": 0.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "question_number": "2",
+        "question_type": "multiple-choice",
+        "question": "Larger Firm",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Larger Firm"
+            },
+            {
+                "label": "Option 2",
+                "text": "Medium Firm"
+            },
+            {
+                "label": "Option 3",
+                "text": "Medium Firm"
+            },
+            {
+                "label": "Option 4",
+                "text": "Small Firm"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "multiple-choice",
+        "question": "Identify the correct sequence of the steps involved in the selection process",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Medical Examination, Contract of Employment, Reference and Background checking, Selection Decision, Job Offer"
+            },
+            {
+                "label": "Option 2",
+                "text": "Reference and Background checking, Selection Decision, Contract of Employment, Medical Examination, Job Offer"
+            },
+            {
+                "label": "Option 3",
+                "text": "Job Offer, Reference and Background checking, Selection Decision, Medical Examination, Contract of Employment"
+            },
+            {
+                "label": "Option 4",
+                "text": "Reference and Background checking, Selection Decision, Medical Examination, Job Offer, Contract of Employment"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "multiple-choice",
+        "question": "It is the process of familiarising the new employees with aspects related to the organisation and the workers.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Vestibule training"
+            },
+            {
+                "label": "Option 2",
+                "text": "Induction training"
+            },
+            {
+                "label": "Option 3",
+                "text": "Apprenticeship training"
+            },
+            {
+                "label": "Option 4",
+                "text": "Internship training"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Induction training is the process of familiarising the new employees with aspects related to the organisation and the workers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "Estimating Manpower Requirement is a",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Job of Supervisor"
+            },
+            {
+                "label": "Option 2",
+                "text": "Job of Directors"
+            },
+            {
+                "label": "Option 3",
+                "text": "Workload analysis"
+            },
+            {
+                "label": "Option 4",
+                "text": "Budgetary Technique"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Estimating Manpower Requirement is a workload analysis.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "multiple-choice",
+        "question": "It is the process of choosing from the pool of the prospective job candidates developed at the stage of recruitment.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Selection"
+            },
+            {
+                "label": "Option 2",
+                "text": "Training"
+            },
+            {
+                "label": "Option 3",
+                "text": "Recruitment"
+            },
+            {
+                "label": "Option 4",
+                "text": "Orientation"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Selection is the most common way of putting the right men to the right jobs.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Controlling creates an atmosphere of order and discipline in the organisation. Reason (R): Controlling helps to minimise dishonest behaviour on the part of the employees by keeping a close check on their activities.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both (A) and (R) are true, and (R) is the correct explanation of (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "(A) is true, but (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "(A) is false, but (R) is true"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "(A) is false, but (R) is true",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "true-false",
+        "question": "Controlling is keeping check that everything goes according to plans.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "True"
+            },
+            {
+                "label": "Option 2",
+                "text": "False"
+            },
+            {
+                "label": "Option 3",
+                "text": "Partially True"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Controlling is keeping check that everything goes according to plans.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "33",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements does not highlight the relationship between planning and controlling?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning and controlling are separable twins of management."
+            },
+            {
+                "label": "Option 2",
+                "text": "Planning without controlling is meaningless, controlling without planning is blind."
+            },
+            {
+                "label": "Option 3",
+                "text": "Planning is prescriptive, controlling is evaluative."
+            },
+            {
+                "label": "Option 4",
+                "text": "Planning and controlling are interrelated and interdependent."
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Planning and controlling are separable twins of management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "It is the process of ensuring that events confirm to plans.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Planning"
+            },
+            {
+                "label": "Option 2",
+                "text": "Controlling"
+            },
+            {
+                "label": "Option 3",
+                "text": "Organising"
+            },
+            {
+                "label": "Option 4",
+                "text": "Directing"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Controlling means guaranteeing that activities in an organisation are proceeding according to the plans.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "Which of the following leadership styles has the speciality of centralised authority?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Autocratic leadership style"
+            },
+            {
+                "label": "Option 2",
+                "text": "Democratic leadership style"
+            },
+            {
+                "label": "Option 3",
+                "text": "Free-rein leadership style"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "In Autocratic style of leadership the leader centralizes his authority and keeps decision making with himself and very limited participation by subordinates of the group.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "During the process of communication there is an exchange of",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Ideas"
+            },
+            {
+                "label": "Option 2",
+                "text": "Orders"
+            },
+            {
+                "label": "Option 3",
+                "text": "Feelings"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "All of these",
+        "options": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Communication is a process of exchange data, information, ideas, thoughts, and emotions. Basically it is two way process of exchange that involves sender and receiver.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "Basic Physiological Needs are concerned with",
+        "options": [
+            "Shelter",
+            "Hunger",
+            "Thirst",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Physiological needs - these are biological requirements for human survival, e.g. air, food, drink, shelter, clothing, thirst, warmth, sex, sleep.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "38",
+        "question_type": "multiple-choice",
+        "question": "The process of converting the message into communication symbols is known as",
+        "options": [
+            "Decoding",
+            "Encoding",
+            "Feedback",
+            "Media"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The process of converting the message into communication symbols is known as Encoding.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a financial incentive?",
+        "options": [
+            "Promotion",
+            "Stock incentive",
+            "Job security",
+            "Employee participation"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Stock incentive is a kind of financial incentive. The other three options i.e., promotion, job security and employee participation are non-financial incentives that focus on psychological and social needs of the employees.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "A true and usual method of paying dividend is",
+        "options": [
+            "Stock dividend",
+            "Cash dividend",
+            "Profit dividend",
+            "Property dividend"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "A true and usual method of paying dividend is Cash dividend.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "_______ funding is almost as bad as inadequate funding.",
+        "options": [
+            "Limited",
+            "Short",
+            "Excess",
+            "Long"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Excess funding is almost as bad as inadequate funding. Funding involves cost like interest on loans which is a burden on the company. Excess funding will result in excess interest on capital which is a negative impact on the company's financial position.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "The difference between current assets and current liabilities is",
+        "options": [
+            "Gross working capital",
+            "Net working capital",
+            "Permanent working capital",
+            "Temporary working capital"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Working capital is the difference between current assets and current liabilities. Working Capital is the money used to pay short term debts.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "Permanent working capital is the",
+        "options": [
+            "difference between current assets and current liabilities",
+            "amount of funds invested in the various components of current assets",
+            "minimum amount of current assets which is needed to conduct a business even during the dullest season",
+            "additional assets which are required at different times during the operating year"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Permanent working capital refers to the minimum amount of working capital i.e. the amount of current assets over current liabilities which is needed to conduct a business even during the dullest period.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "The right to _____________ refers to the right to be safeguarded from products that are harmful to one’s life or health.",
+        "options": [
+            "Consumer education",
+            "Safety",
+            "Seek redressal",
+            "Information"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Right to safety.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "Determine which consumer rights are being exercised in the situation at hand.",
+        "options": [
+            "Right to be heard",
+            "Right to seek redressal",
+            "Right to safety",
+            "Right to consumer education"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Right to seek redressal",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following is not a reason for importance of consumer protection from the point of view of consumers?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Consumer ignorance"
+            },
+            {
+                "label": "Option 2",
+                "text": "Consumer apathy"
+            },
+            {
+                "label": "Option 3",
+                "text": "Consumer exploitation"
+            },
+            {
+                "label": "Option 4",
+                "text": "Unorganised consumers"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "A partner of a trading or non-trading firm signs a Negotiable instrument liability incurs in ______.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "The name of the firm"
+            },
+            {
+                "label": "Option 2",
+                "text": "In the name of partner"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "A partner of a trading or non-trading firm signs a Negotiable instrument, liability incurs in the name of the firm.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "According to Negotiable Instrument Act 1881, which of the following is not the type of promissory note?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "A promise to pay a certain sum of money to a person."
+            },
+            {
+                "label": "Option 2",
+                "text": "A promise to pay a certain sum of money to the order."
+            },
+            {
+                "label": "Option 3",
+                "text": "A promise to pay the bearer."
+            },
+            {
+                "label": "Option 4",
+                "text": "A promise to pay a certain sum of money at some time."
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "According to Negotiable Instrument Act, 1881, a promise to pay the bearer is not the type of promissory note as promissory note can be defined as a written document which states the promise to pay the sum of money to a specified person.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "Instruments with a maturity period of less than one year are traded in",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Stock Exchange"
+            },
+            {
+                "label": "Option 2",
+                "text": "NSE"
+            },
+            {
+                "label": "Option 3",
+                "text": "Capital Market"
+            },
+            {
+                "label": "Option 4",
+                "text": "Money market"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "As money became a commodity, the money market became a component of the financial markets for assets involved in short-term borrowing, lending, buying and selling with original maturity periods of one year or less.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "50",
+        "question_type": "multiple-choice",
+        "question": "Money market deals in ________",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Short term Securities"
+            },
+            {
+                "label": "Option 2",
+                "text": "Medium term securities"
+            },
+            {
+                "label": "Option 3",
+                "text": "Long term Securities"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The money market is where financial instruments with high liquidity and very short maturities are traded. It is used by participants as a means for borrowing and lending in the short term, with maturities that usually range from overnight to just under a year.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

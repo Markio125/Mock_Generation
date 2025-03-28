@@ -1,0 +1,359 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Successful management ensures that",
+        "options": [
+            "Goals are achieved with least cost",
+            "Timely achievement of goals",
+            "Both of these",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management aims to carry out the work in a manner that is completed within the stipulated time (effectiveness) and at the least cost (efficiency).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "The principles of management serve as",
+        "options": [
+            "Managerial action",
+            "Decision making",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Principles of management are broad and general guidelines for managerial decision-making and behaviour.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "The element that aims at integrating group efforts to achieve group objectives is called",
+        "options": [
+            "Cooperation",
+            "Coordination",
+            "Management",
+            "Directing"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Coordination is the element that integrates group efforts to achieve group objectives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "“Specialisation is the most efficient way to use human effort.” Which principle of Fayol is highlighted in this statement?",
+        "options": [
+            "Authority and Responsibility",
+            "Division of work",
+            "Unity of command",
+            "Discipline"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Specialisation is related to the Division of work principle of Fayol.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "multiple-choice",
+        "question": "People in the organisations carry out diverse tasks with the aim to achieve",
+        "options": [
+            "Different objectives",
+            "Common objectives",
+            "Both of these",
+            "None of these"
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Management seeks to integrate individual goals with organisational goals and ensure realisation of both.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "Management is equally important to run a political organisation as it is to run an economic organisation. Which feature of management is being reflected in the given statement?",
+        "options": [
+            "Management is goal oriented",
+            "Management is multidimensional",
+            "Management is all pervasive",
+            "Management is a group activity"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management is required in all types: economic, social or political, and sizes of organisations.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "multiple-choice",
+        "question": "‘Rule of thumb’ refers to",
+        "options": [
+            "Use of personal judgement in handling management issues",
+            "Adopting a hit-and-trial approach to resolve management problems",
+            "Both of these",
+            "None of these"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "A rule of thumb is a heuristic guideline that provides simplified advice or some basic rule-set regarding a particular subject or course of action.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "The growing awareness about healthcare has led to an increase in the demand for healthcare products and services in the country. Identify the feature of business environment being described in the above case.",
+        "options": [
+            "Dynamic nature",
+            "Uncertainty",
+            "Relativity",
+            "Interrelatedness"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Interrelatedness, as the different elements or parts of business environment are closely interrelated.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "The Economic Survey, 2019 suggests that the psychological biases can be used in the realm of tax compliance. It is in favour of using religious norms such “dying in debt is a sin” to improve tax compliance. Identify the related dimensions of business environment.",
+        "options": [
+            "Legal dimension and Social dimension",
+            "Social dimension and Economic dimension",
+            "Technological dimension and Political dimension",
+            "Political dimension and Economic dimension"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The use of religious norms relates to the Social dimension and legal compliance relates to the Legal dimension.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "“Anyone can be called a manager irrespective of the educational qualification possessed.” Identify the characteristic of the profession that management does not fulfil in the statement being discussed above.",
+        "options": [
+            "Ethical code of conduct",
+            "Professional association",
+            "Restricted entry",
+            "Service motive"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Management does not have the feature of restricted entry similar to profession.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are the impact of govt. policy changes on business & industry?",
+        "options": [
+            "Increased competition",
+            "Need for change",
+            "Demanding customers",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Govt. policy changes can lead to increased competition, need for change, and demanding customers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is a factor of the social environment of business?",
+        "options": [
+            "Customs",
+            "Composition of family",
+            "Level / Standard of education",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Composition of family is an example of social environment. Social environment consists of the customs and traditions of the society in which business is existing.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "As a result of the Economic Reforms the seller Market has been replaced by",
+        "options": [
+            "Buyer market",
+            "Foreign market",
+            "Whole sale market",
+            "Retail market"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "As a result of the Economic Reforms the seller Market has been replaced by buyer market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "Name the function of management which involves setting objectives and developing appropriate courses of action to achieve these objectives.",
+        "options": [
+            "Directing",
+            "Organising",
+            "Planning",
+            "Staffing"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Planning makes these objectives explicit and states activities are to be embraced to accomplish these objectives.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "All other managerial functions are performed within the framework of the plans drawn. Identify the related feature of planning.",
+        "options": [
+            "Planning focuses on achieving objectives.",
+            "Planning is pervasive.",
+            "Planning is futuristic.",
+            "Planning is primary function of management."
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Planning is the basis for all other functions of management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "multiple-choice",
+        "question": "Identify the correct sequence of steps involved in the planning process.",
+        "options": [
+            "Evaluating alternative courses, Identifying alternative course of actions, Setting objectives, Developing premises",
+            "Setting objectives, Identifying alternative course of actions, Evaluating alternative courses, Developing premises",
+            "Setting objectives, Developing premises, Identifying alternative course of actions, Evaluating alternative courses",
+            "Developing premises, Setting objectives, Identifying alternative course of actions, Evaluating alternative courses"
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The correct sequence is: Setting objectives, Developing premises, Identifying alternative course of actions, Evaluating alternative courses.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "It is a plan which quantifies future facts and figures.",
+        "options": [
+            "Procedure",
+            "Programme",
+            "Rule",
+            "Budget"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Budget is a numerical plan.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a benefit of planning?",
+        "options": [
+            "Planning reduces overlapping and wasteful activities.",
+            "Planning is a mental exercise.",
+            "Planning provides directions.",
+            "Planning reduces the risks of uncertainty."
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Planning is a mental exercise (it is a feature of planning).",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "Organising involves organisation of which of the following resources?",
+        "options": [
+            "Men",
+            "Material",
+            "Money",
+            "All of these"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Organizations use different resources to accomplish goals. The major resources used by organizations are often described as follow: human resources, financial resources, physical resources, and information resources.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "Which organisation structure is consciously or deliberately established?",
+        "options": [
+            "Formal",
+            "Informal",
+            "Both (a) & (b)",
+            "None"
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Formal organisational structure is consciously and deliberately designed structure of well-defined jobs, each bearing a definite authority, responsibility and accountability.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): Coordination is the last function of management. Reason (R): Coordination is the essence of management, for achieving harmony among individual efforts towards the accomplishment of group goals.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A",
+            "Both A and R are correct but R is not the correct explanation of A",
+            "A is correct but R is wrong",
+            "A is wrong but R is correct"
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Coordination is not the last function of management; it is the essence of management.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]

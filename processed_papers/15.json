@@ -1,0 +1,1382 @@
+[
+    {
+        "question_number": "3",
+        "question_type": "multiple-choice",
+        "question": "Which of the following techniques is defined as the process of comparing one’s business process and performance with industry’s with best practice from other firms?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Overall performance control"
+            },
+            {
+                "label": "Option 2",
+                "text": "Costing"
+            },
+            {
+                "label": "Option 3",
+                "text": "Benchmarking"
+            },
+            {
+                "label": "Option 4",
+                "text": "Balanced scorecard"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Benchmarking is defined as the process of comparing one’s business process and performance with industry’s best practice from other firms.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "4",
+        "question_type": "multiple-choice",
+        "question": "For the purpose of selecting employees for the post of ‘sales executives’ for its retail outlets, Reliance Fresh conducted a recruitment programme at Rajasthan University.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Advertisement"
+            },
+            {
+                "label": "Option 2",
+                "text": "Campus recruitment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Campus selection"
+            },
+            {
+                "label": "Option 4",
+                "text": "Direct recruitment"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Many organisations maintain a close link with universities and other educational institutes to recruit fresh talent.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "5",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not an advantage of directing?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Initiates action"
+            },
+            {
+                "label": "Option 2",
+                "text": "Integrates employee efforts"
+            },
+            {
+                "label": "Option 3",
+                "text": "Provides leadership"
+            },
+            {
+                "label": "Option 4",
+                "text": "Restricts changes"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Through effective directing, managers bring changes in the organisation, it is the workers who in fact restricts changes.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "6",
+        "question_type": "multiple-choice",
+        "question": "For the following two statements, choose the correct option.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Statement I is correct and Statement II is wrong"
+            },
+            {
+                "label": "Option 2",
+                "text": "Statement II is correct and Statement I is wrong"
+            },
+            {
+                "label": "Option 3",
+                "text": "Both the statements are correct"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both the statements are incorrect"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Both the statements are correct.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "7",
+        "question_type": "assertion-reason",
+        "question": "Directions: These are two statements marked as Assertion (A) and Reason (R). Read the statements and choose the appropriate option",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true, but Reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false, but Reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Motivator is the technique used to motivate people in an organisation.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "8",
+        "question_type": "multiple-choice",
+        "question": "If normal wastage of stationary (which is 5% of total cost) has increased by 40% whereas the normal wastage in the raw material (which is 10% of total cost) increases merely by 5% , identify the principle governing the wastage in an organisation.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Critical point control"
+            },
+            {
+                "label": "Option 2",
+                "text": "Management by exception"
+            },
+            {
+                "label": "Option 3",
+                "text": "Taking corrective actions"
+            },
+            {
+                "label": "Option 4",
+                "text": "Span of management"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "According to the CPC, management should first focus on key result areas which are critical to the success of the organisation like reducing wastage of raw material.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "9",
+        "question_type": "assertion-reason",
+        "question": "Directions: These are two statements marked as Assertion (A) and Reason (R). Read the statements and choose the appropriate option",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true, but Reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false, but Reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Controlling is not an end of the management cycle because it brings back the management cycle to planning function.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "10",
+        "question_type": "multiple-choice",
+        "question": "Financial decisions impact which of the following items of profit and loss account?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Interest"
+            },
+            {
+                "label": "Option 2",
+                "text": "Profit"
+            },
+            {
+                "label": "Option 3",
+                "text": "Tax"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Financial decision impacts all those transactions which are related with financial transactions and profit, interest and tax all are financial transactions.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "11",
+        "question_type": "multiple-choice",
+        "question": "The fund raising exercise also costs something. This cost is called",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Fixed cost"
+            },
+            {
+                "label": "Option 2",
+                "text": "Flotation cost"
+            },
+            {
+                "label": "Option 3",
+                "text": "Bearing cost"
+            },
+            {
+                "label": "Option 4",
+                "text": "Variable cost"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "When a company raises the funds it includes some costs like brokerage, commission, etc. which is known as flotation cost.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "12",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statements is not true?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Maintaining adequate liquidity is a secondary objective of financial planning."
+            },
+            {
+                "label": "Option 2",
+                "text": "Stock market reaction is an important factor while making dividend decisions."
+            },
+            {
+                "label": "Option 3",
+                "text": "Companies with lower ICR can borrow more funds."
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "ICR refers to interest coverage ratio, i.e., the number of times EBIT covers interest obligations. Therefore, companies with lower ICR should not borrow more funds.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "13",
+        "question_type": "assertion-reason",
+        "question": "Direction: There are two statements marked as Assertion (A) and Reason (R). Read the statements and choose the appropriate option",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true, but Reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false, but Reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Investment decision involves careful selection of assets, in which funds are to be invested.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "14",
+        "question_type": "assertion-reason",
+        "question": "Direction: There are two statements marked as Assertion (A) and Reason (R). Read the statements and choose the appropriate option",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true, but Reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false, but Reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Finance is the life blood of any business, for its survival and growth.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "15",
+        "question_type": "multiple-choice",
+        "question": "Mr. A bought certain shares of Reliance Ltd. from Mr. B and lodged them with the depository in form of a book entry. However, as per the register of members of Reliance Ltd., Mr. B is still the owner of those shares. In such a situation, Mr. A would be known as",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Registered owner"
+            },
+            {
+                "label": "Option 2",
+                "text": "Holder of shares"
+            },
+            {
+                "label": "Option 3",
+                "text": "Beneficial owner"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "In this case, Mr. B is the registered owner of securities. However, Mr. A is the real owner, also known as beneficial owner of such securities, as he has bought those securities, from Mr. B and lodged them with the depository.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "16",
+        "question_type": "multiple-choice",
+        "question": "How much interest is received by him?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "₹10,000"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Not provided",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "17",
+        "question_type": "multiple-choice",
+        "question": "Sellers often adopt unfair trade practices to increase the sales of their products. Give few examples of such practices adopted by seller",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Misleading advertisements"
+            },
+            {
+                "label": "Option 2",
+                "text": "Fake price stickers on products"
+            },
+            {
+                "label": "Option 3",
+                "text": "Supply of cheap quality product"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "With growing competition and in attempt to increase the sales and market share, sellers often engage in unscrupulous, exploitative and unfair trade practices like defective and unsafe products, adulteration, false and misleading advertising, hoarding, black marketing, etc.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "18",
+        "question_type": "assertion-reason",
+        "question": "Assertion (A): State Commission can service consumer complaints where claim is not more than ₹ 1 crore. Reason (R): State Commission is set up by state government.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 2",
+                "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A)"
+            },
+            {
+                "label": "Option 3",
+                "text": "Assertion (A) is true, but Reason (R) is false"
+            },
+            {
+                "label": "Option 4",
+                "text": "Assertion (A) is false, but Reason (R) is true"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "A District Commission can receive consumer complaints where the value of goods or services and the compensation claimed is not more than ₹ 1 crore.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "19",
+        "question_type": "multiple-choice",
+        "question": "The marketing manager of ‘Informatics Limited’ always keeps a check on the changes happening in the surroundings and instructs the research and development department to improve the products accordingly. This habit of the marketing manager helps the company to keep an edge over the competitors. Which feature of management is depicted in the above case?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Pervasive"
+            },
+            {
+                "label": "Option 2",
+                "text": "Intangible force"
+            },
+            {
+                "label": "Option 3",
+                "text": "Continuous"
+            },
+            {
+                "label": "Option 4",
+                "text": "Dynamic"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management has to adapt itself and its goals according to the changing needs of the business environment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "20",
+        "question_type": "multiple-choice",
+        "question": "Annual cash dividends divided by annual earnings or alternatively dividends per share divided by earning per share is termed as",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Earnings per share ratio"
+            },
+            {
+                "label": "Option 2",
+                "text": "Proposed dividend ratio"
+            },
+            {
+                "label": "Option 3",
+                "text": "Dividend pay-out ratio"
+            },
+            {
+                "label": "Option 4",
+                "text": "Expected dividend ratio"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "The dividend pay-out ratio can be calculated as the yearly dividend per share divided by the earnings per share (EPS), or equivalently, the dividends divided by net income.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "21",
+        "question_type": "multiple-choice",
+        "question": "A spot sale of a currency combined with a forward repurchase of the same currency is called which one of the following?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Forex swap"
+            },
+            {
+                "label": "Option 2",
+                "text": "Swap rate"
+            },
+            {
+                "label": "Option 3",
+                "text": "Forward rate"
+            },
+            {
+                "label": "Option 4",
+                "text": "Spot rate"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Swap rate is the spot sale of a currency combined with a forward repurchase of the same currency.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "22",
+        "question_type": "multiple-choice",
+        "question": "What is the sustainable growth rate of the company that enjoys return on equity = 30% and a dividend pay-out ratio of 40% ?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "12%"
+            },
+            {
+                "label": "Option 2",
+                "text": "18%"
+            },
+            {
+                "label": "Option 3",
+                "text": "30%"
+            },
+            {
+                "label": "Option 4",
+                "text": "40%"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Sustainable Growth Rate = Return on equity × (1 – Dividend Pay-out Ratio) Sustainable Growth Rate = 30% × (1 – 40% ) = 0.3 × (1 – 0. 4) = 0.18 = 18%",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "23",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following concepts is a useful philosophy in a situation when the product’s cost is too high and marketers look for ways to bring it down?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Selling concept"
+            },
+            {
+                "label": "Option 2",
+                "text": "Product concept"
+            },
+            {
+                "label": "Option 3",
+                "text": "Production concept"
+            },
+            {
+                "label": "Option 4",
+                "text": "Marketing concept"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Production concept is very important for an economy where certain commodities can be mass produced for consumers keeping the prices low.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "24",
+        "question_type": "multiple-choice",
+        "question": "Primary capital markets are the platform where",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "New securities are issued"
+            },
+            {
+                "label": "Option 2",
+                "text": "New securities are sold"
+            },
+            {
+                "label": "Option 3",
+                "text": "New securities are borrowed"
+            },
+            {
+                "label": "Option 4",
+                "text": "Both (a) and (b)"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The primary capital market is defined as when the company first time publicly vends the new bonds and stocks, which takes place in the primary capital market.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "25",
+        "question_type": "multiple-choice",
+        "question": "Which of the subsequent establishments delivers a guarantee or assurance to the exporters?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Exim Bank"
+            },
+            {
+                "label": "Option 2",
+                "text": "Director General Foreign Trade"
+            },
+            {
+                "label": "Option 3",
+                "text": "Reserve Bank of India"
+            },
+            {
+                "label": "Option 4",
+                "text": "Export Credit Guarantee Corporation (ECGC)"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Maintained by the Government of India and was established in 1957 with the aim of promoting exports from the nation by managing and providing export-related services and credit risk insurance.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "26",
+        "question_type": "multiple-choice",
+        "question": "What is a cross-border exchange?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Trading of foreign currency in India"
+            },
+            {
+                "label": "Option 2",
+                "text": "The trading of the Indian rupee in exchange for other currencies/ goods."
+            },
+            {
+                "label": "Option 3",
+                "text": "Hawala transactions in Indian rupee."
+            },
+            {
+                "label": "Option 4",
+                "text": "Unauthorised remittance of the Indian rupee."
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The cross-border exchange may be defined as the exchange of goods and services between the two countries is known as the cross-border exchange.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "27",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are Consumer Disputes Redressal Agencies?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Panchayat Commission"
+            },
+            {
+                "label": "Option 2",
+                "text": "Municipal Commission"
+            },
+            {
+                "label": "Option 3",
+                "text": "State Commission"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "There are quasi-judicial bodies established under the Act to provide simple, speedy and inexpensive redressal to the consumers’ grievances.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "28",
+        "question_type": "multiple-choice",
+        "question": "What are the powers of the Central Authority?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "To promote the rights"
+            },
+            {
+                "label": "Option 2",
+                "text": "To protect the rights"
+            },
+            {
+                "label": "Option 3",
+                "text": "To enforce the rights"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The Union Authority shall protect, promote and enforce the rights of the consumers as a class, and prevent violation of Consumers Rights under the Act",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "29",
+        "question_type": "multiple-choice",
+        "question": "Management is essential for the organisations which are",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Non-profit organisations"
+            },
+            {
+                "label": "Option 2",
+                "text": "Service organisations"
+            },
+            {
+                "label": "Option 3",
+                "text": "Social organisations"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Management is essential for all types of organisations irrespective of their size or type.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "30",
+        "question_type": "multiple-choice",
+        "question": "What is the factor of Production in management?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "To produce goods in large number"
+            },
+            {
+                "label": "Option 2",
+                "text": "To organise resources & factors to create an office"
+            },
+            {
+                "label": "Option 3",
+                "text": "To produce more substances"
+            },
+            {
+                "label": "Option 4",
+                "text": "New variation in management"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "In order to produce, the utilisation of available resources & make use of it whole is very vital without an effective use of resources, the production wouldn’t take place.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "31",
+        "question_type": "multiple-choice",
+        "question": "Name the things that help the development of the business?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Technological innovation"
+            },
+            {
+                "label": "Option 2",
+                "text": "Capital investment"
+            },
+            {
+                "label": "Option 3",
+                "text": "Economic growth"
+            },
+            {
+                "label": "Option 4",
+                "text": "Trade liberalisation"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Capital investment helps in the development of business. It is used as a source for creating new and improved products or services, which, on the other hand, help in technological advancement and allows effective production.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "32",
+        "question_type": "multiple-choice",
+        "question": "What is the mode of satisfying customer needs?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Trade-in cash or barter"
+            },
+            {
+                "label": "Option 2",
+                "text": "Production"
+            },
+            {
+                "label": "Option 3",
+                "text": "Production by contracting out"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "In a market economy, products are produced and sold mainly through the process of production. However, both production and trade in cash or barter are modes of satisfying customer needs.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "33",
+        "question_type": "multiple-choice",
+        "question": "What is the basic property of a service which makes it different from a product?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Shape"
+            },
+            {
+                "label": "Option 2",
+                "text": "Size"
+            },
+            {
+                "label": "Option 3",
+                "text": "Very expensive"
+            },
+            {
+                "label": "Option 4",
+                "text": "Intangibility"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Intangibility is the basic property of a service which makes it different from a product.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "34",
+        "question_type": "multiple-choice",
+        "question": "The term marketing refers to",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "A. Advertising, Sales Promotion, Publicity and Public Relational activities"
+            },
+            {
+                "label": "Option 2",
+                "text": "A new product needs ideas, Developments, concepts and improvements."
+            },
+            {
+                "label": "Option 3",
+                "text": "Sales Planning, Strategy and Implementation"
+            },
+            {
+                "label": "Option 4",
+                "text": "A philosophy that stresses customer value and satisfaction"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Marketing mainly emphasizes on customer value and satisfaction.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "35",
+        "question_type": "multiple-choice",
+        "question": "Customer’s evaluation of the difference between all the benefits and all the costs of a marketing offer relative to those of competing offers refers to which of the following options?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Customer perceived value"
+            },
+            {
+                "label": "Option 2",
+                "text": "Marketing myopia"
+            },
+            {
+                "label": "Option 3",
+                "text": "Customer relationship management"
+            },
+            {
+                "label": "Option 4",
+                "text": "Customer satisfaction"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Customer’s evaluation of the difference between all the benefits and all the costs of a marketing offer relative to those of competing offers refers to Customer perceived value.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "36",
+        "question_type": "multiple-choice",
+        "question": "Who gave the definition that Organizing is a process of Identity and grouping the work to be performed, defining and delegating the responsibility and authority and establishing relationships for the purpose of enabling people to work most effectively together in accomplishing objectives?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Louis Allen"
+            },
+            {
+                "label": "Option 2",
+                "text": "Theo Haimman"
+            },
+            {
+                "label": "Option 3",
+                "text": "Chester Barnard"
+            },
+            {
+                "label": "Option 4",
+                "text": "Keith Davis"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The definition is given by Louis Allen.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "37",
+        "question_type": "multiple-choice",
+        "question": "How many types of Organisational structures are present?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "One"
+            },
+            {
+                "label": "Option 2",
+                "text": "Two"
+            },
+            {
+                "label": "Option 3",
+                "text": "Three"
+            },
+            {
+                "label": "Option 4",
+                "text": "Four"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "There are Two types of Organizational structures these are Functional structure and divisional structure.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "38",
+        "question_type": "multiple-choice",
+        "question": "Which of the following are correct regarding Authority?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Authority means right to command"
+            },
+            {
+                "label": "Option 2",
+                "text": "Authority can be delegated"
+            },
+            {
+                "label": "Option 3",
+                "text": "Authority arises from formal position"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "The correct answer is option (d). Authority means right to command, authority can be delegated and it arises from formal position.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "39",
+        "question_type": "multiple-choice",
+        "question": "In which of these types of simulation technique are the actual work conditions simulated and the equipment used by the trainees is similar to what is used in the job?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Role playing"
+            },
+            {
+                "label": "Option 2",
+                "text": "Experimental exercise"
+            },
+            {
+                "label": "Option 3",
+                "text": "Vestibule training"
+            },
+            {
+                "label": "Option 4",
+                "text": "Case exercise"
+            }
+        ],
+        "correct_answer": "Option 3",
+        "explanation": "Vestibule training refers to a simulation – based program that instructs employees on how to operate equipment in their place of employment.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "40",
+        "question_type": "multiple-choice",
+        "question": "Which Principle of Scientific Management says that employees must be rewarded when they make suggestions that lead to cost savings within the company?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Cooperation not individualism"
+            },
+            {
+                "label": "Option 2",
+                "text": "Harmony not discord"
+            },
+            {
+                "label": "Option 3",
+                "text": "Science, not a rule of thumb"
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Cooperation, not Individualism: It suggests that management should encourage constructive suggestions from the workers and reward the suggestions which result in substantial reduction in time or costs.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "41",
+        "question_type": "multiple-choice",
+        "question": "Which is determines the standard time taken to perform a well – defined job?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Time study"
+            },
+            {
+                "label": "Option 2",
+                "text": "Motion study"
+            },
+            {
+                "label": "Option 3",
+                "text": "Fatigue study"
+            },
+            {
+                "label": "Option 4",
+                "text": "Method study"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Time study determines the standard time taken to perform a well-defined job.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "42",
+        "question_type": "multiple-choice",
+        "question": "Quick Ratio is also known as",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Current Ratio"
+            },
+            {
+                "label": "Option 2",
+                "text": "Acid-test Ratio"
+            },
+            {
+                "label": "Option 3",
+                "text": "Cash Ratio"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "The quick ratio is one way to measure a business's ability to quickly convert short-term assets into cash. Also known as the “acid test ratio,” the quick ratio is an indicator of a company's liquidity and financial health.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "43",
+        "question_type": "multiple-choice",
+        "question": "Which of the succeeding are liable for the variations in the Sensex?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Monetary policy"
+            },
+            {
+                "label": "Option 2",
+                "text": "Political instability"
+            },
+            {
+                "label": "Option 3",
+                "text": "Rain"
+            },
+            {
+                "label": "Option 4",
+                "text": "None of these"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The higher monetary policy resulted in the increased rate at which firms’ future cash movements are capitalized, triggering stock prices to drop.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "44",
+        "question_type": "multiple-choice",
+        "question": "The goods that do not vanish after a single act of consumption is",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Non – durable consumer goods"
+            },
+            {
+                "label": "Option 2",
+                "text": "Single use consumer goods"
+            },
+            {
+                "label": "Option 3",
+                "text": "Perishable consumer goods"
+            },
+            {
+                "label": "Option 4",
+                "text": "Fast moving consumer goods"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "Non – durable goods are products consumers purchase with the plan to use for a shorty period of time.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "45",
+        "question_type": "multiple-choice",
+        "question": "Directing takes place wherever superior – subordinate relationship exists. Which feature of directing is highlighted in the given statement?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It is a continuous process"
+            },
+            {
+                "label": "Option 2",
+                "text": "It flows from top to bottom"
+            },
+            {
+                "label": "Option 3",
+                "text": "It initiates action"
+            },
+            {
+                "label": "Option 4",
+                "text": "It takes place at every level of management"
+            }
+        ],
+        "correct_answer": "Option 4",
+        "explanation": "Directing is performed at top level, middle level, supervisory level and all levels.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "46",
+        "question_type": "multiple-choice",
+        "question": "Identify the correct sequence of steps to be followed in an organising process.",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Departmentalisation, Establishing reporting relationships, Assignment of duties, Identification and division of work"
+            },
+            {
+                "label": "Option 2",
+                "text": "Identification and division of work, Departmentalisation, Assignment of duties, Establishing reporting relationships"
+            },
+            {
+                "label": "Option 3",
+                "text": "Identification and division of work, Assignment of duties, Departmentalisation, Establishing reporting relationships"
+            },
+            {
+                "label": "Option 4",
+                "text": "Identification and division of work, Establishing reporting relationships, Departmentalisation, Assignment of duties"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Identification and division of work, Departmentalisation, Assignment of duties, Establishing reporting relationships.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "47",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a demerit of divisional structure?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "It is an expensive structure to maintain since there may be a duplication of activities across products"
+            },
+            {
+                "label": "Option 2",
+                "text": "All functions related to a particular product are integrated with one department"
+            },
+            {
+                "label": "Option 3",
+                "text": "Conflict may arise among different divisional heads due to different interests"
+            },
+            {
+                "label": "Option 4",
+                "text": "Authority provided to the managers to supervise all activities related to a particular division may lead to undesirable consequences"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "All functions related to a particular product are integrated with one department.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "48",
+        "question_type": "multiple-choice",
+        "question": "Which of the following statement is correct?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Flow of communication is scalar in case of formal organization"
+            },
+            {
+                "label": "Option 2",
+                "text": "Informal organization has defined structure and form"
+            },
+            {
+                "label": "Option 3",
+                "text": "The standard of behaviour is based on group norms in a formal organization"
+            },
+            {
+                "label": "Option 4",
+                "text": "The mutual relationships are well defined in an informal organization"
+            }
+        ],
+        "correct_answer": "Option 1",
+        "explanation": "The correct answer is option (a) as an Informal organization has no defined structure and form ;The standard of behaviour is based on group norms in case of informal organization; The mutual relationships are well defined in an formal organization.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "49",
+        "question_type": "multiple-choice",
+        "question": "Which of the following is not a common way the “invisible hand” works?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "When debt repayment reduces consumption, consumption is spent on servicing the debt."
+            },
+            {
+                "label": "Option 2",
+                "text": "When interest rates decrease, consumers save more money."
+            },
+            {
+                "label": "Option 3",
+                "text": "When firms can sell at a higher price than production costs."
+            },
+            {
+                "label": "Option 4",
+                "text": "All of these"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "When interest rates decrease, consumers borrow more money.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    },
+    {
+        "question_number": "50",
+        "question_type": "multiple-choice",
+        "question": "Which one of the following factor relates to family that influences consumer behaviour?",
+        "options": [
+            {
+                "label": "Option 1",
+                "text": "Cultural"
+            },
+            {
+                "label": "Option 2",
+                "text": "Social"
+            },
+            {
+                "label": "Option 3",
+                "text": "Personal"
+            },
+            {
+                "label": "Option 4",
+                "text": "Business"
+            }
+        ],
+        "correct_answer": "Option 2",
+        "explanation": "Social factor relates to family that influences consumer behaviour. Social factors play an essential role in influencing the buying decisions of consumers.",
+        "marks": {
+            "positive": 5.0,
+            "negative": 1.0
+        }
+    }
+]
