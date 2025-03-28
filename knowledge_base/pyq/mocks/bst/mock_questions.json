@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+        "questionNumber": 1,
+        "questionText": "Which of the following is not a function of management?",
+        "options": [
+            "Planning",
+            "Financing",
+            "Staffing",
+            "Directing"
+        ],
+        "correct_answer": "Financing",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 2,
+        "questionText": "Which of the following is/are the types of objectives in Management?",
+        "options": [
+            "Organisational Objectives",
+            "Social Objectives",
+            "Personal Objectives",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 3,
+        "questionText": "Which of the following features doesn't support management as an Art?",
+        "options": [
+            "Systematised body of knowledge",
+            "Existence of theoretical knowledge",
+            "Personalised application",
+            "Based on practice and creativity"
+        ],
+        "correct_answer": "Systematised body of knowledge",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 4,
+        "questionText": "Which of the following doesn't support management as a science?",
+        "options": [
+            "Principles based on experimentation",
+            "Existence of theoretical knowledge",
+            "Universal Validity",
+            "Systematised body of knowledge"
+        ],
+        "correct_answer": "Existence of theoretical knowledge",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 5,
+        "questionText": "Operational management is also known as -",
+        "options": [
+            "Top Management",
+            "Supervisory Management",
+            "Middle Management",
+            "None of the above"
+        ],
+        "correct_answer": "Supervisory Management",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 6,
+        "questionText": "Which of the following is not the characteristics of management?",
+        "options": [
+            "Management is an intangible force",
+            "Management is all pervasive",
+            "Management is multidimensional",
+            "Management helps in the development of society"
+        ],
+        "correct_answer": "Management helps in the development of society",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 7,
+        "questionText": "Which of the following functions of management describes- \"Assigning duties, grouping tasks, establishing authority and allocating resources required to carry out a specific plan\"?",
+        "options": [
+            "Controlling",
+            "Staffing",
+            "Directing",
+            "Organising"
+        ],
+        "correct_answer": "Organising",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 8,
+        "questionText": "Which of the following is the common thread that runs through all activities such as purchase, sales, production, and finance to ensure continuity in the working of the organisation?",
+        "options": [
+            "Directing",
+            "Coordination",
+            "Organising",
+            "Controlling"
+        ],
+        "correct_answer": "Coordination",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 9,
+        "questionText": "Which of the following is NOT the features of coordination in Management?",
+        "options": [
+            "It integrates group efforts",
+            "It ensures unity of action",
+            "It is a deliberate function",
+            "It is a personalised application"
+        ],
+        "correct_answer": "It is a personalised application",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 10,
+        "questionText": "Which of the following is more important in Management?",
+        "options": [
+            "Efficiency",
+            "Effectiveness",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+        ],
+        "correct_answer": "Both 1 and 2",
+        "topic": "Nature and Significance of Management"
+    },
+    {
+        "questionNumber": 1,
+        "questionText": "Management is essential for the organisations which are?",
+        "options": [
+          "Non-profit organizations",
+          "Service organizations",
+          "Social organizations",
+          "All of the above"
+        ],
+        "correct_answer": 4,
+        "topic": "Nature and Significance of Management"
+    },
+    {
+      "questionNumber": 2,
+      "questionText": "Xtm. Airlines is in the process of laying off 800-900 employees in a move aimed at driving cost efficiency. Which objective of management will the firm not be able to achieve by carrying out this process?",
+      "options": [
+        "Efficiency",
+        "Social",
+        "Survival",
+        "Profit"
+      ],
+      "correct_answer": 2,
+      "topic": "Nature and Significance of Management"
+    },
+    {
+      "questionNumber": 3,
+      "questionText": "Vinit works as a production manager in Desi Enterprises Limited. He has been given the task of getting 3000 units of hand woven table mats manufactured at the cost of 50 per unit within 10 days. In order to be acknowledged as an effective manager, he must ensure that",
+      "options": [
+        "The cost of production does not exceed 150 per unit",
+        "The work is completed within 10 days even at higher cost per unit",
+        "The cost of production is less than 150 per unit",
+        "All of the above"
+      ],
+      "correct_answer": 2,
+      "topic": "Nature and Significance of Management"
+    },
+    {
+      "questionNumber": 4,
+      "questionText": "Which of the following statements highlights that management is a group activity?",
+      "options": [
+        "Organization is a collection of diverse individuals with different needs.",
+        "Achievement of a common goal requires teamwork and coordination of efforts in a common direction.",
+        "Each member of the organization may have different individual goals but they must travel together towards common goals.",
+        "All of the above"
+      ],
+      "correct_answer": 4,
+      "topic": "Nature and Significance of Management"
+    },
+    {
+      "questionNumber": 5,
+      "questionText": "Keeping in view the changes in the consumer demands and preferences ‘DayNite Bakery' has reduced the sugar and fat content in its products. This approach of business shows that management is",
+      "options": [
+        "An intangible force",
+        "A group activity",
+        "A dynamic function",
+        "A multidimensional activity"
+      ],
+      "correct_answer": 3,
+      "topic": "Nature and Significance of Management"
+    },
+    {
+      "questionNumber": 6,
+      "questionText": "Which of the following is not a designation related to lower level management?",
+      "options": [
+        "Superintendent",
+        "Supervisors",
+        "Worker",
+        "Marketing Manager"
+      ],
+      "correct_answer": 4,
+      "topic": "Nature and Significance of Management"
+    },
+    {
+      "questionNumber": 7,
+      "questionText": "Identify the feature of co-ordination being highlighted in the given statement: Coordination is not a one time function, it begins at the planning stage and continue till controlling.",
+      "options": [
+        "Coordination ensures unity of action",
+        "Coordination is an all pervasive function",
+        "Coordination is a continuous process",
+        "Coordination is a deliberate function"
+      ],
+      "correct_answer": 3,
+      "topic": "Nature and Significance of Management"
+    },
+    {
+      "questionNumber": 8,
+      "questionText": "Platinum kad Pvt. Ltd. is a wheat producing company. Daily 10000 bags of wheat weighing 50 kg each are produced here. In comparison to the previous year this era has had less number of bags produced on a per day basis. The number is around 9500 which is less than the target of 10000 set by the company. The company however has been able to reduce the costs involved in comparison to last year's spending on the production and packaging of each bag. The quality of bags has also been up to the mark. Identify the concept of management ignored here",
+      "options": [
+        "Effectiveness",
+        "Efficiency",
+        "Both of the above",
+        "None of the above"
+      ],
+      "correct_answer": 1,
+      "topic": "Nature and Significance of Management"
+    },
+    {
+      "questionNumber": 9,
+      "questionText": "EduC Inc. is a company which deals with providing car service at home and on road. There are different departments in this company like Human Resources, Marketing, Finance, Research & Development and Operations. The top management of the company tries its level best to synchronize the activities of different departments in the best possible manner. The result is the increased efficiency and attainment of goals. However with the passing of time the size of the company has grown and now there are many branches of this company. The synchronization has turned more important with the increase in the size of the company and the number of employees. The Departmental Heads of the company are specialists in their respective areas and the top management tries to work with them not with authority but by respecting their views on the subject. Their ego clashes are avoided to ensure smooth functioning of the organisation.Identify the concept of management highlighted above.",
+      "options": [
+        "Effectiveness",
+        "Coordination",
+        "Cooperation",
+        "Management as a profession"
+      ],
+      "correct_answer": 2,
+      "topic": "Nature and Significance of Management"
+    },
+    {
+      "questionNumber": 10,
+      "questionText": "Savesh is a versatile manager. However due to the nature of his job most of the time of his day is occupied with planning. One day his friend who runs an advertising company calls him for a lunch. Dinesh finds his friend very busy as his friend tells him that the company he is working in is very busy these days in finding the right person for the right job. Soon Dinesh leaves after having a detailed discussion with his friend. During that lunch he learnt many things from his friend and applied the things learnt in his company the best outcome was the adaptable nature of the company that turned out to be after application of this learning. The company earned more revenue by the end of the year. Which level of management Savesh belongs to",
+      "options": [
+        "Middle level manager",
+        "Lower level manager",
+        "Top level manager",
+        "Non-manegerial level"
+      ],
+      "correct_answer": 3,
+      "topic": "Nature and Significance of Management"
+    }
+  ]
+}

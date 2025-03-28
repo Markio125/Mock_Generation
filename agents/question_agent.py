@@ -71,28 +71,39 @@ class QuestionAgent:
            - Correct answer
            - Brief explanation justifying the answer
         4. Format consistently with the examples provided
-        
-        Use the below provided text as information base to prepare the {target_count} questions
-        -------------------------------------------------------------------------
-        {NCERT_text}
-        -------------------------------------------------------------------------
         """
 
         messages = [
             {"role": "system", "content": prompt},
 
             # First few-shot examples
-            {"role": "user", "content": f"Number of Questions: {target_count - 1}, Topic: {current_topic}"},
+            {"role": "user", "content": f"""Use the below provided text as information base to prepare the {target_count - 1} questions
+        -------------------------------------------------------------------------
+        {NCERT_text}
+        -------------------------------------------------------------------------
+        Number of Questions: {target_count - 1}, Topic: {current_topic}"""},
             {"role": "assistant", "content": example[0: (target_count - 1)]},
 
-            {"role": "user", "content": f"Number of Questions: {target_count}, Topic: {current_topic}"},
+            {"role": "user", "content": f"""Use the below provided text as information base to prepare the {target_count} questions
+        -------------------------------------------------------------------------
+        {NCERT_text}
+        -------------------------------------------------------------------------
+        Number of Questions: {target_count}, Topic: {current_topic}"""},
             {"role": "assistant", "content": example[(target_count - 1) : ((2 * target_count) - 1)]},
 
-            {"role": "user", "content": f"Number of Questions: {target_count + 1}, Topic: {current_topic}"},
+            {"role": "user", "content": f"""Use the below provided text as information base to prepare the {target_count + 1} questions
+        -------------------------------------------------------------------------
+        {NCERT_text}
+        -------------------------------------------------------------------------
+        Number of Questions: {target_count + 1}, Topic: {current_topic}"""},
             {"role": "assistant", "content": example[((2 * target_count) - 1) : (3 * target_count)]},
 
             # Now adding context by referring to past responses
-            {"role": "user", "content": f"Number of Questions: {target_count}, Topic: {current_topic}"},
+            {"role": "user", "content": f"""Use the below provided text as information base to prepare the {target_count} questions
+        -------------------------------------------------------------------------
+        {NCERT_text}
+        -------------------------------------------------------------------------
+        Number of Questions: {target_count}, Topic: {current_topic}"""},
         ]
 
         try:
