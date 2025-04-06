@@ -31,22 +31,6 @@ class QuestionAgent:
         example_text = "\n\n".join(context['examples'][:3]) if context['examples'] else "No examples available"
         example = context["examples"][: (3 * target_count)] if context['examples'] else ["No Examples"] * (3 * target_count)
 
-        # prompt = f"""
-        # Generate {target_count} Business Studies exam questions about {current_topic}.
-        #
-        # Examples from previous questions:
-        # {example_text}
-        #
-        # Guidelines:
-        # 1. Include questions only of Multiple Choice Questions type
-        # 2. Match the difficulty level of previous examples
-        # 3. For each question, provide:
-        #    - Cleaor question text
-        #    - Answer options (for multiple choice)
-        #    - Correct answer
-        #    - Brief explanation justifying the answer
-        # 4. Format consistently with the examples provided
-        # """knowledge_base\business_studies.json
         def n_chunking(name, n):
             with open('knowledge_base/business_studies.json', "r", encoding="utf-8") as file:
                 data = json.load(file)
@@ -60,18 +44,53 @@ class QuestionAgent:
         NCERT_text = str(n_chunking(current_topic, target_count))
 
         prompt = f"""
-        Generate Business Studies exam questions about the topic/subject asked for by the user.
-
+        Generate Business Studies exam questions about the topic/subject asked for by the user, following CUET exam patterns.
+    
         Guidelines:
-        1. Include questions only of Multiple Choice Questions type
+        1. Include a mix of question types:
+           - Multiple Choice Questions (40%)
+           - Match the following questions (20%)
+           - Arrange in correct order questions (20%)
+           - Statement-based questions (20%) (e.g., "Which statements are correct/incorrect about...")
+        
         2. Match the difficulty level of previous examples
+        
         3. For each question, provide:
            - Clear question text
-           - Answer options (for multiple choice)
+           - Answer options 
            - Correct answer
            - Brief explanation justifying the answer
+           
         4. Format consistently with the examples provided
+        
+        5. IMPORTANT: Use NCERT textbook language, terminology and phrasing exactly as it appears in the source text
+        
+        6. Questions and options MUST use the same vocabulary, definitions, and expressions found in NCERT materials
+        
+        7. Avoid introducing non-NCERT terms or alternative wording that doesn't match the textbook
+        
+        8. When referring to concepts, use the exact terminology from the NCERT text
+        
+        9. For "Match the following" questions:
+           - Create two columns with related items
+           - Provide options with different combinations of matches
+           - Clearly indicate the correct matching
+        
+        10. For "Arrange in order" questions:
+            - Focus on processes, steps, or sequences from the curriculum
+            - List items that need to be arranged in correct order
+            - Provide options with different possible sequences
+        
+        11. For statement-based questions:
+            - Include 3-4 statements about a concept
+            - Ask which statements are correct or incorrect
+            - Options should be combinations like "1 and 3 only", "All except 2", etc.
         """
+
+        # Convert example lists to strings with proper formatting
+        example_str_1 = "\n\n".join(example[0:(target_count - 1)]) if isinstance(example[0], str) else "No examples available"
+        example_str_2 = "\n\n".join(example[(target_count - 1):((2 * target_count) - 1)]) if isinstance(example[0], str) else "No examples available"
+        example_str_3 = "\n\n".join(example[((2 * target_count) - 1):(3 * target_count)]) if isinstance(example[0], str) else "No examples available"
 
         messages = [
             {"role": "system", "content": prompt},
@@ -82,21 +101,21 @@ class QuestionAgent:
         {NCERT_text}
         -------------------------------------------------------------------------
         Number of Questions: {target_count - 1}, Topic: {current_topic}"""},
-            {"role": "assistant", "content": example[0: (target_count - 1)]},
+            {"role": "assistant", "content": example_str_1},
 
             {"role": "user", "content": f"""Use the below provided text as information base to prepare the {target_count} questions
         -------------------------------------------------------------------------
         {NCERT_text}
         -------------------------------------------------------------------------
         Number of Questions: {target_count}, Topic: {current_topic}"""},
-            {"role": "assistant", "content": example[(target_count - 1) : ((2 * target_count) - 1)]},
+            {"role": "assistant", "content": example_str_2},
 
             {"role": "user", "content": f"""Use the below provided text as information base to prepare the {target_count + 1} questions
         -------------------------------------------------------------------------
         {NCERT_text}
         -------------------------------------------------------------------------
         Number of Questions: {target_count + 1}, Topic: {current_topic}"""},
-            {"role": "assistant", "content": example[((2 * target_count) - 1) : (3 * target_count)]},
+            {"role": "assistant", "content": example_str_3},
 
             # Now adding context by referring to past responses
             {"role": "user", "content": f"""Use the below provided text as information base to prepare the {target_count} questions
@@ -109,8 +128,7 @@ class QuestionAgent:
         try:
             response = openai.chat.completions.create(
                 model=config.GPT_MODEL,
-                # messages=[{"role": "user", "content": prompt}],
-                messages = messages,
+                messages=messages,
                 temperature=0.7,
                 max_tokens=2000
             )
