@@ -8,7 +8,7 @@ import json
 logger = logging.getLogger(__name__)
 
 class DistributionAgent:
-    def __init__(self, vector_store=None, default_distribution_path="utils/business_studies_distribution.json"):
+    def __init__(self, subject, vector_store=None):
         """Initialize the distribution agent.
         
         Args:
@@ -16,7 +16,8 @@ class DistributionAgent:
             default_distribution_path: Default path for the distribution file
         """
         self.vector_store = vector_store
-        self.default_distribution_path = default_distribution_path
+        self.subject = subject
+        self.default_distribution_path = f"utils/{subject}_distribution.json"
 
     @staticmethod
     def question_distribution_manual(file_path: str) -> Dict:
@@ -52,9 +53,4 @@ class DistributionAgent:
                 "remaining_topics": list(distribution.keys()),
                 "detected_topics": state["detected_topics"]
             }
-
-if __name__ == "__main__":
-    test = DistributionAgent()
-    text = test.question_distribution_manual("utils/business_studies_distribution.json")
-    print(text)
 

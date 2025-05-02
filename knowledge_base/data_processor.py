@@ -110,9 +110,9 @@ class PDFProcessor:
 
 
 # Example Usage
-pdf_file = "pdf_storage\Chapter 11_ Consumer Protection.pdf"  # Replace with file path
-json_file = "business_studies.json"
-chapter_name = "Consumer Protection"  # chapter name
+pdf_file = "pdf_storage\leec205.pdf"  # Replace with file path
+json_file = "economics.json"
+chapter_name = "Market Equilibrium"  # chapter name
 
 processor = PDFProcessor(pdf_file, json_file, chapter_name)
 processor.process()

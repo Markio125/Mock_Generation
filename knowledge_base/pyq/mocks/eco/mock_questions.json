@@ -1,0 +1,904 @@
+{
+    "questions": [
+        {
+            "questionNumber": 1,
+            "questionText": "Exchange rate for currencies is determined by supply and demand in system of:",
+            "options": [
+                "fixed exchange rate",
+                "flexible exchange rate",
+                "constant",
+                "government regulated"
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 2,
+            "questionText": "Managed floating exchange rate is a system in which the:",
+            "options": [
+                "the Government allow the exchange rate to determined by market forces",
+                "the Central Bank or Government allow the exchange rate to determined by market forces",
+                "the Central Bank allow the exchange rate to determined by market forces",
+                "none of the above"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 3,
+            "questionText": "__________ rate of exchange is that rate which is determined by the supply-demand forces in the foreign exchange market. It is also known as __________ exchange rate.",
+            "options": [
+                "Flexible, free",
+                "Fixed, floating",
+                "Fixed, flexible",
+                "Free, floating"
+            ],
+            "correct_answer": 0,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 4,
+            "questionText": "Borrowing of rest of the world would be recorded as __________ item in the __________ account.",
+            "options": [
+                "credit, capital",
+                "debit, capital",
+                "credit, current",
+                "debit, current"
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 5,
+            "questionText": "Imports of goods and services in India will be recorded on the __________ side of __________ account.",
+            "options": [
+                "debit, current",
+                "debit, capital",
+                "credit, current",
+                "credit, capital"
+            ],
+            "correct_answer": 0,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 6,
+            "questionText": "Foreign exchange rate is determined by __________.",
+            "options": [
+                "demand for foreign exchange",
+                "supply of foreign exchange",
+                "both (a) and (b)",
+                "none of the above"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 7,
+            "questionText": "Consider the following statements : (1) Devaluation of a currency may promote exports. (2) Prices of a country's products in the international market may fall due to devaluation Which of the statements given above is/are correct?",
+            "options": [
+                "Only (1)",
+                "Only (2)",
+                "Both (1) and (2)",
+                "Neither (1) nor (2)"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 8,
+            "questionText": "Decrease in the value of domestic currency in terms of foreign currency is __________.",
+            "options": [
+                "appreciation of domestic currency",
+                "revaluation of domestic currency",
+                "depreciation of domestic currency",
+                "none of the above"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 9,
+            "questionText": "Appreciation of domestic currency encourages:",
+            "options": [
+                "imports",
+                "exports",
+                "foreign trade",
+                "all of these"
+            ],
+            "correct_answer": 0,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 10,
+            "questionText": "Expand FII.",
+            "options": [
+                "Foreign Investment Institution",
+                "Foreign Institution of Investment",
+                "Foreign Institutional Investment",
+                "Foreign Intelligence Investment"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 11,
+            "questionText": "Foreign Direct Invesment in India will be recorded on the __________ side of __________ account.",
+            "options": [
+                "debit, current",
+                "credit, capital",
+                "debit, capital",
+                "credit, current"
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 12,
+            "questionText": "Foreign exchange transactions which are independent of other transactions in the Balance of Payments Account are called:",
+            "options": [
+                "Current transactions",
+                "Capital transactions",
+                "Autonomous transactions",
+                "Accomodating transactions"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 13,
+            "questionText": "Foreign exchange transactions dependent on other foreign exchange transactions are called:",
+            "options": [
+                "Current account transactons",
+                "Capital account transactions",
+                "Autonomous transactions",
+                "Accomodating transaction"
+            ],
+            "correct_answer": 3,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 14,
+            "questionText": "Foreign exchange received from exporting rice will be recorded on the __________ side of __________ account.",
+            "options": [
+                "debit, current",
+                "credit, capital",
+                "debit, capital",
+                "credit, current"
+            ],
+            "correct_answer": 3,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 15,
+            "questionText": "__________ is not an export.",
+            "options": [
+                "Sales of cars abroad",
+                "Purchase of foreign components",
+                "Sales of machine abroad",
+                "Sale of financial services overseas"
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 16,
+            "questionText": "According to the provided text referencing Minister Piyush Goyal, India's recent trade surplus and favourable balance of payments, driven by improved exports and fallen imports, is attributed to the government's effort to:",
+            "options": [
+                "restrictions on exports",
+                "increase in imports",
+                "encouragement to domestic industries",
+                "none of these"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 17,
+            "questionText": "Accommodating items are not determined by profit maximisation but are conditioned by positive or negative BOP status of the country. These are known as \"Below the line items\". which includes:",
+            "options": [
+                "investment by an individual",
+                "Investment by entrepreneur",
+                "Transaction by Government",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 18,
+            "questionText": "In which situation, autonomous receipts are more than autonomous payments?",
+            "options": [
+                "Balance of Payments disequilibrium",
+                "Balance of Payments deficit",
+                "Balance of Payments surplus",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 19,
+            "questionText": "Fixed exchange rate system implies __________ risk and __________ uncertainty of future payments.",
+            "options": [
+                "high, high",
+                "high, low",
+                "low, high",
+                "low, low"
+            ],
+            "correct_answer": 3,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 20,
+            "questionText": "A company located in India receives a loan from a company located abroad. How is this transaction recorded in India's BOP account?",
+            "options": [
+                "Credit side of current account",
+                "Debit side of current account",
+                "Credit side of capital account",
+                "Debit side of capital account"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 1,
+            "questionText": "Balance of payments is an accounting statement that records the economic transactions between:",
+            "options": [
+                "resident and non-resident",
+                "resident and rest of the world",
+                "non-resident and rest of the world",
+                "none of the above"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 2,
+            "questionText": "Economic transactions include:",
+            "options": [
+                "visible items",
+                "invisible items",
+                "unilateral transfers",
+                "all of the above"
+            ],
+            "correct_answer": 4,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 3,
+            "questionText": "Identify which of the following statement is true.",
+            "options": [
+                "Balance of payments account does not record transactions of capital nature.",
+                "Balance of trade is the summation of exports and imports of visible items.",
+                "When exports are more than imports, balance of trade account is in deficit.",
+                "Balance of payments account includes visible items, invisible items, capital transfer and unilateral transfer."
+            ],
+            "correct_answer": 4,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 4,
+            "questionText": "Identify which of the following statement is true.",
+            "options": [
+                "External assistance is not recorded in Balance of Payment accounts.",
+                "The difference between value of exports and imports of goods and services is called trade balance.",
+                "Foreign investments are recorded in the capital account of Balance of Payments.",
+                "Portfolio investment is a type of external assistance."
+            ],
+            "correct_answer": 3,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 5,
+            "questionText": "Import and export of goods is called:",
+            "options": [
+                "invisible trade",
+                "visible trade",
+                "nominal trade",
+                "none of the above"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 6,
+            "questionText": "Import and export of services is called:",
+            "options": [
+                "invisible trade",
+                "visible trade",
+                "nominal trade",
+                "none of the above"
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 7,
+            "questionText": "Balance of payment accounting uses which standard of accounting ?",
+            "options": [
+                "Double entry system",
+                "Single entry system",
+                "Accrual basis system",
+                "Cash basis system"
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 8,
+            "questionText": "__________ is a situation when ‘managed floating' is exercised by Central Bank.",
+            "options": [
+                "Crawling peg",
+                "Spot market",
+                "Dirty floating",
+                "None of these"
+            ],
+            "correct_answer": 3,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 9,
+            "questionText": "Depreciation of currency will __________ the imports in that country.",
+            "options": [
+                "Increase",
+                "Decrease",
+                "Either (a) or (b)",
+                "None of the above"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 10,
+            "questionText": "India has the highest foreign debt in the form of __________.",
+            "options": [
+                "commercial borrowing",
+                "trade credit",
+                "gold",
+                "NET deposits"
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 11,
+            "questionText": "Identify which of the following statement is true relating to deficit in balance of payment account.",
+            "options": [
+                "Payments of the country exceed receipts of the country.",
+                "Payments and receipts of the country are balanced.",
+                "There is an increase in the official reserves of the country.",
+                "Payment of the country are less than receipts of the country."
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 12,
+            "questionText": "Surplus in current account arises when:",
+            "options": [
+                "credit side is more than debit side",
+                "debit side is more than credit side",
+                "debit side equals to credit side",
+                "none of the above"
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 13,
+            "questionText": "Deficit in capital account occurs when:",
+            "options": [
+                "credit side is more than debit side",
+                "debit side is more than credit side",
+                "debit side is equals to credit side",
+                "none of the above"
+            ],
+            "correct_answer": 2,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 14,
+            "questionText": "Which transactions are the transactions by the Central Bank to maintain the disequilibrium in BOP account?",
+            "options": [
+                "Autonomous",
+                "Accommodating",
+                "Official reserves",
+                "All of the above"
+            ],
+            "correct_answer": 3,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 15,
+            "questionText": "The demand curve for foreign exchange is:",
+            "options": [
+                "vertical",
+                "upward sloping",
+                "horizontal",
+                "downward sloping"
+            ],
+            "correct_answer": 4,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 16,
+            "questionText": "Identify which of the following statements is true.",
+            "options": [
+                "The flexible exchange rate system gives the government more flexibility to maintain large stocks of foreign exchange reserves.",
+                "In the managed floating exchange rate system, the government intervenes to buy and sell foreign currencies.",
+                "In the managed floating exchange rate system, the Central Bank intervenes to moderate exchange rate fluctuations.",
+                "In the fixed exchange rate system, market forces fix the exchange rate."
+            ],
+            "correct_answer": 3,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 17,
+            "questionText": "Identify which of the following statements is true.",
+            "options": [
+                "There is no difference between balance of trade and balance on current account of BoP.",
+                "Trade of invisible items is a part of capital account of BoP.",
+                "Official reserves account indicates reserves of forex with the RBI.",
+                "Decrease in demand for foreign currency leads to a rise in exchange rate."
+            ],
+            "correct_answer": 3,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 18,
+            "questionText": "Identify which of the following statement is true.",
+            "options": [
+                "Exchange rate under flexible regime do not get affected by exports or imports.",
+                "Reserve of foreign exchange is the part of current account of BoP.",
+                "A receipt of unilateral transfer from foreign nation is recorded on the debit side of Balance of Payment.",
+                "Fixed exchange rates are declared by the government."
+            ],
+            "correct_answer": 4,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 19,
+            "questionText": "An Indian real estate company receives rent from Google in New York. This transaction would be recorded on __________ side of __________ account.",
+            "options": [
+                "credit, current",
+                "debit, capital",
+                "credit, capital",
+                "debit, current"
+            ],
+            "correct_answer": 1,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 20,
+            "questionText": "The downward sloping demand curve for the foreign exchange reflects:",
+            "options": [
+                "direct relationship",
+                "exponential relationship",
+                "inverse relationship",
+                "indirect relationship"
+            ],
+            "correct_answer": 3,
+            "topic": "Open Economy Macroeconomics"
+        },
+        {
+            "questionNumber": 1,
+             "questionText": "Which of the following is not a part of macroeconomics?",
+            "options": [
+                "Demand analysis",
+                "Theory of investment",
+                "Theory of economic growth",
+                "Theory of income and employment"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 2,
+            "questionText": "Out of the following, which is not a macroeconomic variable?",
+            "options": [
+                "Pricing decision by Maruti Suzuki.",
+                "Fall in the price of oil.",
+                "Measurement of the general price level.",
+                "Production of food grains in India."
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 3,
+            "questionText": "The responsibility of collecting data and preparing estimates relating to India's National Income has been entrusted to the:",
+            "options": [
+                "NITI Ayog",
+                "National Information Centre (NIC)",
+                "Central Statistical Organisation (CSO)",
+                "Indian Statistical Organisation (ISO)"
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 4,
+            "questionText": "Macroeconomics deals with:",
+            "options": [
+                "Macroeconomic aggregates",
+                "Firm behaviour",
+                "Individuals",
+                "IT Industry"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 5,
+            "questionText": "Study of inflation is a part of:",
+            "options": [
+                "Microeconomics",
+                "Recession",
+                "Macroeconomics",
+                "Normative Economics"
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 6,
+            "questionText": "What is the main issue with the economics of a country?",
+            "options": [
+                "Consumption",
+                "Production",
+                "Scarcity",
+                "Distribution"
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 7,
+            "questionText": "Which of the following assists in measuring economic activity of a country?",
+            "options": [
+                "Income, expenditure and products approach",
+                "Income, expenditure and cost approach",
+                "Business, government and products approach",
+                "Public, private and consumers approach"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 8,
+            "questionText": "Who is given the credit of “Invisible Hand” in economics?",
+            "options": [
+                "Adam Smith",
+                "Samuelson",
+                "Amartya Sen",
+                "F.Hayek"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 9,
+            "questionText": "Founder of modern economics is:",
+            "options": [
+                "F.Hayek",
+                "Adam Smith",
+                "J.M. Keynes",
+                "Samuelson"
+            ],
+            "correct_answer": 2,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 10,
+            "questionText": "Macroeconomics is a contribution of which economist?",
+            "options": [
+                "J.M. Keynes",
+                "Adam Smith",
+                "F.M. Hayek",
+                "Samuelson"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 11,
+            "questionText": "Which one of the following options is an economic activity?",
+            "options": [
+                "Listening to music on the radio.",
+                "Teaching one's own son at home",
+                "Medical facilities rendered by a charitable dispensary.",
+                "A housewife doing household duties."
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 12,
+            "questionText": "Demand for intermediate consumption arises in",
+            "options": [
+                "Consumer households",
+                "Government enterprises only",
+                "Corporate enterprises only",
+                "all producing sectors of an economy."
+            ],
+            "correct_answer": 4,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 13,
+            "questionText": "Demand for final consumption arises in",
+            "options": [
+                "household sector only",
+                "government sector only",
+                "both household and government sectors",
+                "neither in households nor in government sector"
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 14,
+            "questionText": "Identify the item which is not a factor payment.",
+            "options": [
+                "Free uniforms to defence personnel",
+                "Salaries to the members of Parliament",
+                "Imputed rent of an owner occupied a building",
+                "Scholarships given to the students of scheduled caste"
+            ],
+            "correct_answer": 4,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 15,
+            "questionText": "In a closed economy, is not included.",
+            "options": [
+                "foreign sector",
+                "government",
+                "households",
+                "firms"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 16,
+            "questionText": "National Income includes:",
+            "options": [
+                "Old-age pension",
+                "Money sent by an NRI to his family",
+                "Transfer payment from rest of the world",
+                "None of the above"
+            ],
+            "correct_answer": 4,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 17,
+            "questionText": "Which of the following is not a transfer payment?",
+            "options": [
+                "Interest on national debt",
+                "Retirement pension",
+                "Old-age pension",
+                "Donations"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 18,
+            "questionText": "The economic variable which is measured at a given point of time is known as",
+            "options": [
+                "fixed inventory",
+                "flow variable",
+                "stock variable",
+                "none of the above"
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 19,
+            "questionText": "Which of the following is best suited as an example of a normal resident of India?",
+            "options": [
+                "US national working in WHO office in New Delhi",
+                "An Italian national working in IMF office in Mumbai",
+                "Ambassador of Zaire to India",
+                "Indian Representative to UN"
+            ],
+            "correct_answer": 4,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 20,
+            "questionText": "is the factor remuneration received by the households for providing their productive services to firms as workforce",
+            "options": [
+                "Rent",
+                "Wages",
+                "Interest",
+                "Profit"
+            ],
+            "correct_answer": 2,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 1,
+            "questionText": "In a two-sector economy, the condition of equilibrium is:",
+            "options": [
+                "I = S",
+                "1+G=S+T",
+                "I+G+X=S+T+M",
+                "C+1=1+ S"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 2,
+            "questionText": "Subsidy implies:",
+            "options": [
+                "selling the product to the government at higher prices.",
+                "selling the product below the cost of production.",
+                "selling the product at loss.",
+                "selling the product at cost plus indirect taxes"
+            ],
+            "correct_answer": 2,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 3,
+            "questionText": "Which of the following is added in GDP at MP to get National Income?",
+            "options": [
+                "Goods and Services tax",
+                "Excise duty",
+                "Subsidies",
+                "None of the above"
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 4,
+            "questionText": "Choose the correct pair of statements from the following given sets of statements in columns I and II.\nColumn I\n1. Capital goods\n2. Consumption goods\n3. Depreciation\n4. Capital goods\nColumn II\nA. Durable goods used in the production process\nB. Fall in the value of fixed capital goods\nC. Production process\nD. Consumption goods",
+            "options": [
+                "1 – A",
+                "2 – B",
+                "3 – C",
+                "4 – D"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 5,
+            "questionText": "Choose the correct pair of statements from the following given sets of statements in columns I and II.\nColumn I\n1. Normal resident\n2. Consumption goods\n3. Normal resident\n4. Net factor income\nColumn II\nA. Geographical area\nB. Administered by a government\nC. A person who lives in a country\nD. Income paid to a residen",
+            "options": [
+                "1 – A",
+                "2 – B",
+                "3 – C",
+                "4 – D"
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 6,
+            "questionText": "Value Added is the excess of ______ over that of intermediate goods.",
+            "options": [
+                "value of input",
+                "value of output",
+                "both (a) and (b)",
+                "none of these"
+            ],
+            "correct_answer": 2,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 7,
+            "questionText": "National Income and domestic income will be ______ in a closed economy where net factor income from abroad is zero.",
+            "options": [
+                "constant",
+                "equal",
+                "zero",
+                "none of these"
+            ],
+            "correct_answer": 2,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 8,
+            "questionText": "Transfer payments are ______ which are received without rendering any productive services.",
+            "options": [
+                "Unilateral payments",
+                "Bilateral payments",
+                "Trilateral payments",
+                "None of the above"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 9,
+            "questionText": "Depreciation means ______ in the value of fixed capital goods due to normal wear and tear or foreseen obsolescence.",
+            "options": [
+                "Increase",
+                "Decrease",
+                "Constant",
+                "None of these"
+            ],
+            "correct_answer": 2,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 10,
+            "questionText": "Which of the following correctly represents value at Market Price?",
+            "options": [
+                "Factor cost + Net indirect taxes",
+                "Factor cost - Net indirect taxes",
+                "Factor cost + Indirect taxes",
+                "Factor cost - Indirect taxes"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 11,
+            "questionText": "Stocks are defined at a ______ of time while flows are define over ______ of time.",
+            "options": [
+                "point, period",
+                "period, point",
+                "point, point",
+                "period, period"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 12,
+            "questionText": "Any activity which contributes to the GNP of a country is called:",
+            "options": [
+                "Primary activity",
+                "Production activity",
+                "Economic activity",
+                "Viable activity"
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 13,
+            "questionText": "Per capita National Income means:",
+            "options": [
+                "NNP/Population",
+                "Total capital population",
+                "Population NNP",
+                "None of the above"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 14,
+            "questionText": "From the following data, calculate subsidy.\nS.No. Particulars (₹ in crores)\n(i) NNPfc 26,000\n(ii) GNPmp 29,000\n(iii) Depreciation 3,000\n(iv) Net Factor Income From Abroad 6,500\n(v) Indirect Business Taxes (IBT) 1,500",
+            "options": [
+                "₹1000",
+                "₹500",
+                "₹1,500",
+                "None of these"
+            ],
+            "correct_answer": 3,
+            "topic": "National Income Accounting"
+        },
+        {
+            "questionNumber": 15,
+            "questionText": "Based on the given data, determine amount of subsidy.\nNNP at Fc = 26,000\nGNP at Mp = 45,000\nConsumption of fixed capital = 15,000\nIndirect Business Tax = 5,000",
+            "options": [
+                "₹1,000",
+                "₹1,500",
+                "₹500",
+                "₹100"
+            ],
+            "correct_answer": 1,
+            "topic": "National Income Accounting"
+        }
+    ]
+}

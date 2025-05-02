@@ -1,0 +1,758 @@
+{
+  "examTitle": "CUET (UG) 2024: Economics",
+  "sections": [
+    {
+      "sectionNumber": 1,
+      "testBookletCode": "A",
+      "instructions": "Read carefully the instructions provided in the beginning of the document.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "__________ depicts what has actually happened.",
+          "options": [
+            "Ex-Ante",
+            "Ex-Post",
+            "Constant",
+            "Variable"
+          ],
+          "correct_answer": 2,
+          "chapter": "Determination of Income and Employment"
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "If the value of Investment Multiplier is 5 and the increased income is ₹ 800 crore in an economy, then find the value of change in the investment in the economy.",
+          "options": [
+            "₹4000 crore",
+            "₹120 crore",
+            "₹400 crore",
+            "₹160 crore"
+          ],
+          "correct_answer": 4,
+          "chapter": "Determination of Income and Employment"
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Which of the following statements are true ?",
+          "statements": {
+            "A": "Quantitative tools control the extent of money supply by changing the CRR.",
+            "B": "There are two types of open market operations – outright and upright.",
+            "C": "A fall in the bank rate can decrease the money supply.",
+            "D": "Selling of a bond by RBI leads to reduction in quantity of reserves.",
+            "E": "The RBI can influence money supply by changing the rate at which it gives loan to the commercial banks."
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "options": [
+            "(A), (C) and (D) only",
+            "(A), (B) and (D) only",
+            "(B), (D) and (E) only",
+            "(A), (D) and (E) only"
+          ],
+          "correct_answer": 4,
+          "chapter": "Money and Banking"
+        },
+        {
+          "questionNumber": 4,
+          "questionText": "Paradox of Thrift means :",
+          "options": [
+            "If all the people of the economy increase the proportion of income they save, the total value of investment in the economy will not increase, it will either decline or remain unchanged.",
+            "If all the people of the economy increase the proportion of income they spend, the total value of savings in the economy will not increase, it will either decline or remain unchanged.",
+            "If all the people of the economy decrease the proportion of income they save, the total value of savings in the economy will not increase, it will either decline or remain unchanged.",
+            "If all the people of the economy increase the proportion of income they save, the total value of savings in the economy will not increase, it will either decline or remain unchanged."
+          ],
+          "correct_answer": 4,
+          "chapter": "Determination of Income and Employment"
+        },
+        {
+          "questionNumber": 5,
+          "questionText": "Match List-I with List-II :",
+          "listI": {
+            "A": "Bank Rate",
+            "B": "Marginal Standing Facility",
+            "C": "Repo Rate",
+            "D": "Reverse Repo Rate"
+          },
+          "listII": {
+            "I": "Securities are pledged in order to repurchase",
+            "II": "Minimum rate at which funds are provided for long term",
+            "III": "Also known as Penal Interest Rate",
+            "IV": "Central Bank borrows funds from commerical banks"
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+           "options": [
+            "(A) - (II), (B) - (III), (C) - (I), (D) - (IV)",
+            "(A) - (II), (B) - (III), (C) - (IV), (D) - (I)",
+            "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+            "(A) - (IV), (B) - (III), (C) - (II), (D) - (I)"
+           ],
+          "correct_answer": 2,
+          "chapter": "Money and Banking"
+        },
+        {
+          "questionNumber": 6,
+          "questionText": "Which of the following is not a function of Central Bank ?",
+          "options": [
+            "It controls the money supply in the economy through different rates.",
+            "It acts as a banker to the government.",
+            "It accepts deposits and give loans to people.",
+            "It issues the currency of the country."
+          ],
+          "correct_answer": 3,
+          "chapter": "Money and Banking"
+        },
+        {
+          "questionNumber": 7,
+          "questionText": "Article 112 deals with :",
+          "options": [
+            "Consolidated Fund of India",
+            "Public Account",
+            "Union Budget",
+            "Contingency Fund"
+          ],
+          "correct_answer": 3,
+          "chapter": "Government Budget and the Economy"
+        },
+        {
+          "questionNumber": 8,
+          "questionText": "All those elements which create liability and decrease the assets of government are known as :",
+          "options": [
+            "Capital Receipts",
+            "Capital Payments",
+            "Revenue Receipts",
+            "Revenue Payments"
+          ],
+          "correct_answer": 1,
+          "chapter": "Government Budget and the Economy"
+        },
+        {
+          "questionNumber": 9,
+          "questionText": "Arrange the following elements in correct chronological sequence (earliest to latest) :",
+          "elements": {
+            "A": "Smithsonian Agreement",
+            "B": "Bretton Woods Conference",
+            "C": "Establishment of WTO",
+            "D": "Gold Standard"
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "options": [
+            "(A), (B), (C), (D)",
+            "(D), (B), (A), (C)",
+            "(D), (A), (B), (C)",
+            "(C), (B), (D), (A)"
+          ],
+          "correct_answer": 2,
+          "chapter": "Open Economy Macroeconomics"
+        },
+        {
+          "questionNumber": 10,
+          "questionText": "Under flexible exchange rate, when the price of domestic currency in terms of foreign currency increases, it is called __________.",
+          "options": [
+            "Depreciation of domestic currency",
+            "Appreciation of domestic currency",
+            "Devaluation of domestic currency",
+            "Revaluation of domestic currency"
+          ],
+          "correct_answer": 2,
+          "chapter": "Open Economy Macroeconomics"
+        },
+        {
+          "questionNumber": 11,
+          "questionText": "Match List-I with List-II :",
+          "listI": {
+            "A": "Pegged exchange rate system",
+            "B": "Managed floating",
+            "C": "Bretton Woods Conference",
+            "D": "Third element in BOP"
+          },
+          "listII": {
+            "I": "Setting up of IMF and World Bank",
+            "II": "Fixed exchange rate system",
+            "III": "Dirty floating",
+            "IV": "Error and Omission Account"
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "options": [
+            "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+            "(A) - (II), (B) - (III), (C) - (I), (D) - (IV)",
+            "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)",
+            "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)"
+          ],
+          "correct_answer": 2,
+          "chapter": "Open Economy Macroeconomics"
+        },
+        {
+          "questionNumber": 12,
+          "questionText": "Casualization of workforce would result in :",
+          "options": [
+            "Decrease in the vulnerablility of the workforce.",
+            "Increase in the vulnerability of the workforce.",
+            "Increase in the number of regular workers.",
+            "Income and employment stablility."
+          ],
+          "correct_answer": 2,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 13,
+          "questionText": "Choose the correct chronological sequence in ascending order (earliest to latest) :",
+          "elements": {
+            "A": "Establishment of NABARD",
+            "B": "FRBMA (Fiscal Responsibility and Budget Management Act)",
+            "C": "Third Five Year Plan",
+            "D": "Nationalization of RBI"
+          },
+          "options": [
+            "(A), (B), (C), (D)",
+            "(A), (C), (B), (D)",
+            "(D), (A), (B), (C)",
+            "(D), (C), (A), (B)"
+          ],
+          "correct_answer": 4,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 14,
+          "questionText": "__________ implies that resource extraction is not above the rate of regeneration of resources and the wastes generated are within the assimilating capacity of the environment.",
+          "options": [
+            "Absorptive capacity",
+            "Carrying capacity",
+            "Subsistence capacity",
+            "Exhaustive capacity"
+          ],
+          "correct_answer": 2,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 15,
+          "questionText": "Government of India enacted the Right to Education Act in 2009 to make free education a Fundamental Right of all children in the age group of __________ years.",
+          "options": [
+            "4-10",
+            "6-12",
+            "6-14",
+            "8-15"
+          ],
+          "correct_answer": 3,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 16,
+          "questionText": "Following are the sources of electricity generation in India. Arrange them in correct sequence on the basis of total power generation capacity (higher to lower) :",
+          "elements": {
+            "A": "Nuclear",
+            "B": "Thermal",
+            "C": "New and renewable energy",
+            "D": "Hydro"
+          },
+          "options": [
+            "(A), (B), (C), (D)",
+            "(A), (C), (B), (D)",
+            "(B), (C), (D), (A)",
+            "(B), (D), (C), (A)"
+          ],
+          "correct_answer": 4,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 17,
+          "questionText": "Arrange the following items in correct sequence :",
+          "elements": {
+            "A": "Competition Act",
+            "B": "FEMA",
+            "C": "FERA",
+            "D": "MRTP"
+          },
+          "options": [
+            "(A), (B), (C), (D)",
+            "(A), (C), (B), (D)",
+            "(D), (C), (B), (A)",
+            "(C), (B), (D), (A)"
+          ],
+          "correct_answer": 3,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 18,
+          "questionText": "The Great Leap Forward (GLF) campaign was initiated in __________.",
+          "options": [
+            "1948",
+            "1938",
+            "1958",
+            "1942"
+          ],
+          "correct_answer": 3,
+          "chapter": "Indian Economic Development"
+        },
+         {
+          "questionNumber": 19,
+          "questionText": "Match List-I with List-II :",
+          "listI": {
+            "A": "Great Leap Forward",
+            "B": "Mao Zedong",
+            "C": "Brundtland Commission",
+            "D": "Our Common Future"
+          },
+          "listII": {
+            "I": "Protecting the future generation",
+            "II": "Aimed at industralising the country on a massive scale",
+            "III": "Introduced the Great Proletarian Cultural Revolution",
+            "IV": "Seminal Report that explained sustainable development as meeting the basic needs of all for a better life"
+          },
+          "options": [
+            "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+            "(A) - (II), (B) - (III), (C) - (I), (D) - (IV)",
+            "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)",
+            "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)"
+          ],
+          "correct_answer": 2,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 20,
+          "questionText": "Second phase of Green Revolution is termed from :",
+          "options": [
+            "mid 1960s to mid 1970s",
+            "mid 1970s to mid 1980s",
+            "mid 1950s to mid 1960s",
+            "mid 1980s to mid 1990s"
+          ],
+          "correct_answer": 2,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 21,
+          "questionText": "During 1980s, the growth rate in Pakistan improved on account of which of the following reasons ?",
+          "options": [
+            "Institutionalised process of technical change",
+            "A good harvest",
+            "Sustainable export of manufactured goods",
+            "High amount of foreign direct investment inflow"
+          ],
+          "correct_answer": 2,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 22,
+          "questionText": "When there is unexpected rise in the sales __________",
+          "options": [
+            "Aggregate demand would decline.",
+            "There will be unplanned accumulation of inventories.",
+            "There will be unplanned decumulation of inventories.",
+            "Normal profit would be lower."
+          ],
+          "correct_answer": 3,
+          "chapter": "Determination of Income and Employment"
+        },
+        {
+          "questionNumber": 23,
+          "questionText": "During festive season, the currency deposit ratio __________.",
+          "options": [
+            "decreases",
+            "increases",
+            "has no impact on it",
+            "first decreases then increases"
+          ],
+          "correct_answer": 2,
+          "chapter": "Money and Banking"
+        },
+        {
+          "questionNumber": 24,
+          "questionText": "European Monetary Union was created in __________.",
+          "options": [
+            "1996",
+            "1994",
+            "1999",
+            "2002"
+          ],
+          "correct_answer": 3,
+          "chapter": "Open Economy Macroeconomics"
+        },
+        {
+          "questionNumber": 25,
+          "questionText": "Identify the correct statement in the context of Circular Flow of Income in a two sector economy :",
+          "options": [
+            "Household receives factor services from firms.",
+            "Household invests while firm saves.",
+            "Firms produce goods and services.",
+            "Household supplies factor services to Government."
+          ],
+          "correct_answer": 3,
+          "chapter": "National Income Accounting"
+        },
+        {
+          "questionNumber": 26,
+          "questionText": "Identify the correct set of statements.",
+          "statements": {
+            "A": "Ex Ante Saving represents what is actually planned to save.",
+            "B": "Ex Post Saving represents what is actually planned to save.",
+            "C": "Ex Post Saving depicts what has actually happened.",
+            "D": "Ex Ante Post Saving represents what is actually saved."
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "options": [
+            "(A) and (D) only",
+            "(A) and (C) only",
+            "(B) and (D) only",
+            "(C) and (D) only"
+          ],
+          "correct_answer": 2,
+          "chapter": "Determination of Income and Employment"
+        },
+        {
+          "questionNumber": 27,
+          "questionText": "Match List-I with List-II :",
+          "listI": {
+            "A": "Annual Financial Statement",
+            "B": "Capital Receipts",
+            "C": "Capital Payment",
+            "D": "Export > Import"
+          },
+          "listII": {
+            "I": "Create liabilities or reduce financial assets",
+            "II": "Trade surplus",
+            "III": "Main budget document",
+            "IV": "Create financial assets or reduce liabilities"
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "options": [
+             "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+             "(A) - (III), (B) - (I), (C) - (IV), (D) - (II)",
+             "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)",
+             "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)"
+          ],
+          "correct_answer": 2,
+          "chapter": "Government Budget and the Economy"
+        },
+        {
+          "questionNumber": 28,
+          "passage_reference": "Passage starting with 'In many parts of India...'",
+          "questionText": "How is civic authority getting benefitted due to biocomposting ?",
+          "options": [
+            "They have to dispose increased quantity of waste.",
+            "They don't have to dispose any waste.",
+            "Because civic authority has no role in waste management.",
+            "They have to dispose reduced quantity of waste."
+          ],
+          "correct_answer": 4,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 29,
+          "passage_reference": "Passage starting with 'In many parts of India...'",
+          "questionText": "Choose the correct statement concerned with the passage :",
+          "options": [
+            "Earthworm takes equal time to convert organic matter into compost with respect to normal composting process.",
+            "Earthworm takes more time to convert organic matter into compost with respect to normal composting process.",
+            "Earthworm takes less time to convert organic matter into compost with respect to normal composting process.",
+            "Comparison between earthworm based composting and normal composting cannot be made."
+          ],
+          "correct_answer": 3,
+          "chapter": "Indian Economic Development"
+        },
+        {
+          "questionNumber": 30,
+          "passage_reference": "Passage starting with 'In many parts of India...'",
+          "questionText": "Water bodies including ground water system have suffered due to :",
+          "options": [
+            "Biocomposting",
+            "Chemical contamination and increased demand for irrigation",
+            "Organic farming",
+            "Increased fertility of land"
+          ],
+          "correct_answer": 2,
+          "chapter": "Indian Economic Development"
+        },
+            {
+          "questionNumber": 31,
+          "passage_reference": "Passage starting with 'In many parts of India...'",
+          "questionText": "In certain parts of the country, cattle are maintained only because they __________.",
+          "options": [
+            "Produce milk to increase income of farmers",
+            "Produce dung which is an important fertilizer and soil conditioner",
+            "Work as insect repellants",
+            "Are a symbol of traditional ethics and values"
+          ],
+          "correct_answer": 2,
+          "chapter": "Indian Economic Development"
+        },
+            {
+          "questionNumber": 32,
+          "passage_reference": "Passage starting with 'In many parts of India...'",
+          "questionText": "What should be the suitable title for the above passage?",
+          "options": [
+            "Biocomposting",
+            "Biopest Control",
+            "Traditional Knowledge and Practice",
+            "Uses of Chemical Fertilizers"
+          ],
+          "correct_answer": 1,
+          "chapter": "Indian Economic Development"
+        },
+                    {
+          "questionNumber": 33,
+          "passage_reference": "Passage starting with 'India's economy before the advent...'",
+          "questionText": "Before the British rule, India was well known for which manufacturing industries' products ?",
+          "options": [
+            "Cotton and Silk or Khadi textiles",
+            "Cotton and Engineering products",
+            "Cotton and Silk textiles, metal and precious stones, etc",
+            "Engineering goods and precious metals"
+          ],
+          "correct_answer": 3,
+          "chapter": "Indian Economic Development"
+        },
+                        {
+          "questionNumber": 34,
+          "passage_reference": "Passage starting with 'India's economy before the advent...'",
+          "questionText": "What kind of interests was the colonial government concerned with in the economic policy for Indian industries ?",
+          "options": [
+            "To promote the handicraft industries of India",
+            "Promote and protect small scale industries of India",
+            "Protect and promote the economic interests of Indian industry along with their home country",
+            "Provide protection and promotion of the economic interests of their home country"
+          ],
+          "correct_answer": 4,
+          "chapter": "Indian Economic Development"
+        },
+                                  {
+          "questionNumber": 35,
+          "passage_reference": "Passage starting with 'India's economy before the advent...'",
+          "questionText": "Choose the economists who estimated India's National Income and Per Capita Income.",
+          "options": [
+            "Dadabhai Naoroji, William Digby, Bernier, V.K.R.V. Rao and R.C. Desai",
+            "Dadabhai Naoroji, William Digby, Findlay Shirras, V.K.R.V. Rao and R.C. Desai",
+            "Dadabhai Naoroji, Jagdish Bhagwati, V.K.R.V. Rao and R.C. Desai",
+            "Dadabhai Naoroji, Findlay Shrirras and V.K.R.V. Rao"
+          ],
+          "correct_answer": 2,
+          "chapter": "Indian Economic Development"
+        },
+                                  {
+          "questionNumber": 36,
+          "passage_reference": "Passage starting with 'India's economy before the advent...'",
+          "questionText": "What was the country's growth of aggregate real output during the first half of the 20th century ?",
+          "options": [
+            "The country's growth of aggregate real output was less than two percent coupled with a meagre one percent growth in per capita output per year.",
+            "The country's growth of aggregate real output was less than two percent coupled with a meagre one and a half percent growth in per capita output per year.",
+            "The country's growth of aggregate real output was less than two and a half percent coupled with a meagre half percent growth in per capita output per year.",
+            "The country's growth of aggregate real output was less than two percent coupled with a meagre half percent growth in per capita output per year."
+          ],
+          "correct_answer": 4,
+          "chapter": "Indian Economic Development"
+        },
+        {
+           "questionNumber": 37,
+           "passage_reference": "Passage starting with 'India's economy before the advent...'",
+          "questionText": "According to the passage, which of the following statement was true about Indian industries' products ?",
+          "options": [
+            "Indian products were of inferior quality and cheap in the worldwide market.",
+            "Indian products were promoted by the colonial government and competed with other countries' markets also.",
+            "Indian products enjoyed a worldwide market based on quality of material used and the high standard of craftsmanship.",
+            "Indian products' raw material for primary goods was imported from the other countries and it helped to increase export."
+          ],
+          "correct_answer": 3,
+          "chapter": "Indian Economic Development"
+        },
+
+        {
+          "questionNumber": 38,
+          "questionText": " __________ is a market where economic agents can freely exchange their endowments with each other.",
+          "options": [
+            "Market economy",
+            "Centrally planned economy",
+            "Aggregate demand based economy",
+            "Aggregate supply based economy"
+          ],
+          "correct_answer": 1,
+          "chapter": "Introduction"
+        },
+        {
+          "questionNumber": 39,
+          "questionText": "Which of the following are correct statements ?",
+          "statements": {
+            "A": "Marginal Utility is the change in Total Utility due to consumption of one additional unit of commodity.",
+            "B": "Two Indifference Curves intersect each other.",
+            "C": "Marginal Utility becomes Zero at a level when Total Utility remains constant.",
+            "D": "Diminishing Marginal Rate of Substitution does not affect Indifference Curve.",
+            "E": "Indifference Curve slopes downwards from left to right."
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "options": [
+            "(A), (B) and (E) only",
+            "(A), (C) and (E) only",
+            "(A), (D) and (E) only",
+            "(B), (D) and (E) only"
+          ],
+          "correct_answer": 2,
+          "chapter": "Theory of Consumer Behaviour"
+        },
+        {
+          "questionNumber": 40,
+          "questionText": "Match List-I with List-II :",
+          "listI": {
+            "A": "Equilibrium",
+            "B": "Excess supply",
+            "C": "Inferior good",
+            "D": "Price ceiling"
+          },
+          "listII": {
+            "I": "Plans of all the consumers and firms in the market match",
+            "II": "Demand decreases with an increase in income",
+            "III": "Supply is greater than market demand",
+            "IV": "Imposition of upper limit by government"
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "options": [
+            "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
+            "(A) - (I), (B) - (III), (C) - (II), (D) - (IV)",
+            "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)",
+            "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)"
+          ],
+          "correct_answer": 2,
+          "chapter": "Market Equilibrium"
+        },
+        {
+          "questionNumber": 41,
+          "questionText": "When Elasticity of Demand Curve is 1 at every point on the Demand Curve, this curve is known as :",
+          "options": [
+            "Perfectly inelastic demand curve",
+            "Perfectly elastic demand curve",
+            "Rectangular Hyperbola",
+            "Greater than unitary demand curve"
+          ],
+          "correct_answer": 3,
+          "chapter": "Theory of Consumer Behaviour"
+        },
+        {
+          "questionNumber": 42,
+          "questionText": "According to the Theory of Consumer Behaviour, Inequality p₁x1 + p2x2 ≤ M is called the Consumer's __________",
+          "options": [
+            "Budget",
+            "Budget Set",
+            "Budget Constraint",
+            "Budget Behaviour"
+          ],
+          "correct_answer": 3,
+          "chapter": "Theory of Consumer Behaviour"
+        },
+        {
+          "questionNumber": 43,
+          "questionText": "Choose the correct statements from the following :",
+          "statements": {
+            "A": "Adam Smith is termed as Father of Modern Economics.",
+            "B": "J.M. Keynes gave the Theory of Income, Output and Employment.",
+            "C": "Four Sector Model = C + I + G + (X – M)",
+            "D": "Store of value is primary function of money."
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "options": [
+            "(A), (B) and (D) only",
+            "(A), (B) and (C) only",
+            "(A), (B), (C) and (D)",
+            "(B), (C) and (D) only"
+          ],
+          "correct_answer": 2,
+          "chapter": "Introduction"
+        },
+        {
+          "questionNumber": 44,
+          "questionText": "Rearrange the given statements in proper chronological sequence in an ascending order (earliest to latest) :",
+          "statements": {
+            "A": "General theory of Employment, Interest and Money by Keynes.",
+            "B": "Mahalanobis was made a fellow of Britain's Royal Society.",
+            "C": "An Inquiry into the Nature and Cause of the Wealth of Nations by Adam Smith.",
+            "D": "The Economic Consequences of the Peace by Keynes."
+          },
+          "instruction": "Choose the correct answer from the options given below :",
+          "options": [
+            "(C), (D), (A), (B)",
+            "(A), (B), (C), (D)",
+            "(A), (C), (B), (D)",
+            "(D), (A), (C), (B)"
+          ],
+          "correct_answer": 1,
+          "chapter": "Introduction"
+        },
+        {
+          "questionNumber": 45,
+          "questionText": "If there is no government and no foreign trade, then :",
+          "options": [
+            "G = T = M = X > 1",
+            "G = T = M = X = 1",
+            "G = T = M = X = 0",
+            "G = T = M = X < 1"
+          ],
+          "correct_answer": 3,
+          "chapter": "Determination of Income and Employment"
+        },
+                {
+          "questionNumber": 46,
+          "questionText": "The value of Nominal GDP is $ 1100 and the value of Real GDP is $ 1000. Find the value of GDP deflator.",
+          "options": [
+            "0.9",
+            "1.1",
+            "1",
+            "0.8"
+          ],
+          "correct_answer": 2,
+          "chapter": "National Income Accounting"
+        },
+                    {
+          "questionNumber": 47,
+          "questionText": "Identify the correct statements :",
+          "statements":{
+            "A": "Stocks are defined over a period of time.",
+            "B": "Flows are defined over a period of time.",
+            "C": "Flows are defined at a particular point of time.",
+            "D": "Stocks are defined at a particular point of time.",
+            "E": "GVA at factor costs + Indirect Taxes – Subsidies = GVA at market prices."
+          },
+          "options": [
+            "(A), (C) and (E) only",
+            "(B), (C) and (D) only",
+            "(B), (D) and (E) only",
+            "(C), (D) and (E) only"
+          ],
+          "correct_answer": 3,
+          "chapter": "National Income Accounting"
+        },
+
+        {
+           "questionNumber": 48,
+          "questionText": "If the supply of final goods is assumed to be infinitely elastic at constant price over a short period of time, Aggregate output is determined solely by the value of Aggregate demand. This is called __________ Principle.",
+          "options": [
+            "Aggregate supply",
+            "Aggregate demand",
+            "Effective demand",
+            "Perfectly inelastic demand"
+          ],
+          "correct_answer": 3,
+          "chapter": "Determination of Income and Employment"
+        },
+
+        {
+           "questionNumber": 49,
+          "questionText": "Nominal Interest Rate = __________",
+          "options": [
+            "Real Interest Rate × Inflation Rate",
+            "Real Interest Rate – Inflation rate",
+            "Real Interest Rate / Inflation rate",
+            "Real Interest Rate + Inflation rate"
+          ],
+          "correct_answer": 4,
+          "chapter": "Money and Banking"
+        },
+                {
+           "questionNumber": 50,
+          "questionText": "Value of MPS (Marginal Propensity to Save) is increased from 0.4 to 0.5. What would be the impact on Multiplier ?",
+          "options": [
+            "The size of the multiplier would be increased.",
+            "The size of the multiplier would remain same.",
+            "Value of multiplier is undetermined with the given information.",
+            "The size of the multiplier would be decreased."
+          ],
+          "correct_answer": 4,
+          "chapter": "Determination of Income and Employment"
+        }
+      ]
+    }
+  ]
+}

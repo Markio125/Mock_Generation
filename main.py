@@ -11,11 +11,12 @@ from agents.distribution_agent import DistributionAgent
 from agents.context_agent import ContextAgent
 from agents.question_agent import QuestionAgent
 from workflow.graph_builder import WorkflowBuilder
+from agents.case_q_agent import CaseQuestionAgent
 
 # Setup logger
 logger = setup_logger()
 
-def main(corpus_path: str, output_path: str, total_questions: int = 50):
+def main(corpus_path: str, output_path: str, subject, total_questions: int = 50):
     """Run the complete workflow"""
     # Initialize components
     openai.api_key = config.OPENAI_API_KEY
@@ -38,7 +39,10 @@ def main(corpus_path: str, output_path: str, total_questions: int = 50):
             corpus = []
         
         # Preprocess data
-        detected_topics = config.DEFAULT_TOPICS.keys()  #topic_extractor.extract_topics(corpus)
+        if subject == "business studies":
+            detected_topics = config.DEFAULT_TOPIC_BST.keys()  #topic_extractor.extract_topics(corpus)
+        else:
+            detected_topics = config.DEFAULT_TOPIC_ECO.keys()
         
         # Handle potential ChromaDB dimension issues
         try:
@@ -54,9 +58,9 @@ def main(corpus_path: str, output_path: str, total_questions: int = 50):
                 # Consider a more graceful degradation here
         
         # Initialize agents
-        distribution_agent = DistributionAgent(vector_store)  # Pass vector_store if needed
-        context_agent = ContextAgent(vector_store)
-        question_agent = QuestionAgent(token_tracker)
+        distribution_agent = DistributionAgent(subject, vector_store)  # Pass vector_store if needed
+        context_agent = ContextAgent(subject, vector_store)
+        question_agent = QuestionAgent(subject, token_tracker)
         
         # Create workflow
         workflow_builder = WorkflowBuilder(distribution_agent, context_agent, question_agent)
@@ -106,7 +110,19 @@ def main(corpus_path: str, output_path: str, total_questions: int = 50):
                 except Exception as gen_error:
                     logger.error(f"Error in fallback generation for {topic}: {gen_error}")
                     final_paper[topic] = [f"Example question about {topic}"]
-        
+
+        case_question_agent = CaseQuestionAgent(subject, token_tracker)
+        try:
+            logger.info("Generating case studies...")
+            case_studies = case_question_agent.generate_case_studies({"context": result.get("context", {})})
+
+            # Add case studies to the final paper
+            final_paper["case_studies"] = case_studies
+            logger.info(f"Added {len(case_studies)} case studies to the final paper")
+        except Exception as case_error:
+            logger.error(f"Error generating case studies: {case_error}")
+            final_paper["case_studies"] = []
+
         # Save output
         logger.info(f"Saving generated paper to {output_path}")
         logger.info(f"OpenAI Token Usage: {token_tracker.get_stats()}")
@@ -126,4 +142,5 @@ def main(corpus_path: str, output_path: str, total_questions: int = 50):
 if __name__ == "__main__":
     corpus_path = "processed_papers/1.json"
     output_path = "outputs/generated_paper.json"
-    main(corpus_path, output_path)
+    subject = ['business studies', 'economics']
+    main(corpus_path, output_path, subject[]) #put a value in the [] of subject depending on which sub is needed

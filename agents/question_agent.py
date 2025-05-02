@@ -12,8 +12,9 @@ import os
 logger = logging.getLogger(__name__)
 
 class QuestionAgent:
-    def __init__(self, token_tracker=None):
+    def __init__(self, subject, token_tracker=None):
         self.token_tracker = token_tracker or TokenTracker()
+        self.subject = subject
 
     def generate_questions(self, state: GraphState) -> Dict:
         """Generate questions for the current topic"""
@@ -31,8 +32,8 @@ class QuestionAgent:
         example_text = "\n\n".join(context['examples'][:3]) if context['examples'] else "No examples available"
         example = context["examples"][: (3 * target_count)] if context['examples'] else ["No Examples"] * (3 * target_count)
 
-        def n_chunking(name, n):
-            with open('knowledge_base/business_studies.json', "r", encoding="utf-8") as file:
+        def n_chunking(name, subject, n):
+            with open(f'knowledge_base/{subject}.json', "r", encoding="utf-8") as file:
                 data = json.load(file)
             for chapter in data["Chapter"]:
                 if chapter["Name"] == name:
@@ -41,7 +42,7 @@ class QuestionAgent:
                     NCERT_text = "\n\n".join([item["content"] for item in selected_texts])
                     return NCERT_text
             return None
-        NCERT_text = str(n_chunking(current_topic, target_count))
+        NCERT_text = str(n_chunking(current_topic, self.subject, target_count))
 
         prompt = f"""
         Generate Business Studies exam questions about the topic/subject asked for by the user, following CUET exam patterns.
