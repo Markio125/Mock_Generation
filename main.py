@@ -39,7 +39,7 @@ def main(corpus_path: str, output_path: str, subject, total_questions: int = 50)
             corpus = []
         
         # Preprocess data
-        if subject == "business studies":
+        if subject == "Business Studies":
             detected_topics = config.DEFAULT_TOPIC_BST.keys()  #topic_extractor.extract_topics(corpus)
         else:
             detected_topics = config.DEFAULT_TOPIC_ECO.keys()
@@ -142,5 +142,5 @@ def main(corpus_path: str, output_path: str, subject, total_questions: int = 50)
 if __name__ == "__main__":
     corpus_path = "processed_papers/1.json"
     output_path = "outputs/generated_paper.json"
-    subject = ['business studies', 'economics']
+    subject = ['Business Studies', 'Economics']
     main(corpus_path, output_path, subject[0]) #put a value in the [] of subject depending on which sub is needed

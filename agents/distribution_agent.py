@@ -17,7 +17,11 @@ class DistributionAgent:
         """
         self.vector_store = vector_store
         self.subject = subject
-        self.default_distribution_path = f"utils/{subject}_distribution.json"
+        if self.subject == 'Business Studies':
+            sub = 'business_studies'
+        else:
+            sub = 'economics'
+        self.default_distribution_path = f"utils/{sub}_distribution.json"
 
     @staticmethod
     def question_distribution_manual(file_path: str) -> Dict:

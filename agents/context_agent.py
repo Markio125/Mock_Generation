@@ -8,8 +8,8 @@ from data.vector_store import VectorStore
 logger = logging.getLogger(__name__)
 
 sub = {
-    'business_studies': 'bst',
-    'economics': 'eco'
+    'Business Studies': 'bst',
+    'Economics': 'eco'
 }
 
 class ContextAgent:
@@ -21,7 +21,7 @@ class ContextAgent:
         self.mock_path = os.path.join(os.getcwd(), mock_path)
         self.pyq_data = self._load_pyq_data()
         self.mock_data = self._load_mock_data()
-        if subject == 'business_studies':
+        if subject == 'Business Studies':
             self.dict = {
                             "Nature and Significance of Management": 4,
                             "Principles of Management": 4,
@@ -35,7 +35,7 @@ class ContextAgent:
                             "Marketing": 5,
                             "Consumer Protection": 3
                         }
-        elif subject == "economics":
+        elif subject == "Economics":
             self.dict = {
                           "Determination of Income and Employment": 8,
                           "Money and Banking": 5,
