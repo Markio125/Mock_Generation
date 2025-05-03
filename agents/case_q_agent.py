@@ -28,7 +28,7 @@ class CaseQuestionAgent:
         logger.info(f"Generating {self.case_studies_per_paper} case studies with {self.questions_per_case} questions each")
         
         # Select random topics from the detected topics for case studies
-        if self.subject == "business studies":
+        if self.subject == "Business Studies":
             available_topics = config.DEFAULT_TOPIC_BST.keys()
         else:
             available_topics = config.DEFAULT_TOPIC_ECO.keys()
@@ -58,7 +58,13 @@ class CaseQuestionAgent:
     def _get_topic_text(self, topic_name: str) -> str:
         """Retrieve text content for a specific topic"""
         try:
-            with open('../knowledge_base/business_studies.json', "r", encoding="utf-8") as file:
+
+            if self.subject == 'Business Studies':
+                file_ = '../knowledge_base/business_studies.json'
+            else:
+                file_ = '../knowledge_base/economics.json'
+
+            with open(file_, "r", encoding="utf-8") as file:
                 data = json.load(file)
                 
             for chapter in data["Chapter"]:
@@ -76,7 +82,13 @@ class CaseQuestionAgent:
     def _load_pyq_case_studies(self) -> List[Dict]:
         """Load case study examples from PYQ data"""
         try:
-            with open('../knowledge_base/pyq/pyqs/bst/CUET_bst_pyq_topicwise.json', 'r', encoding='utf-8') as file:
+
+            if self.subject == 'Business Studies':
+                file = '../knowledge_base/pyq/pyqs/bst/CUET_bst_pyq_topicwise.json'
+            else:
+                file = '../knowledge_base/pyq/pyqs/eco/CUET_eco_pyq_topicwise.json'
+
+            with open(file, 'r', encoding='utf-8') as file:
                 pyq_data = json.load(file)
             
             case_studies = []
@@ -224,7 +236,7 @@ if __name__ == "__main__":
     from agents.case_q_agent import CaseQuestionAgent
     # Create a dummy “GraphState‐like” object with only the expected key
     state = {"context": {}}
-    agent = CaseQuestionAgent()
+    agent = CaseQuestionAgent('Business Studies')
     case_studies = agent.generate_case_studies(state)
     import json
     print(json.dumps(case_studies, indent=2))

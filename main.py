@@ -143,4 +143,4 @@ if __name__ == "__main__":
     corpus_path = "processed_papers/1.json"
     output_path = "outputs/generated_paper.json"
     subject = ['business studies', 'economics']
-    main(corpus_path, output_path, subject[]) #put a value in the [] of subject depending on which sub is needed
+    main(corpus_path, output_path, subject[0]) #put a value in the [] of subject depending on which sub is needed
