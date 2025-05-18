@@ -26,16 +26,17 @@ class TopicExtractor:
         """
         
         try:
-            response = openai.chat.completions.create(
+            response = openai.ChatCompletion.create(
                 model=config.GPT_MODEL,
                 messages=[{"role": "user", "content": prompt}],
-                response_format={"type": "json_object"}
+                temperature=0.3
             )
             
             if self.token_tracker:
                 self.token_tracker.update(response)
                 
-            topics = json.loads(response.choices[0].message.content)["topics"]
+            response_text = response.choices[0].message.content
+            topics = json.loads(response_text)["topics"]
             logger.info(f"Extracted {len(topics)} topics: {topics}")
             return topics
         except Exception as e:

@@ -33,7 +33,10 @@ class QuestionAgent:
         example = context["examples"][: (3 * target_count)] if context['examples'] else ["No Examples"] * (3 * target_count)
 
         def n_chunking(name, subject, n):
-            with open(f'knowledge_base/{subject}.json', "r", encoding="utf-8") as file:
+            # Construct the file path using lowercase subject name
+            # Replace spaces with underscores to match file naming conventions
+            file_path = f'knowledge_base/{subject.lower().replace(" ", "_")}.json'
+            with open(file_path, "r", encoding="utf-8") as file:
                 data = json.load(file)
             for chapter in data["Chapter"]:
                 if chapter["Name"] == name:
@@ -44,49 +47,89 @@ class QuestionAgent:
             return None
         NCERT_text = str(n_chunking(current_topic, self.subject, target_count))
 
-        prompt = f"""
-        Generate Business Studies exam questions about the topic/subject asked for by the user, following CUET exam patterns.
-    
-        Guidelines:
-        1. Include a mix of question types:
-           - Multiple Choice Questions (40%)
-           - Match the following questions (20%)
-           - Arrange in correct order questions (20%)
-           - Statement-based questions (20%) (e.g., "Which statements are correct/incorrect about...")
+        # Determine appropriate prompt based on subject
+        if self.subject == "Maths-Core":
+            prompt = f"""
+            Generate {self.subject} exam questions about {current_topic} following CUET exam patterns.
         
-        2. Match the difficulty level of previous examples
+            Guidelines:
+            1. Include the following question types in the specified ratio:
+               - Multiple Choice Questions (60%) - Questions with 4 options where only one is correct
+               - Numerical Answer Type (20%) - Problems requiring calculation with a numerical answer
+               - Assertion-Reason Questions (20%) - Two statements where students evaluate their truth and relationship
+            
+            2. For EACH question:
+               - Use clear, concise mathematical language appropriate for CUET exam level
+               - For multiple choice, provide exactly FOUR answer options (A, B, C, D)
+               - Include the correct answer clearly marked
+               - Add a brief solution showing the mathematical approach
+            
+            3. Ensure NCERT textbook accuracy:
+               - Use standard mathematical notation and terminology
+               - Include a mix of concept-testing and calculation-based problems
+               - Questions should cover both theory and application
+               
+            4. Format each question as follows:
+               Question: [Clear mathematical question]
+               A. [Option A]
+               B. [Option B]
+               C. [Option C]
+               D. [Option D]
+               Answer: [Letter of correct option or numerical answer]
+               Solution: [Step-by-step mathematical solution]
+               
+            5. For numerical answer type questions:
+               - Provide a clear problem statement
+               - Show the complete step-by-step solution
+               - Include the final answer with appropriate units if applicable
+            """
+        else:
+            prompt = f"""
+            Generate {self.subject} exam questions about {current_topic} following CUET exam patterns.
         
-        3. For each question, provide:
-           - Clear question text
-           - Answer options 
-           - Correct answer
-           - Brief explanation justifying the answer
-           
-        4. Format consistently with the examples provided
-        
-        5. IMPORTANT: Use NCERT textbook language, terminology and phrasing exactly as it appears in the source text
-        
-        6. Questions and options MUST use the same vocabulary, definitions, and expressions found in NCERT materials
-        
-        7. Avoid introducing non-NCERT terms or alternative wording that doesn't match the textbook
-        
-        8. When referring to concepts, use the exact terminology from the NCERT text
-        
-        9. For "Match the following" questions:
-           - Create two columns with related items
-           - Provide options with different combinations of matches
-           - Clearly indicate the correct matching
-        
-        10. For "Arrange in order" questions:
-            - Focus on processes, steps, or sequences from the curriculum
-            - List items that need to be arranged in correct order
-            - Provide options with different possible sequences
-        
-        11. For statement-based questions:
-            - Include 3-4 statements about a concept
-            - Ask which statements are correct or incorrect
-            - Options should be combinations like "1 and 3 only", "All except 2", etc.
-        """
+            Guidelines:
+            1. Include the following question types in the specified ratio:
+               - Multiple Choice Questions (40%) - Questions with 4 options where only one is correct
+               - Match the following questions (20%) - Create two columns with related items to be matched
+               - Arrange in correct order questions (20%) - Items that need to be arranged in sequence
+               - Statement-based questions (20%) - Include 3-4 statements with options like "1 and 3 only"
+            
+            2. For EACH question:
+               - Use clear, concise language appropriate for CUET exam level
+               - Provide exactly FOUR answer options (A, B, C, D) 
+               - Include the correct answer clearly marked
+               - Add a brief explanation justifying the correct answer
+            
+            3. Ensure NCERT textbook accuracy:
+               - Use EXACTLY the same terminology, definitions, and phrasing as in NCERT materials
+               - Avoid introducing terminology not found in standard textbooks
+               - Questions should reflect standard NCERT concepts and principles
+               
+            4. Format each question as follows:
+               Question: [Clear question text]
+               A. [Option A]
+               B. [Option B]
+               C. [Option C]
+               D. [Option D]
+               Answer: [Letter of correct option]
+               Explanation: [Brief justification for the correct answer]
+               
+            5. For each question type, follow these specific guidelines:
+               
+               FOR MATCH THE FOLLOWING:
+               - Create two columns with 4-5 related items
+               - Options should be different combinations of matches
+               - Clearly indicate correct matching
+               
+               FOR ARRANGE IN ORDER:
+               - Choose processes, steps, or sequences from the curriculum
+               - Include 4-5 items to be arranged
+               - Provide options with different possible sequences
+               
+               FOR STATEMENT-BASED QUESTIONS:
+               - Include exactly 4 statements about a concept
+               - Options should be combinations like "1 and 3 only"
+            """
 
         # Convert example lists to strings with proper formatting
         example_str_1 = "\n\n".join(example[0:(target_count - 1)]) if isinstance(example[0], str) else "No examples available"
@@ -127,7 +170,7 @@ class QuestionAgent:
         ]
 
         try:
-            response = openai.chat.completions.create(
+            response = openai.ChatCompletion.create(
                 model=config.GPT_MODEL,
                 messages=messages,
                 temperature=0.7,

@@ -3,6 +3,8 @@ import logging
 import json
 import openai
 import config
+import time
+import sys
 from utils.logging_utils import setup_logger
 from utils.token_tracker import TokenTracker
 from data.vector_store import VectorStore
@@ -15,6 +17,17 @@ from agents.case_q_agent import CaseQuestionAgent
 
 # Setup logger
 logger = setup_logger()
+
+def print_progress(message, current, total=None):
+    """Display a progress message with optional progress bar"""
+    if total:
+        progress = int(30 * current / total)
+        bar = "█" * progress + "-" * (30 - progress)
+        percentage = int(100 * current / total)
+        sys.stdout.write(f"\r{message} [{bar}] {percentage}% ({current}/{total})")
+    else:
+        sys.stdout.write(f"\r{message}")
+    sys.stdout.flush()
 
 def main(corpus_path: str, output_path: str, subject, total_questions: int = 50):
     """Run the complete workflow"""
@@ -40,8 +53,10 @@ def main(corpus_path: str, output_path: str, subject, total_questions: int = 50)
         
         # Preprocess data
         if subject == "Business Studies":
-            detected_topics = config.DEFAULT_TOPIC_BST.keys()  #topic_extractor.extract_topics(corpus)
-        else:
+            detected_topics = config.DEFAULT_TOPIC_BST.keys()
+        elif subject == "Maths-Core":
+            detected_topics = config.DEFAULT_TOPIC_MATH.keys()
+        else:  # Economics
             detected_topics = config.DEFAULT_TOPIC_ECO.keys()
         
         # Handle potential ChromaDB dimension issues
@@ -93,10 +108,24 @@ def main(corpus_path: str, output_path: str, subject, total_questions: int = 50)
             
             logger.info("Using fallback question generation")
             # Fallback to direct question generation without the workflow
-            for topic in detected_topics:
+            for i, topic in enumerate(detected_topics):
+                print_progress(f"Generating fallback questions", i+1, len(detected_topics))
+                logger.info(f"Generating fallback questions for topic {i+1}/{len(detected_topics)}: {topic}")
                 try:
-                    prompt = f"Generate 5 Business Studies exam MCQ questions for the CUET exam about {topic}."
-                    response = openai.chat.completions.create(
+                    # Determine how many questions to generate based on distribution
+                    num_questions = 2  # Default to 2 questions per topic in fallback mode
+                    if subject == "Business Studies":
+                        if topic in config.DEFAULT_TOPIC_BST:
+                            num_questions = min(config.DEFAULT_TOPIC_BST[topic], 3)  # Cap at 3 for fallback
+                    elif subject == "Maths-Core":
+                        if topic in config.DEFAULT_TOPIC_MATH:
+                            num_questions = min(config.DEFAULT_TOPIC_MATH[topic], 3)  # Cap at 3 for fallback
+                    else:
+                        if topic in config.DEFAULT_TOPIC_ECO:
+                            num_questions = min(config.DEFAULT_TOPIC_ECO[topic], 3)  # Cap at 3 for fallback
+                    
+                    prompt = f"Generate {num_questions} {subject} exam MCQ questions for the CUET exam about {topic}. Format each question clearly with 4 options (A, B, C, D) and include the correct answer."
+                    response = openai.ChatCompletion.create(
                         model=config.GPT_MODEL,
                         messages=[{"role": "user", "content": prompt}],
                         temperature=0.7
@@ -106,10 +135,16 @@ def main(corpus_path: str, output_path: str, subject, total_questions: int = 50)
                     
                     generated = response.choices[0].message.content.split('\n\n')
                     final_paper[topic] = generated
+                    logger.info(f"Generated {len(generated)} fallback questions for {topic}")
 
                 except Exception as gen_error:
                     logger.error(f"Error in fallback generation for {topic}: {gen_error}")
                     final_paper[topic] = [f"Example question about {topic}"]
+            
+            # Clear the progress bar after completion
+            print_progress("", 0, 1)
+            sys.stdout.write("\r" + " " * 80 + "\r")  # Clear the line
+            sys.stdout.flush()
 
         case_question_agent = CaseQuestionAgent(subject, token_tracker)
         try:
@@ -141,6 +176,20 @@ def main(corpus_path: str, output_path: str, subject, total_questions: int = 50)
 
 if __name__ == "__main__":
     corpus_path = "processed_papers/1.json"
-    output_path = "outputs/generated_paper.json"
-    subject = ['Business Studies', 'Economics']
-    main(corpus_path, output_path, subject[0]) #put a value in the [] of subject depending on which sub is needed
+    subject = ['Business Studies', 'Economics', 'Maths-Core']
+    print("Select a subject:")
+    for index, subj in enumerate(subject, start=1):
+        print(f"{index}. {subj}")
+    
+    try:
+        subject_choice = int(input("Enter the number corresponding to your choice: "))
+        if 1 <= subject_choice <= len(subject):
+            selected_subject = subject[subject_choice - 1]
+        else:
+            raise ValueError("Invalid choice. Please enter a number from the list.")
+    except ValueError as ve:
+        logger.error(f"Invalid input: {ve}")
+        selected_subject = subject[0]  # Default to the first subject if input is invalid
+    output_path = f"outputs/generated_paper_{selected_subject.lower().replace(' ', '_')}.json"
+
+    main(corpus_path, output_path, selected_subject)

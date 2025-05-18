@@ -37,3 +37,13 @@ DEFAULT_TOPIC_ECO = {
   "Theory of Consumer Behaviour": 3,
   "Market Equilibrium": 1
 }
+
+DEFAULT_TOPIC_MATH = {
+  "Relations and Functions": 3,
+  "Algebra": 4,
+  "Calculus": 6,
+  "Vectors and Three-Dimensional Geometry": 3,
+  "Linear Programming": 2,
+  "Probability": 3,
+  "Differential Equations": 3
+}

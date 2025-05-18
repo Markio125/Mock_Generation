@@ -60,9 +60,9 @@ class CaseQuestionAgent:
         try:
 
             if self.subject == 'Business Studies':
-                file_ = '../knowledge_base/business_studies.json'
+                file_ = 'knowledge_base/business_studies.json'
             else:
-                file_ = '../knowledge_base/economics.json'
+                file_ = 'knowledge_base/economics.json'
 
             with open(file_, "r", encoding="utf-8") as file:
                 data = json.load(file)
@@ -84,9 +84,9 @@ class CaseQuestionAgent:
         try:
 
             if self.subject == 'Business Studies':
-                file = '../knowledge_base/pyq/pyqs/bst/CUET_bst_pyq_topicwise.json'
+                file = 'knowledge_base/pyq/pyqs/bst/CUET_bst_pyq_topicwise.json'
             else:
-                file = '../knowledge_base/pyq/pyqs/eco/CUET_eco_pyq_topicwise.json'
+                file = 'knowledge_base/pyq/pyqs/eco/CUET_eco_pyq_topicwise.json'
 
             with open(file, 'r', encoding='utf-8') as file:
                 pyq_data = json.load(file)
@@ -194,7 +194,7 @@ class CaseQuestionAgent:
         """})
         
         try:
-            response = openai.chat.completions.create(
+            response = openai.ChatCompletion.create(
                 model=config.GPT_MODEL,
                 messages=messages,
                 temperature=0.7,
@@ -234,7 +234,7 @@ class CaseQuestionAgent:
 if __name__ == "__main__":
     # Quick test for CaseQuestionAgent
     from agents.case_q_agent import CaseQuestionAgent
-    # Create a dummy “GraphState‐like” object with only the expected key
+    # Create a dummy "GraphState-like" object with only the expected key
     state = {"context": {}}
     agent = CaseQuestionAgent('Business Studies')
     case_studies = agent.generate_case_studies(state)

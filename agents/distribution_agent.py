@@ -19,6 +19,8 @@ class DistributionAgent:
         self.subject = subject
         if self.subject == 'Business Studies':
             sub = 'business_studies'
+        elif self.subject == 'Maths-Core':
+            sub = 'mathematics'
         else:
             sub = 'economics'
         self.default_distribution_path = f"utils/{sub}_distribution.json"

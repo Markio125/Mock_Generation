@@ -1,7 +1,6 @@
 # utils/.py
 # =====================
 import logging
-from openai.types.chat import ChatCompletion
 
 logger = logging.getLogger(__name__)
 
