@@ -48,7 +48,7 @@ class QuestionAgent:
         NCERT_text = str(n_chunking(current_topic, self.subject, target_count))
 
         # Determine appropriate prompt based on subject
-        if self.subject == "Maths-Core":
+        if self.subject == "Maths-Core" or self.subject == "Maths-Applied":
             prompt = f"""
             Generate {self.subject} exam questions about {current_topic} following CUET exam patterns.
         
@@ -82,6 +82,96 @@ class QuestionAgent:
                - Provide a clear problem statement
                - Show the complete step-by-step solution
                - Include the final answer with appropriate units if applicable
+            """
+        elif self.subject == "General Aptitude":
+            prompt = f"""
+            Generate {self.subject} exam questions about {current_topic} following CUET exam patterns.
+        
+            Guidelines:
+            1. Include the following question types in the specified ratio:
+               - Multiple Choice Questions (50%) - Questions with 4 options where only one is correct
+               - Logical Reasoning Questions (30%) - Problems that test reasoning abilities 
+               - Data Interpretation Questions (20%) - Questions based on data sets like tables, graphs, etc.
+            
+            2. For EACH question:
+               - Use clear, concise language appropriate for aptitude testing
+               - For multiple choice, provide exactly FOUR answer options (A, B, C, D)
+               - Include the correct answer clearly marked
+               - Add a brief explanation of the solution approach
+            
+            3. Ensure aptitude testing standards:
+               - Questions should be challenging but solvable within 2-3 minutes
+               - Include a mix of easy, medium, and difficult questions
+               - Ensure questions are unambiguous with only one correct answer
+               
+            4. Format each question as follows:
+               Question: [Clear aptitude question]
+               A. [Option A]
+               B. [Option B]
+               C. [Option C]
+               D. [Option D]
+               Answer: [Letter of correct option]
+               Solution: [Explanation of the correct approach]
+            """
+        elif self.subject == "English":
+            prompt = f"""
+            Generate {self.subject} exam questions about {current_topic} following CUET exam patterns.
+        
+            Guidelines:
+            1. Include the following question types in the specified ratio:
+               - Reading Comprehension (35%) - Brief passages followed by questions
+               - Vocabulary and Grammar MCQs (35%) - Multiple choice questions on language use
+               - Writing Skills (30%) - Questions that test writing ability through paragraph completion, error identification, etc.
+            
+            2. For EACH question:
+               - Use clear, standard English appropriate for university entrance tests
+               - For multiple choice, provide exactly FOUR answer options (A, B, C, D)
+               - Include the correct answer clearly marked
+               - Add a brief explanation for why the answer is correct
+            
+            3. Ensure English language standards:
+               - Use contextually rich examples that test genuine language comprehension
+               - Include questions on both functional and literary language use
+               - For reading comprehension, include diverse text types (expository, narrative, argumentative)
+               
+            4. Format each question as follows:
+               Question: [Clear English language question]
+               A. [Option A]
+               B. [Option B]
+               C. [Option C]
+               D. [Option D]
+               Answer: [Letter of correct option]
+               Explanation: [Brief justification for the correct answer]
+            """
+        elif self.subject == "Accountancy":
+            prompt = f"""
+            Generate {self.subject} exam questions about {current_topic} following CUET exam patterns.
+        
+            Guidelines:
+            1. Include the following question types in the specified ratio:
+               - Conceptual MCQs (30%) - Questions testing accounting concepts
+               - Numerical/Problem Solving (40%) - Questions requiring calculations
+               - Application Based Questions (30%) - Questions applying accounting principles to situations
+            
+            2. For EACH question:
+               - Use clear accounting terminology and standard formats
+               - For multiple choice, provide exactly FOUR answer options (A, B, C, D)
+               - Include the correct answer clearly marked
+               - Add a brief explanation or calculation showing the solution
+            
+            3. Ensure accounting standards:
+               - Questions should follow current accounting principles and standards
+               - Include a mix of theoretical and practical questions
+               - Ensure numerical questions have clear steps and working
+               
+            4. Format each question as follows:
+               Question: [Clear accounting question]
+               A. [Option A]
+               B. [Option B]
+               C. [Option C]
+               D. [Option D]
+               Answer: [Letter of correct option]
+               Solution: [Step-by-step solution or explanation]
             """
         else:
             prompt = f"""

@@ -56,6 +56,14 @@ def main(corpus_path: str, output_path: str, subject, total_questions: int = 50)
             detected_topics = config.DEFAULT_TOPIC_BST.keys()
         elif subject == "Maths-Core":
             detected_topics = config.DEFAULT_TOPIC_MATH.keys()
+        elif subject == "Maths-Applied":
+            detected_topics = config.DEFAULT_TOPIC_MAPP.keys()
+        elif subject == "General Aptitude":
+            detected_topics = config.DEFAULT_TOPIC_GENAP.keys()
+        elif subject == "English":
+            detected_topics = config.DEFAULT_TOPIC_ENG.keys()
+        elif subject == "Accountancy":
+            detected_topics = config.DEFAULT_TOPIC_ACCT.keys()
         else:  # Economics
             detected_topics = config.DEFAULT_TOPIC_ECO.keys()
         
@@ -120,6 +128,18 @@ def main(corpus_path: str, output_path: str, subject, total_questions: int = 50)
                     elif subject == "Maths-Core":
                         if topic in config.DEFAULT_TOPIC_MATH:
                             num_questions = min(config.DEFAULT_TOPIC_MATH[topic], 3)  # Cap at 3 for fallback
+                    elif subject == "Maths-Applied":
+                        if topic in config.DEFAULT_TOPIC_MAPP:
+                            num_questions = min(config.DEFAULT_TOPIC_MAPP[topic], 3)  # Cap at 3 for fallback
+                    elif subject == "General Aptitude":
+                        if topic in config.DEFAULT_TOPIC_GENAP:
+                            num_questions = min(config.DEFAULT_TOPIC_GENAP[topic], 3)  # Cap at 3 for fallback
+                    elif subject == "English":
+                        if topic in config.DEFAULT_TOPIC_ENG:
+                            num_questions = min(config.DEFAULT_TOPIC_ENG[topic], 3)  # Cap at 3 for fallback
+                    elif subject == "Accountancy":
+                        if topic in config.DEFAULT_TOPIC_ACCT:
+                            num_questions = min(config.DEFAULT_TOPIC_ACCT[topic], 3)  # Cap at 3 for fallback
                     else:
                         if topic in config.DEFAULT_TOPIC_ECO:
                             num_questions = min(config.DEFAULT_TOPIC_ECO[topic], 3)  # Cap at 3 for fallback
@@ -176,7 +196,7 @@ def main(corpus_path: str, output_path: str, subject, total_questions: int = 50)
 
 if __name__ == "__main__":
     corpus_path = "processed_papers/1.json"
-    subject = ['Business Studies', 'Economics', 'Maths-Core']
+    subject = ['Business Studies', 'Economics', 'Maths-Core', 'Maths-Applied', 'General Aptitude', 'English', 'Accountancy']
     print("Select a subject:")
     for index, subj in enumerate(subject, start=1):
         print(f"{index}. {subj}")

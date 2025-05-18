@@ -10,7 +10,11 @@ logger = logging.getLogger(__name__)
 sub = {
     'Business Studies': 'bst',
     'Economics': 'eco',
-    'Maths-Core': 'math'
+    'Maths-Core': 'math',
+    'Maths-Applied': 'mapp',
+    'General Aptitude': 'genap',
+    'English': 'eng',
+    'Accountancy': 'acct'
 }
 
 class ContextAgent:
@@ -57,6 +61,51 @@ class ContextAgent:
                           "Linear Programming": 2,
                           "Probability": 3,
                           "Differential Equations": 3
+                        }
+        elif subject == "Maths-Applied":
+            self.dict = {
+                          "Matrices and Determinants": 5,
+                          "Complex Numbers": 3,
+                          "Analytical Geometry": 5,
+                          "Differential Calculus": 7,
+                          "Integral Calculus": 6,
+                          "Differential Equations": 4,
+                          "Statistics and Probability": 5,
+                          "Mathematical Modeling": 3
+                        }
+        elif subject == "General Aptitude":
+            self.dict = {
+                          "Verbal Ability": 6,
+                          "Logical Reasoning": 8,
+                          "Quantitative Aptitude": 7,
+                          "Data Interpretation": 7,
+                          "General Knowledge": 6,
+                          "Analytical Reasoning": 6,
+                          "Decision Making": 5,
+                          "Computer Literacy": 5
+                        }
+        elif subject == "English":
+            self.dict = {
+                          "Reading Comprehension": 8,
+                          "Grammar and Usage": 7,
+                          "Vocabulary and Word Usage": 6,
+                          "Writing Skills": 8,
+                          "Literature and Literary Devices": 6,
+                          "Critical Analysis": 5,
+                          "Communication Skills": 5,
+                          "Academic Writing": 5
+                        }
+        elif subject == "Accountancy":
+            self.dict = {
+                          "Financial Statements Analysis": 7,
+                          "Corporate Accounting": 8,
+                          "Partnership Accounts": 6,
+                          "Accounting for Not-for-Profit Organizations": 5,
+                          "Cash Flow Statements": 6,
+                          "Computerized Accounting": 4,
+                          "Accounting Standards": 4,
+                          "Cost Accounting": 5,
+                          "Taxation Principles": 5
                         }
         
     def _load_pyq_data(self) -> Dict:

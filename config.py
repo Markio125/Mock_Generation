@@ -47,3 +47,48 @@ DEFAULT_TOPIC_MATH = {
   "Probability": 3,
   "Differential Equations": 3
 }
+
+DEFAULT_TOPIC_MAPP = {
+  "Matrices and Determinants": 5,
+  "Complex Numbers": 3,
+  "Analytical Geometry": 5,
+  "Differential Calculus": 7,
+  "Integral Calculus": 6,
+  "Differential Equations": 4,
+  "Statistics and Probability": 5,
+  "Mathematical Modeling": 3
+}
+
+DEFAULT_TOPIC_GENAP = {
+  "Verbal Ability": 6,
+  "Logical Reasoning": 8,
+  "Quantitative Aptitude": 7,
+  "Data Interpretation": 7,
+  "General Knowledge": 6,
+  "Analytical Reasoning": 6,
+  "Decision Making": 5,
+  "Computer Literacy": 5
+}
+
+DEFAULT_TOPIC_ENG = {
+  "Reading Comprehension": 8,
+  "Grammar and Usage": 7,
+  "Vocabulary and Word Usage": 6,
+  "Writing Skills": 8,
+  "Literature and Literary Devices": 6,
+  "Critical Analysis": 5,
+  "Communication Skills": 5,
+  "Academic Writing": 5
+}
+
+DEFAULT_TOPIC_ACCT = {
+  "Financial Statements Analysis": 7,
+  "Corporate Accounting": 8,
+  "Partnership Accounts": 6,
+  "Accounting for Not-for-Profit Organizations": 5,
+  "Cash Flow Statements": 6,
+  "Computerized Accounting": 4,
+  "Accounting Standards": 4,
+  "Cost Accounting": 5,
+  "Taxation Principles": 5
+}

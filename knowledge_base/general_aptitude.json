@@ -1,0 +1,76 @@
+{
+    "Chapter": [
+        {
+            "Name": "Verbal Ability",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Verbal Ability chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Logical Reasoning",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Logical Reasoning chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Quantitative Aptitude",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Quantitative Aptitude chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Data Interpretation",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Data Interpretation chapter."
+                }
+            ]
+        },
+        {
+            "Name": "General Knowledge",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for General Knowledge chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Analytical Reasoning",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Analytical Reasoning chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Decision Making",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Decision Making chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Computer Literacy",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Computer Literacy chapter."
+                }
+            ]
+        }
+    ]
+} 

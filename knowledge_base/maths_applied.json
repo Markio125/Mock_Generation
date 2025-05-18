@@ -1,0 +1,76 @@
+{
+    "Chapter": [
+        {
+            "Name": "Matrices and Determinants",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Matrices and Determinants chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Complex Numbers",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Complex Numbers chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Analytical Geometry",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Analytical Geometry chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Differential Calculus",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Differential Calculus chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Integral Calculus",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Integral Calculus chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Differential Equations",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Differential Equations chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Statistics and Probability",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Statistics and Probability chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Mathematical Modeling",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Mathematical Modeling chapter."
+                }
+            ]
+        }
+    ]
+} 

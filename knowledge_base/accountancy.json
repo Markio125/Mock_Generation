@@ -1,0 +1,85 @@
+{
+    "Chapter": [
+        {
+            "Name": "Financial Statements Analysis",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Financial Statements Analysis chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Corporate Accounting",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Corporate Accounting chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Partnership Accounts",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Partnership Accounts chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Accounting for Not-for-Profit Organizations",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Accounting for Not-for-Profit Organizations chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Cash Flow Statements",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Cash Flow Statements chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Computerized Accounting",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Computerized Accounting chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Accounting Standards",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Accounting Standards chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Cost Accounting",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Cost Accounting chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Taxation Principles",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Taxation Principles chapter."
+                }
+            ]
+        }
+    ]
+} 

@@ -1,0 +1,76 @@
+{
+    "Chapter": [
+        {
+            "Name": "Reading Comprehension",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Reading Comprehension chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Grammar and Usage",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Grammar and Usage chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Vocabulary and Word Usage",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Vocabulary and Word Usage chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Writing Skills",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Writing Skills chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Literature and Literary Devices",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Literature and Literary Devices chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Critical Analysis",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Critical Analysis chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Communication Skills",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Communication Skills chapter."
+                }
+            ]
+        },
+        {
+            "Name": "Academic Writing",
+            "text": [
+                {
+                    "index": 0,
+                    "content": "This is placeholder content for Academic Writing chapter."
+                }
+            ]
+        }
+    ]
+} 
